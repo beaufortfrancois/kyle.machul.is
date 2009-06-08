@@ -1,0 +1,19 @@
+---
+layout: blog
+---
+{% for post in site.categories.blog limit:5 %}
+<div class="PostContent">
+  <IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarlong.png'>
+  <div class="PostTitle">
+    <h3><A HREF='{{post.url}}'>{{post.title}}</A></h3>
+  </div>
+  <div class="PostInfo">
+    <CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarshort.png'></CENTER>
+    <div class="PostDate"><a href="">{{post.date}}</a></div>
+  </div>
+  <div class="PostBody">
+    {{post.content}}
+  </div>
+</div>
+{% endfor %}
+
