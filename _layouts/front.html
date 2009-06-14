@@ -9,7 +9,14 @@ layout: blog
   </div>
   <div class="PostInfo">
     <CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarshort.png'></CENTER>
-    <div class="PostDate"><a href="">{{post.date}}</a></div>
+    <div class="AlignedText">
+      <div class="AlignLeft">
+	<a href="{{post.url}}">{{post.date  | date: "%H:%m:%S %Y-%m-%d"}}</a>
+      </div>
+      <div class="AlignRight">
+	<a href="{{post.url}}#disqus_thread">View Comments</a>
+      </div>
+    </div>
   </div>
   <div class="PostBody">
     {{post.content}}
