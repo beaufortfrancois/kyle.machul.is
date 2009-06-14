@@ -4,7 +4,7 @@ date: 2005-12-20 15:19:43 -08:00
 mt_id: 506
 layout: post
 ---
-<CENTER><A HREF='http://2006.sxsw.com/interactive/'><IMG SRC='http://images.nonpolynomial.com/common/conf/sxsw2006.gif' BORDER=0></A></CENTER></p>
+<CENTER><A HREF='http://2006.sxsw.com/interactive/'><IMG SRC='http://images.nonpolynomial.com/common/conf/sxsw2006.gif' border="0" /></A></CENTER></p>
 
 I'll be speaking at South by Southwest Interactive, on the "Secret Sex Lives of Video Games" Panel on Tuesday, March 14th.
 

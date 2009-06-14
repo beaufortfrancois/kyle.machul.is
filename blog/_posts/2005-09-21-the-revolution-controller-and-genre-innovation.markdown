@@ -4,7 +4,7 @@ date: 2005-09-21 11:57:58 -07:00
 mt_id: 373
 layout: post
 ---
-<div style='float:right;width:70;height:70;padding:5px;'><A HREF='http://lostgarden.com/2005/09/nintendos-genre-innovation-strategy.html'><IMG SRC='http://images.nonpolynomial.com/slashdong.org/blog/ninrev.jpg' border=0></A></div>
+<div style='float:right;width:70;height:70;padding:5px;'><A HREF='http://lostgarden.com/2005/09/nintendos-genre-innovation-strategy.html'><IMG SRC='http://images.nonpolynomial.com/slashdong.org/blog/ninrev.jpg' border="0" /></A></div>
 
 <A HREF='http://lostgarden.com/2005/09/nintendos-genre-innovation-strategy.html'>The Revolution Controller and Genre Innovation</A>
 

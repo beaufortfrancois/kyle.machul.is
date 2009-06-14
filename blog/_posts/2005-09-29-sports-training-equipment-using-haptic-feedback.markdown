@@ -4,7 +4,7 @@ date: 2005-09-29 18:16:50 -07:00
 mt_id: 378
 layout: post
 ---
-<div style='float:right;width:70;height:70;padding:5px;'><A HREF='http://www.newscientist.com/article.ns?id=mg18825196.000&feedId=online-news_rss20'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/sporthaptic.jpg' border=0></A></div>
+<div style='float:right;width:70;height:70;padding:5px;'><A HREF='http://www.newscientist.com/article.ns?id=mg18825196.000&feedId=online-news_rss20'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/sporthaptic.jpg' border="0" /></A></div>
 
 <A HREF='http://www.newscientist.com/article.ns?id=mg18825196.000&feedId=online-news_rss20'>Sports training equipment using haptic feedback</A>
 

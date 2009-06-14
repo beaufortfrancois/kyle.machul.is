@@ -4,7 +4,7 @@ date: 2005-10-03 11:39:41 -07:00
 mt_id: 383
 layout: post
 ---
-<div style='float:right;width:70;height:70;padding:5px;'><A HREF='http://www.nonpolynomial.com/content/2005/09/lifecycle.php'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/lifecycle.jpg' border=0></A></div>
+<div style='float:right;width:70;height:70;padding:5px;'><A HREF='http://www.nonpolynomial.com/content/2005/09/lifecycle.php'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/lifecycle.jpg' border="0" /></A></div>
 
 <A HREF='http://www.nonpolynomial.com/content/2005/09/lifecycle.php'>LifeCycle: First Life Locomotion in Second Life</A>
 

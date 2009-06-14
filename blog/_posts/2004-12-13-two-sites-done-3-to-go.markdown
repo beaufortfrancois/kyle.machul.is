@@ -12,7 +12,7 @@ Table Tennis Robot - These usually cost around $2000 for one of decent quality. 
 
 Assisted Living Tank - We've got a bunch of electric auto-stablizing wheelchairs (or, well, tread-chairs, as they actually run on large treads) sitting around the office. I'm planning on replacing the internal electronics (all of which are currently circa 1988, meaning 4 huge circuit boards will be replaces with one small chip. :) ), and then doing things that one would do if they had their own personal tank base. Like dressing up as the first level boss from SmashTV for Halloween! (picture below for those of you not familiar with the game)
 
-<IMG SRC='http://www.deathbots.com/images/blog/smashtv.jpg'>
+<IMG SRC='http://www.deathbots.com/images/blog/smashtv.jpg' />
 
 Robosapien Hacking - I can't believe no one has turned their Robosapien in to a Gir yet! It's the perfect Gir platform! So I'm doing it, along with turning it into a Domokun, and putting other cute outfits on it. There's also this whole thing about making it into a walking robotics platform with the xport board blahblahblah who cares <B>CUTENESS</B>!
 

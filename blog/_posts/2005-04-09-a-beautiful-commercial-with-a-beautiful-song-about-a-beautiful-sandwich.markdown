@@ -20,4 +20,4 @@ there's a king that wants you to have it your way,
 that's the <A HREF='http://www.unc.edu/~brianz/tendercrispbaconcheddarranch.html'>tender crisp bacon cheddar ranch</A>.
 
 
-<FONT SIZE=+3><BLINK><MARQUEE>Cooooome aaaaand get it!</MARQUEE></BLINK></FONT>
+<FONT SIZE="+3"><BLINK><MARQUEE>Cooooome aaaaand get it!</MARQUEE></BLINK></FONT>

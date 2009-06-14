@@ -8,4 +8,4 @@ layout: post
 
 Though ever since Malbolge was cracked, the world just isn't the same.
 
-Now, if you'll excuse me, I'm gonna go play some <A HREF='http://catseye.mine.nu:8080/projects/turkeyb/doc/turkeyb.html'>Turkey Bomb</a>. (God, I totally forgot about turkey bomb. Next party at <lj user=lo5an>'s, we're playing, motherfuckers.)
+Now, if you'll excuse me, I'm gonna go play some <A HREF='http://catseye.mine.nu:8080/projects/turkeyb/doc/turkeyb.html'>Turkey Bomb</A>.

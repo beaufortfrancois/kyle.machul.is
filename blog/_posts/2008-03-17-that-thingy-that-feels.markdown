@@ -8,7 +8,7 @@ Having just finished up my <A HREF='http://libnifalcon.sourceforge.net'>libnifal
 
 I also decided to post some observations I had about their packaging. Reposting here to get people's opinions, since I know more than a few designers (both game and print/web) read this blog:
 
-<HR>
+<HR />
 
 First off, the packaging in question:
 <CENTER><a href="http://www.flickr.com/photos/qdot76367/2342792096/" title="Novint Falcon Packaging by qdot76367, on Flickr"><img src="http://farm3.static.flickr.com/2148/2342792096_3bd54159cc_m.jpg" width="180" height="240" alt="Novint Falcon Packaging" /></a></CENTER>
@@ -20,7 +20,7 @@ First off, the packaging in question:
 <CENTER><a href="http://www.flickr.com/photos/qdot76367/2341964071/" title="Novint Falcon Packaging by qdot76367, on Flickr"><img src="http://farm3.static.flickr.com/2132/2341964071_4544e2965d_m.jpg" width="180" height="240" alt="Novint Falcon Packaging" /></a>
 </CENTER>
 
-<HR>
+<HR />
 
 So I was picking up some Falcons at a local CompUSA closing sale ($49!), and while giggling to myself that I was getting falcons for cheap (now I have 3!), a random person asked me what these large boxes I was carrying across the store awkwardly were.
 

@@ -14,6 +14,6 @@ I also upgraded <A HREF='http://www.movabletype.org'>MovableType</A>, and added 
 
 Finally, I put a <A HREF='http://www.numberporn.com/gallery'>photo gallery</A> up, containing pictures from my trip to Chicago (which I already posted about), as well as pictures of a younger, horribly less fashion concious me. And, most importantly, pictures of kittens. LOTS of kittens.
 
-This week, I bought <A HREF='http://www.nonpolynomial.com'>nonpolynomial.com</a>, since it's kinda hard to do public releases of projects under the numberporn name (though that hasn't stopped me as of yet :) ). I picked up iahacking.com too, which I'll be moving <A HREF='http://www.ia1hacking.com'>ia1hacking.com</A> over to when I get to that. 
+This week, I bought <A HREF='http://www.nonpolynomial.com'>nonpolynomial.com</A>, since it's kinda hard to do public releases of projects under the numberporn name (though that hasn't stopped me as of yet :) ). I picked up iahacking.com too, which I'll be moving <A HREF='http://www.ia1hacking.com'>ia1hacking.com</A> over to when I get to that. 
 
 On to finishing <A HREF='http://www.deathbots.com'>Deathbots</A>, which doesn't have much left to do on it.

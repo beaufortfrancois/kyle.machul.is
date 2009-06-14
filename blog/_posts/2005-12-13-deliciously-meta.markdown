@@ -8,11 +8,11 @@ I've been in an on again, off again relationship with Second Life lately. I go i
 
 I was headed to Dwellget today, just 'cause it's a nifty shop and cute build...
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/numberporn.com/blog/dwellget.jpg'></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/numberporn.com/blog/dwellget.jpg' /></CENTER>
 
 I was perusing the aisles when I saw..
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/numberporn.com/blog/bliss.jpg'></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/numberporn.com/blog/bliss.jpg' /></CENTER>
 
 Now, for anyone who doesn't get this reference, GO HERE WATCH NOW
 

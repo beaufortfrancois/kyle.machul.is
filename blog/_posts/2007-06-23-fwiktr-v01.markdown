@@ -31,7 +31,7 @@ So, for all intents and purposes, Fwiktr is nothing but superglue right now. The
 
 Now, I'm not the first person to do a twitter/flickr ma... mas... Ok, I can't bring myself to say that word. I'm not the first person to do a twitter/flickr combination before, there's some other neat ones out there:
 
-<UL><LI><A HREF='http://www.901am.com/2007/mashing-mashups-every-twitterer-tells-a-story-dont-they.html'>Twitter+Flickr via Yahoo Pipes</LI><LI><A HREF='http://incident.net/works/flussgeist/waiting/flash/index.html'>Flussgeist 1 - Waiting</A> - Twitter and Flickr and Video thru Flash. Warning: Will give you a nasty case of the ADDs</LI><LI><A HREF='http://windowsvistablog.com/blogs/windowsexperience/archive/2007/05/01/wpf-screensaver-flittrbook-from-mix07.aspx'>WPF Screensaver</A> - If you run Vista...</LI></UL>
+<UL><LI><A HREF='http://www.901am.com/2007/mashing-mashups-every-twitterer-tells-a-story-dont-they.html'>Twitter+Flickr via Yahoo Pipes</A></LI><LI><A HREF='http://incident.net/works/flussgeist/waiting/flash/index.html'>Flussgeist 1 - Waiting</A> - Twitter and Flickr and Video thru Flash. Warning: Will give you a nasty case of the ADDs</LI><LI><A HREF='http://windowsvistablog.com/blogs/windowsexperience/archive/2007/05/01/wpf-screensaver-flittrbook-from-mix07.aspx'>WPF Screensaver</A> - If you run Vista...</LI></UL>
 
 <B>What's Happened So Far</B>
 
@@ -45,7 +45,7 @@ The first message:
 
 The first URL gave me this image:
 
-<A HREF='http://farm2.static.flickr.com/1110/594318483_1c8fd484c2.jpg'><IMG SRC='http://farm2.static.flickr.com/1110/594318483_1c8fd484c2.jpg' border=0></A>
+<A HREF='http://farm2.static.flickr.com/1110/594318483_1c8fd484c2.jpg'><IMG SRC='http://farm2.static.flickr.com/1110/594318483_1c8fd484c2.jpg' border="0" /></A>
 
 Oh yeah, this was gonna be good.
 
@@ -55,7 +55,7 @@ Second message:
 
 Image?
 
-<A HREF='http://farm2.static.flickr.com/1259/594386622_48f11538a0.jpg'><IMG SRC='http://farm2.static.flickr.com/1259/594386622_48f11538a0.jpg' border=0></A>
+<A HREF='http://farm2.static.flickr.com/1259/594386622_48f11538a0.jpg'><IMG SRC='http://farm2.static.flickr.com/1259/594386622_48f11538a0.jpg' border="0" /></A>
 
 Ok, so, 2 for 2, but there was still the human element there, with me having to cut and paste the URLs. If Fwiktr was gonna work right, it would have to decide for itself which picture went with the message. So, it chooses a number between 1 and min(number of pictures returned, 100) and uses that image.
 
@@ -65,7 +65,7 @@ First automated message:
 
 First automated image:
 
-<A HREF='http://farm2.static.flickr.com/1250/592326463_dab506a4f2.jpg'><IMG SRC='http://farm2.static.flickr.com/1250/592326463_dab506a4f2.jpg' border=0'></A>
+<A HREF='http://farm2.static.flickr.com/1250/592326463_dab506a4f2.jpg'><IMG SRC='http://farm2.static.flickr.com/1250/592326463_dab506a4f2.jpg' border="0" /></A>
 
 I now firmly believe that God is communicating with me through Fwiktr.
 

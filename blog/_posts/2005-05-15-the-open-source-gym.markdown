@@ -6,7 +6,7 @@ layout: post
 ---
 <A HREF='http://www.deathbots.com/boards/viewforum.php?f=19'>The Open Source Gym Project</A>
 
-<div style='float:right;width:70;height:70;padding:5px;'><A HREF='http://www.deathbots.com/boards/viewforum.php?f=19'><IMG SRC='http://www.deathbots.com/images/blog/deathbots.com-images-projects-nibbles-tv2.jpg' border=0></A></div>
+<div style='float:right;width:70;height:70;padding:5px;'><A HREF='http://www.deathbots.com/boards/viewforum.php?f=19'><IMG SRC='http://www.deathbots.com/images/blog/deathbots.com-images-projects-nibbles-tv2.jpg' border="0" /></A></div>
 
 So it's not exactly about robots, yet, but I don't want to start yet another domain for just one project, so it's on here.
 

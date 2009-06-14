@@ -4,7 +4,7 @@ date: 2005-10-26 13:01:12 -07:00
 mt_id: 411
 layout: post
 ---
-<div style='float:right;width:70;height:70;padding:5px;'><A HREF='http://www.gameconference.com'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/agc.jpg' border=0></A></div>
+<div style='float:right;width:70;height:70;padding:5px;'><A HREF='http://www.gameconference.com'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/agc.jpg' border="0" /></A></div>
 
 This is the way the conference begins.
 This is the way the conference begins.

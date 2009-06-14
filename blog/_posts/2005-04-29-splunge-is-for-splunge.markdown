@@ -4,7 +4,7 @@ date: 2005-04-29 15:17:14 -07:00
 mt_id: 951
 layout: post
 ---
-<CENTER><A HREF='http://www.numberporn.com/images/blog/splunge.jpg'><IMG SRC='http://www.numberporn.com/images/blog/splungesmall.jpg' BORDER=0></A></CENTER>
+<CENTER><A HREF='http://www.numberporn.com/images/blog/splunge.jpg'><IMG SRC='http://www.numberporn.com/images/blog/splungesmall.jpg' border="0" /></A></CENTER>
 
 I got bored last night, and decided that I *really* needed a SPLUNGE IS FOR SPLUNGE wallpaper. So, here it is. 
 

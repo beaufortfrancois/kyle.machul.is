@@ -4,7 +4,7 @@ date: 2005-11-01 22:09:32 -08:00
 mt_id: 424
 layout: post
 ---
-<div style='float:right;width:70;height:70;padding:5px;'><A HREF='http://www.gameconference.com'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/agc.jpg' border=0></A></div>
+<div style='float:right;width:70;height:70;padding:5px;'><A HREF='http://www.gameconference.com'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/agc.jpg' border="0" /></A></div>
 
 Here we are, 4 days after the end of the <A HREF='http://www.gameconference.com'>Austin Games Conference</A>. 4 days after the conference I swore I would live blog, swore that I would record every experience in that deft, witty format that only I could. 
 

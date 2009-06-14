@@ -4,7 +4,7 @@ date: 2008-04-09 23:17:25 -07:00
 mt_id: 1178
 layout: post
 ---
-<CENTER><A HREF='http://loc.leatherleadership.org/llc12/index.html'><IMG SRC='http://loc.leatherleadership.org/llc12/images/LLC_medal_250h.jpg' border=0></A></CENTER>
+<CENTER><A HREF='http://loc.leatherleadership.org/llc12/index.html'><IMG SRC='http://loc.leatherleadership.org/llc12/images/LLC_medal_250h.jpg' border="0" /></A></CENTER>
 
 Yup, it took all of a month for my "no new speaking until I have something new to say" thing to fall apart. But, well, this is different! Really! Somehow. :)
 

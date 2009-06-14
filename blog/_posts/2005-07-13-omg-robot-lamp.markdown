@@ -6,7 +6,7 @@ layout: post
 ---
 Ok, I already bought mine, so now I can tell other people.
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/numberporn.com/blog/robotlamp.jpg'></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/numberporn.com/blog/robotlamp.jpg' /></CENTER>
 
 <A HREF='http://www.lowes.com/lowes/lkn?action=productDetail&productId=24700-79995-HL1261&category=15&lpage=none&bc=c'>ROBOT LAMP</A>! (If this link doesn't take you there, go to <A HREF='http://www.lowes.com'>lowes.com</A> and search for Robot Lamp)
 

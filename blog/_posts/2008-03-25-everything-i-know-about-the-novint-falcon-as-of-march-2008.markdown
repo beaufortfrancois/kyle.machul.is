@@ -26,7 +26,7 @@ If you don't understand what it is yet, well, I can't help you anymore. But enjo
 
 Before we dig into the guts, let's start with what you can find out before you take the case off the thing. For reference, here's a picture of the Falcon:
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/falcon/falcon.jpg'></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/falcon/falcon.jpg' /></CENTER>
 
 A bit of background (this will contain much glossing as I'd like to focus on the falcon, but it's good to have a knowledge of what's out there otherwise). In the world of haptics, there are two major types of controllers. Serial (pen type controllers), and parallel. <A HREF='http://www.bracina.com/haptichardware.html'>An overview of a bunch of the different hardware types is available in an article on bracina.com</A>. 
 
@@ -34,7 +34,7 @@ The NovInt Falcon is a <A HREF='http://www.parallemics.org'>parallel robot</A>. 
 
 If you watch a lot of How It Works (which, if you have cable with the Discovery Channel, you invariably end up doing no matter what. That show is video heroin.), you've seen these before. 
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/falcon/parallel1.jpg'></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/falcon/parallel1.jpg' /></CENTER>
 
 They're real popular in pick and place operations. That's exactly what it sounds like. Pick something up, put it somewhere else. Repeat ad inifinitum. Puttin' things in or on other things. They're good at that. 
 
@@ -44,7 +44,7 @@ Here's one in action.
 
 So, you're probably like "But it's all pointing down"
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/falcon/parallel2.jpg'></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/falcon/parallel2.jpg' /></CENTER>
 
 Ok, look more familiar now? The NovInt Falcon is a parallel robot <i>turned on its side</i>. It's actually a Delta variant of the parallel manipulator (<A HREF='http://www.eurohaptics.vision.ee.ethz.ch/2001/grange.pdf'>Here's a nice overview of the Delta Haptic Device, which is quite similar to the Falcon/Omega setup</A>). If you want all sorts of interesting history about where it came from, <A HREF='http://www.parallemic.org/Reviews/Review002.html'>check out this article on parallemics.org</A>. But for now, we'll just say: France. It came from France.
 
@@ -52,7 +52,7 @@ There's lots of reasons why using parallel robots in haptics is important. Howev
 
 To show a bit of what else is out there, here's the <A HREF='http://www.forcedimension.com/'>ForceDimension and their Omega series of controllers</A>.
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/falcon/omega3_2.jpg'></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/falcon/omega3_2.jpg' /></CENTER>
 
 Once again, looks familiar, no?
 
