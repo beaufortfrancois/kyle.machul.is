@@ -1,0 +1,25 @@
+--- 
+title: Fwiktr v0.1.1
+date: 2007-06-28 00:49:04 -07:00
+mt_id: 1106
+layout: post
+---
+So I've added a DB backend to <A HREF='http://www.nonpolynomial.com/archives/2007/06/fwiktr_v01.php'>fwiktr</A>, and gave it the ability to reload automatically so you can sit there and stare.
+
+<A HREF='http://www.30helensagree.com/fwiktr/fwiktr_view.php'>Here it is</A>
+
+Trying to clean things up a little more so I can easily plug more post and picture sources, then back to the fun stuff ('cause I'd completely forgotten how much I hate PHP programming).
+
+Some favorites so far:
+
+<A HREF='http://30helensagree.com/fwiktr/fwiktr_view.php?art_refresh=0&art_index=28'>freakin underwear keeps riding up ugh</A>
+
+<A HREF='http://www.30helensagree.com/fwiktr/fwiktr_view.php?art_refresh=0&art_index=3399'>LaTeX isn't cooperating. I know for a fact that my document is well-formed TeX.</A>
+
+<A HREF='http://30helensagree.com/fwiktr/fwiktr_view.php?art_index=48'>At KABUTO-CHO .</A>
+
+<A HREF='http://30helensagree.com/fwiktr/fwiktr_view.php?art_index=60'>resisting sleep for no good reason.</A>
+
+<A HREF='http://30helensagree.com/fwiktr/fwiktr_view.php?art_index=71'>I was a math teacher, and my counting is impeccable. http://sciencehack.com/videos/view/HJPKrcnXRRc</A> - <A HREF='http://sciencehack.com/videos/view/HJPKrcnXRRc'>Wow, and I found this neat video from this one</A>
+
+<A HREF='http://30helensagree.com/fwiktr/fwiktr_view.php?art_index=74'>Back to the Java Forums</A> 

@@ -1,0 +1,15 @@
+--- 
+title: Bring it
+date: 2005-06-02 20:32:19 -07:00
+mt_id: 978
+layout: post
+---
+Fuck, you'd think I'd learn after college not to wait until the last night before the big test to do my homework, but here I am at 8pm the night before one of the largest publications any of my work has ever been involved in, and I'm scrambling for new content.
+
+Tomorrow, I'm going to be in Wired. Well, wired.com, not the actual print version, but still, it's fucking Wired. The same publication I've been reading since I was 13. <A HREF='http://www.wired.com/news/storylist/0,2339,1306,00.html'>Regina Lynn</A> is doing an article on <A HREF='http://www.slashdong.org'>slashdong</A> and my projects on teledildonics and open source. It's a full two page thing on just me. I'm nervous as shit, for multiple reasons. The site gets a decent amount of hits right now due to the initial SexBox blog rounds, but still, this is big media, and it's got my name (well, qDot, but that's damn easy to trace back), all over it. People that were probably not aware of this site will now be aware of it. Let's hope I still have a job and parents who love me no matter what I do after tomorrow, heh. 
+
+Let's also hope I have a sponsor (dildoes are expensive!) and some god damn help too. Anyone wanna help make/write about sex toys? Funny enough, it's very easy to forget your writing about sex when working on slashdong. Since I am for engineering over porn, I get really freaked out when talking to someone who's like "So, you cyber using one of your toys yet?". I completely forget what the end use of this stuff is.
+
+Anyways, here I am, frantically writing a tutorial on how vibrators work, how teledildonics work, and a basic framework for a decentralized, secure teledildonics network. I've got 4 hours to finish and get to bed before a really fucking busy day moving shit at work tomorrow.
+
+It's gonna be an interesting day, that's for goddamn sure.
