@@ -17,18 +17,38 @@ layout: default
 	      <div class="sidebarSub">
 		<h2>Contact</h2>
 		<p>Contact kyle by email at kyle at nonpolynomial dot com</p>
+		<CENTER>
+		  <div class="sidebarIcons">
+		    <div class="sidebarIcon">
+		      <A HREF='http://www.facebook.com/kyle.machulis'><IMG SRC='http://images.nonpolynomial.com/common/icons/FaceBook-16x16.png' border="0"/></A>
+		    </div>
+		    <div class="sidebarIcon">
+		      <A HREF='http://www.linkedin.com/in/kylemachulis'><IMG SRC='http://images.nonpolynomial.com/common/icons/LinkedIn-16x16.png' border="0"/></A>
+		    </div>
+		    <div class="sidebarIcon">
+		      <A HREF='http://www.twitter.com/qdot'><IMG SRC='http://images.nonpolynomial.com/common/icons/Twitter-16x16.png' border="0"/></A>
+		    </div>
+		    <div class="sidebarIcon">
+		      <A HREF='http://www.flickr.com/photos/qdot76367/'><IMG SRC='http://images.nonpolynomial.com/common/icons/Flickr-16x16.png' border="0"/></A>
+		    </div>
+		  </div>
+		  <A HREF='http://www.youtube.com/user/qdot76367'><IMG SRC='http://images.nonpolynomial.com/common/icons/Youtube-16x16.png' border="0"/></A>
+		</CENTER>
 	      </div>
 	      <div class="sidebarSub">
 		<h2>Recent Entries</h2>
 		<ul>
-		  <LI>Recent Entry</LI>
+		  {% for post in site.posts limit:10 %}
+		  <LI><A HREF='{{post.url}}'>{{post.title}}</A></LI>		  
+		  {% endfor %}
 		</ul>
 	      </div>
 	      <div class="sidebarSub">
-		<h2>Archives</h2>	      
-		<ul>
-		  <LI>Archives</LI>
-		</ul>
-	      </div>		
+		<h2>Projects</h2>
+		<p>Code hosted at <A HREF='http://www.github.com'>Github</A></p>
+		<CENTER>
+		  <A HREF='http://www.github.com/qdot/'><IMG SRC='http://images.nonpolynomial.com/common/icons/Github-100x100.png' border="0"/></A>
+		</CENTER>
+	      </div>
 	    </div>
 	  </div>

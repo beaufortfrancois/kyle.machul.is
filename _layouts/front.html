@@ -1,7 +1,7 @@
 ---
 layout: blog
 ---
-{% for post in site.categories.blog limit:5 %}
+{% for post in paginator.posts %}
 <div class="PostContent">
   <IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarlong.png'>
   <div class="PostTitle">
@@ -23,4 +23,24 @@ layout: blog
   </div>
 </div>
 {% endfor %}
-
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarlong.png'></CENTER>
+<div class="PostNav">
+  <div class="PostPrevious">
+    {% if paginator.next_page %}
+    &lt;&lt; <a href="/page{{ paginator.next_page}}">Older Posts</a>
+    {% endif %}
+  </div>
+  <div class="PostNext">
+    {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <a href="/">Newer Posts</a> &gt;&gt;
+    {% else %}
+    <a href="/page{{ paginator.previous_page }}">Newer Posts</a> &gt;&gt;
+    {% endif %}
+    {% endif %}
+  </div>
+</div>
+<div class="NPFooter">
+  <CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarlong.png' /></CENTER>
+  <CENTER>Copyright 2009 Kyle Machulis/Nonpolynomial Labs</CENTER>
+</div>

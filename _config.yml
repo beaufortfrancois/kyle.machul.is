@@ -1,4 +1,5 @@
-markdown:    maruku
-permalink:   date
+markdown: maruku
+permalink: pretty
+paginate: 5	    
 maruku:
   use_divs:   true
