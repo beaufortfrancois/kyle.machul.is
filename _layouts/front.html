@@ -3,12 +3,12 @@ layout: blog
 ---
 {% for post in paginator.posts %}
 <div class="PostContent">
-  <IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarlong.png'>
+  <CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarlong.png' /></CENTER>
   <div class="PostTitle">
     <h3><A HREF='{{post.url}}'>{{post.title}}</A></h3>
   </div>
   <div class="PostInfo">
-    <CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarshort.png'></CENTER>
+    <CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarshort.png' /></CENTER>
     <div class="AlignedText">
       <div class="AlignLeft">
 	<a href="{{post.url}}">{{post.date  | date: "%H:%m:%S %Y-%m-%d"}}</a>
@@ -23,7 +23,7 @@ layout: blog
   </div>
 </div>
 {% endfor %}
-<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarlong.png'></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarlong.png' /></CENTER>
 <div class="PostNav">
   <div class="PostPrevious">
     {% if paginator.next_page %}
