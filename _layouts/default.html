@@ -45,7 +45,6 @@
 
       .PostInfo {
       margin:0px auto;
-      width:470px;
       clear:both;
       font-size:7pt;
       height:15px;
@@ -56,7 +55,6 @@
       font-family:  Georgia, Times, serif;
       
       margin:0px auto;
-      width:470px;
       }
 
       .PostBody h3 {
@@ -116,7 +114,6 @@
       } 
 
       .PostNav {
-      width:470px;
       margin:0px auto;
       }
 
@@ -129,23 +126,18 @@
       }
 
       #container {
-      width:750px;
+      width:600px;
       line-height: 140%;
       margin-right: auto;
       margin-left: auto;
       text-align: left;
-      padding: 0px;
-      
+      padding: 0px;     
       background-color: #FFFFFF;
-      border: 1px solid #FFFFFF;
       }
 
 
       #center {
       float: left;
-      width: 490px;
-      
-      
       overflow: hidden;
       }
 
@@ -356,7 +348,50 @@
 	  <A HREF='http://www.nonpolynomial.com/about/'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npabout.png' border=0></A>
 	  <A HREF='http://www.nonpolynomial.com/portfolio/'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npprojects.png' border=0></A>
 	  <A HREF='http://www.nonpolynomial.com/'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/nphome.png' border=0></A>
-	  <IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npfade.png' border="0" />
+	  <IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npfadesmall.png' border="0" />
+	    <div class="sidebar">
+	      <div class="sidebarSub">
+		<h2>Syndication</h2>
+		<CENTER><a title="Atom" href="http://www.nonpolynomial.com/atom.xml"><IMG SRC='http://images.nonpolynomial.com/common/syndicate/atom.gif' style='border:0'></a></CENTER>
+	      </div>
+	      <div class="sidebarSub">
+		<h2>Contact</h2>
+		<p>Contact kyle by email at kyle at nonpolynomial dot com</p>
+		<CENTER>
+		  <div class="sidebarIcons">
+		    <div class="sidebarIcon">
+		      <A HREF='http://www.facebook.com/kyle.machulis'><IMG SRC='http://images.nonpolynomial.com/common/icons/FaceBook-16x16.png' border="0"/></A>
+		    </div>
+		    <div class="sidebarIcon">
+		      <A HREF='http://www.linkedin.com/in/kylemachulis'><IMG SRC='http://images.nonpolynomial.com/common/icons/LinkedIn-16x16.png' border="0"/></A>
+		    </div>
+		    <div class="sidebarIcon">
+		      <A HREF='http://www.twitter.com/qdot'><IMG SRC='http://images.nonpolynomial.com/common/icons/Twitter-16x16.png' border="0"/></A>
+		    </div>
+		    <div class="sidebarIcon">
+		      <A HREF='http://www.flickr.com/photos/qdot76367/'><IMG SRC='http://images.nonpolynomial.com/common/icons/Flickr-16x16.png' border="0"/></A>
+		    </div>
+		  </div>
+		  <A HREF='http://www.youtube.com/user/qdot76367'><IMG SRC='http://images.nonpolynomial.com/common/icons/Youtube-16x16.png' border="0"/></A>
+		</CENTER>
+	      </div>
+	      <div class="sidebarSub">
+		<h2>Recent Entries</h2>
+		<ul>
+		  {% for post in site.posts limit:10 %}
+		  <LI><A HREF='{{post.url}}'>{{post.title}}</A></LI>		  
+		  {% endfor %}
+		</ul>
+	      </div>
+	      <div class="sidebarSub">
+		<h2>Projects</h2>
+		<p>Code hosted at <A HREF='http://www.github.com'>Github</A></p>
+		<CENTER>
+		  <A HREF='http://www.github.com/qdot/'><IMG SRC='http://images.nonpolynomial.com/common/icons/Github-100x100.png' border="0"/></A>
+		</CENTER>
+	      </div>
+	    </div>
+
 	</div>	   
 	<div class="NPPageContent">	 
 	  {{content}}
