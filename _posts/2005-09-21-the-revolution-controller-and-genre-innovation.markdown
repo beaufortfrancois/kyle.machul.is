@@ -1,0 +1,15 @@
+--- 
+title: The Revolution Controller and Genre Innovation
+date: 2005-09-21 11:57:58 -07:00
+mt_id: 373
+layout: post
+---
+[![][1]][2]
+
+[The Revolution Controller and Genre Innovation][2]
+
+I was ready to make a nice, long winded post on why I think Nintendo's new Revolution controller is going to changing gaming forever, bring peace to the world, end hunger, and give everyone a puppy. However, this post on Lost Garden does it a lot better than I ever could (and is a little more even handed, too). 
+
+   [1]: http://images.nonpolynomial.com/slashdong.org/blog/ninrev.jpg
+   [2]: http://lostgarden.com/2005/09/nintendos-genre-innovation-strategy.html
+

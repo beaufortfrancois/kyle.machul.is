@@ -1,0 +1,56 @@
+--- 
+title: Fwiktr v0.2
+date: 2007-07-09 01:17:15 -07:00
+mt_id: 1109
+layout: post
+---
+[Fwiktr 0.2.0 is up and running][1]
+
+The goal of [Fwiktr v0.1][1] was to simply get a picture from flickr based on a twitter message. That goal achieved, it was time to make the interface more extensible.
+
+I've now broken fwiktr into performing certain core functions (called services), and then providing a way to edit the input and output of those functions (called transforms). For those of you who are thinking "hey, this setup looks awful familiar", please stop reading my blogs and work and get back to fixing the grid.
+
+Here's what a current run of fwiktr looks like at the moment
+
+* Retrieve Post from Public Timeline of Twitter (via Twitter Service)
+* Run cleanup transforms on post (Twitter Post Cleanup Transform - Remove URLs and specific post service information, like @[name] symbols for twitter directed messages)
+* Run post through language parser (Lingua::Identify Service - Right tool for the job, even if it is the wrong language :) )
+* Using returned language, choose proper TreeTagger implementation and run Parts of Speech Marking on post (Treetagger ENGLISH - Nouns Only Transform)
+* Get pictures using ALL search mode for flickr API (Flickr Full AND Transform)
+
+  * If zero pictures returned, use ANY search mode for flickr API (Flickr Fuck It Transform)
+
+All of this is compiled into an XML block which is then shipped to the remote web DB. Instead of trying to wrestle with a generalized SQL schema, I decided to send data in XML form as it is easily mutable and still fairly backwards compatible as long as the DTD is kept generalized. Not to mention, it's less code I have to write at the moment, and I'm more interested in making art than in making a searchable database for the time being (and thanks to the DTD, turning the data into a DB shouldn't be much of a problem at all once I want to do that).
+
+_Aside: The XML block is now available for outside parsing, just add "&xml=1" to the end of the art request URL, but I'll warn you, it's a complete mess right now, there's many different formats (that at least all follow the same DTD, but that's it) due to having the DB persist through development of v0.2. I'm gonna write a script to clean things up, but that may be a ways off)_
+
+The really nice thing about this setup is that every level (the post retrieval, picture retrieval, language identification, and transform layers) are all completely pluggable, while still providing a fairly robust pipeline for the task. I am very much interested in writing my own parts of speech tagger, language identification algorithms, and other things, but for right now, they work on proven software, and produce output that I can compare my own implementations against once I get around to that. 
+
+Which may very well be never.
+
+At this point, I'm pretty happy to let fwiktr run as is for a while. Before I completely call phase 1 finished, I'd like to have an RSS feed, and /maybe/ start taking post requests (i.e. you can hand it a twitter URL and it'll parse it for you).
+
+Here's the plans for the future:
+
+**Phase 2**
+
+* Implement small, quick user system (maybe using OpenID, 'cause that seems neat, but I'll probably just try to hook into some prebuilt simple CMS, which scares me, 'cause CMS selection is a bitch these days) to allow ratings, favorites, etc... - this is very important for AI training that I can use later
+* Create simple DB import utility to make data more accessible
+
+**Phase 3**
+
+* Implement art overlay rendering (pasting the message back over the picture
+* Implement seasoning system
+
+  * The "seasoning" system is something that I'm rather looking forward to implementing. Right now, we're throwing away all URLs and emoticons. However, these are completely valid and useful parts of a message which could be used to seed more tags into a search. The emoticons could be translated into moods (though I'd have to do some statistical analysis on tags first to see if anyone actually uses that), while URLs could be descended into and scraped for some sort of context which could be fed back into the message. There's other metadata that comes along with the message that this idea could be used with too (i.e. using location plus post time to pull weather modifiers from some weather reporting service, adding "clouds" or "sun" or "rain" as tags.
+
+**Phase 4**
+
+* Start phasing out external NLP systems in favor of hand written ones
+
+  * I'm leaving this step until I have all the features in as I want them, otherwise I'll just get pissed off and quit and leave the project in a half finished, non-working state while I try implementing something someone else has already done. Much better to have a working model to compare against,too.
+
+But, for right now, this is the end of this phase of fwiktr. I've got a couple of other quick one-off projects I want to work on which I'm sure will give me more ideas for this one, and at the rate this turns out pictures, I'll have lots of fun data to play with when I get back to it. 
+
+   [1]: http://www.30helensagree.com/fwiktr
+

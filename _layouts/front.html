@@ -1,0 +1,42 @@
+---
+layout: blog
+---
+{% for post in paginator.posts %}
+<div class="PostContent">
+  <CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarlong.png' /></CENTER>
+  <div class="PostTitle">
+    <h3>{{post.title}}</h3>
+  </div>
+  <div class="PostInfo">
+    <CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarshort.png' /></CENTER>
+    <div class="AlignedText">
+      <div class="AlignLeft">
+	<a href="{{post.url}}">{{post.date  | date: "%H:%m:%S %Y-%m-%d"}}</a>
+      </div>
+      <div class="AlignRight">
+	<a href="{{post.url}}#disqus_thread">View Comments</a>
+      </div>
+    </div>
+  </div>
+  <div class="PostBody">
+    {{post.content}}
+  </div>
+</div>
+{% endfor %}
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarlong.png' /></CENTER>
+<div class="PostNav">
+  <div class="PostPrevious">
+    {% if paginator.next_page %}
+    &lt;&lt; <a href="/page{{ paginator.next_page}}">Older Posts</a>
+    {% endif %}
+  </div>
+  <div class="PostNext">
+    {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <a href="/">Newer Posts</a> &gt;&gt;
+    {% else %}
+    <a href="/page{{ paginator.previous_page }}">Newer Posts</a> &gt;&gt;
+    {% endif %}
+    {% endif %}
+  </div>
+</div>
