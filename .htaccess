@@ -1,0 +1,7 @@
+Options -Indexes
+RewriteEngine on
+
+RewriteRule atom.xml http://feeds.feedburner.com/nonpolynomiallabs [R,L]
+RewriteRule index.xml http://feeds.feedburner.com/nonpolynomiallabs [R,L]
+RewriteRule index.rdf http://feeds.feedburner.com/nonpolynomiallabs [R,L]
+RewriteRule index.php http://www.nonpolynomial.com/ [R,L]
