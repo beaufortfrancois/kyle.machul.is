@@ -1,7 +1,0 @@
---- 
-title: Eureka!
-date: 2005-04-01 10:43:06 -08:00
-mt_id: 936
-layout: post
----
-<A HREF='http://antwrp.gsfc.nasa.gov/apod/ap050401.html'>Water Found On Mars</A>

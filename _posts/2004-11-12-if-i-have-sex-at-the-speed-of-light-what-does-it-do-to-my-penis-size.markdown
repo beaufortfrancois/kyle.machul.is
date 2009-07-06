@@ -4,4 +4,7 @@ date: 2004-11-12 16:43:57 -08:00
 mt_id: 844
 layout: post
 ---
-<A HREF='http://www.sexualphysics.com/'>The joys of sexual physics</A>
+[The joys of sexual physics][1]
+
+   [1]: http://www.sexualphysics.com/
+

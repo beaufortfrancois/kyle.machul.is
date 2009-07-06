@@ -4,6 +4,10 @@ date: 2007-04-25 02:38:35 -07:00
 mt_id: 816
 layout: post
 ---
-<CENTER><A HREF='http://www.scad.edu/gdx'><IMG SRC='http://images.nonpolynomial.com/slashdong.org/blog/gdx.jpg' border="0" /></A></CENTER>
+[![][1]][2]
 
 Off to sunny Georgia, where I'll be speaking at the GDX Conference on Creativity in Second Life. Should be a fun trip! 
+
+   [1]: http://images.nonpolynomial.com/slashdong.org/blog/gdx.jpg
+   [2]: http://www.scad.edu/gdx
+

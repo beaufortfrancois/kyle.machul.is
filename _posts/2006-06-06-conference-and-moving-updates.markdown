@@ -6,7 +6,16 @@ layout: post
 ---
 Well, it's been far, far too long since I've updated this, so, here goes.
 
-<UL>
-<LI>I will unfortunately not be at the <A HREF='http://www.sexinvideogames.com'>Sex in Video Games Conference</A> due to conflicts with moving.</LI><LI>Speaking of which, I'm moving to San Francisco, to work at <A HREF='http://www.lindenlab.com'>Linden Lab</A>, the <A HREF='http://www.secondlife.com'>Second Life</A> people.</LI><LI>I'll still be speaking at <A HREF='http://www.womeningames.com'>The European Women in Games Conference</A></LI><LI>I'll also now be at the <A HREF='http://www.slconvention.com'>Second Life Community Convention</A>, too.</LI></UL>
+  * I will unfortunately not be at the [Sex in Video Games Conference][1] due to conflicts with moving.
+  * Speaking of which, I'm moving to San Francisco, to work at [Linden Lab][2], the [Second Life][3] people.
+  * I'll still be speaking at [The European Women in Games Conference][4]
+  * I'll also now be at the [Second Life Community Convention][5], too.
 
 That's it for now. Back to packing. 
+
+   [1]: http://www.sexinvideogames.com
+   [2]: http://www.lindenlab.com
+   [3]: http://www.secondlife.com
+   [4]: http://www.womeningames.com
+   [5]: http://www.slconvention.com
+

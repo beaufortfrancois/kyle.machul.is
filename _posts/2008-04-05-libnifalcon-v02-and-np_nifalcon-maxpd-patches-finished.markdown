@@ -4,7 +4,7 @@ date: 2008-04-05 23:03:40 -07:00
 mt_id: 1175
 layout: post
 ---
-Well, <A HREF='http://libnifalcon.sf.net'>v0.2 of libnifalcon is all done</A>. Yay. That took a lot more work than I thought it would. 
+Well, [v0.2 of libnifalcon is all done][1]. Yay. That took a lot more work than I thought it would. 
 
 Of course, I've also now run into the nasty fact that libftdi is around 4x slower than ftd2xx, meaning that what's a 1000hz update rate on windows ends up being 300hz max on Linux and OS X. Not happy about this at /all/, but there's really not much I can do outside of porting to a kernel driver probably. Which, yeah, I've thought about doing, because I hate myself.
 
@@ -14,10 +14,17 @@ Now then, see if you can figure out which program is the free one, and which one
 
 Max/MSP:
 
-<a href="http://www.flickr.com/photos/qdot76367/2389032528/" title="np_nifalcon Max External Tutorial by qdot76367, on Flickr"><img src="http://farm3.static.flickr.com/2289/2389032528_fcc6668dea.jpg" width="500" height="365" alt="np_nifalcon Max External Tutorial" /></a>
+[![np_nifalcon Max External Tutorial][2]][3]
 
 PureData:
 
-<a href="http://www.flickr.com/photos/qdot76367/2391872168/" title="np_nifalcon PureData External Tutorial by qdot76367, on Flickr"><img src="http://farm3.static.flickr.com/2336/2391872168_f84a82107a_o.jpg" width="406" height="313" alt="np_nifalcon PureData External Tutorial" /></a>
+[![np_nifalcon PureData External Tutorial][4]][5]
 
 Is there such a thing as a pretty PD patch? I have yet to see one. 
+
+   [1]: http://libnifalcon.sf.net
+   [2]: http://farm3.static.flickr.com/2289/2389032528_fcc6668dea.jpg
+   [3]: http://www.flickr.com/photos/qdot76367/2389032528/ (np_nifalcon Max External Tutorial by qdot76367, on Flickr)
+   [4]: http://farm3.static.flickr.com/2336/2391872168_f84a82107a_o.jpg
+   [5]: http://www.flickr.com/photos/qdot76367/2391872168/ (np_nifalcon PureData External Tutorial by qdot76367, on Flickr)
+

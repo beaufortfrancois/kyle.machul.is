@@ -6,4 +6,4 @@ layout: post
 ---
 The only smell worse than burning solder is burning soldering iron stand plastic.
 
-<small>I missed my sponge and hit the stand. Good GOD that plastic smells horrible. Thank you, Weller, for making a stand that can be melted by the thing it holds.</small>
+I missed my sponge and hit the stand. Good GOD that plastic smells horrible. Thank you, Weller, for making a stand that can be melted by the thing it holds.

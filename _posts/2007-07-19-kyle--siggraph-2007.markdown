@@ -4,6 +4,10 @@ date: 2007-07-19 19:09:44 -07:00
 mt_id: 1111
 layout: post
 ---
-<CENTER><A HREF='http://www.siggraph.org/s2007/'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/siggraph2007.jpg' border="0" /></A></CENTER>
+[![][1]][2]
 
 Hotel/plan booked, registration finished, I'm goin' to SIGGRAPH! I haven't been this excited about attending a conference in quite a while. Not to mention, this is gonna be possibly the first conference I've been to where I haven't also been speaking. See you there! 
+
+   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/siggraph2007.jpg
+   [2]: http://www.siggraph.org/s2007/
+

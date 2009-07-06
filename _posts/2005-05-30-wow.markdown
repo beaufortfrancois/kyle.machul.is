@@ -6,8 +6,11 @@ layout: post
 ---
 So I was saying that the rise of AJAX will hopefully produce some sort of IDE or debugging interface that will make Javascript not so eye-stabby to write.
 
-<A HREF='http://weblog.infoworld.com/udell/gems/tibco.html'>This kinda went beyond my expectations though</A> (Flash, so turn down your audio)
+[This kinda went beyond my expectations though][1] (Flash, so turn down your audio)
 
 A JS IDE WRITTEN IN JS.
 
 SICK.
+
+   [1]: http://weblog.infoworld.com/udell/gems/tibco.html
+

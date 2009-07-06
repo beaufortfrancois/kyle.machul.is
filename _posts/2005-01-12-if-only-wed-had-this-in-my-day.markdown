@@ -4,4 +4,7 @@ date: 2005-01-12 12:25:32 -08:00
 mt_id: 893
 layout: post
 ---
-<A HREF='http://wiki.eclab.byu.edu/index.cgi?LaTeXMath'>LaTeXMath for KWiki</A>. Taking and sharing math notes quickly has never been easier. If only I took math notes these days.
+[LaTeXMath for KWiki][1]. Taking and sharing math notes quickly has never been easier. If only I took math notes these days.
+
+   [1]: http://wiki.eclab.byu.edu/index.cgi?LaTeXMath
+

@@ -6,11 +6,11 @@ layout: post
 ---
 When last we left off, I had an OpenGL kinematics simulator for my current OCD fulfillment object, the Novint Falcon. I'll get to the math behind all that in the next post, but for right now, suffice to say, it just works. The kinematics loops can easily hit 40000 iterations per second, which is more than enough for my first few basic projects, including mouse control. However, that really only mattered on windows, because when I finished the simulator, windows still had a 1000hz update rate, while linux and os x were still running at 70-150hz update rate on a good day with the wind going in the right direction. I spent last week trying to get linux and mac up to the same speed as windows. What follows is the story of that week.
 
-But first off, let's rewind to August of last year. Before Novint put out their own SDK, I was bound and determined to get my own out, just because it seemed like a fun challenge. I managed to document out the firmware download process, but not completely replicate it. My first program worked by starting up one of their test programs to load firmware, then using my own code after that to communicate with the falcon. The hack ended up being successful, if ridiculously unsafe to look at in a normal workplace. The video of the results are at  http://www.youtube.com/watch?v=EfrMalBiXuY (NSFW), which is not autolinked because otherwise you'll click it at work, won't you? Yeah. Copy and paste. 
+But first off, let's rewind to August of last year. Before Novint put out their own SDK, I was bound and determined to get my own out, just because it seemed like a fun challenge. I managed to document out the firmware download process, but not completely replicate it. My first program worked by starting up one of their test programs to load firmware, then using my own code after that to communicate with the falcon. The hack ended up being successful, if ridiculously unsafe to look at in a normal workplace. The video of the results are at http://www.youtube.com/watch?v=EfrMalBiXuY (NSFW), which is not autolinked because otherwise you'll click it at work, won't you? Yeah. Copy and paste. 
 
 Anyways, while doing this, I took some notes on the startup sequence for firmware loading. Here's a picture of those notes:
 
-<a href="http://www.flickr.com/photos/qdot76367/2446569720/" title="Comm Trace notes for the Novint Falcon by qdot76367, on Flickr"><img src="http://farm3.static.flickr.com/2030/2446569720_27520421f3.jpg" width="500" height="375" alt="Comm Trace notes for the Novint Falcon" /></a>
+[![Comm Trace notes for the Novint Falcon][1]][2]
 
 Now, fast forward back to last week. Time to make everything equally fast.
 
@@ -21,18 +21,20 @@ Let's look at the stats that test programs were putting out for each platform (t
 Linux:
 
 Time between I/O Iterations: 0.015991s
+
 Average Frequency: 62.534351 per second
 
 Windows:
 
 Time between I/O Iterations: 0.000942s
+
 Average Frequency: 980.382853 per second
 
 Yeah. Bit of a difference, eh? So something was causing I/O iterations on linux to take around 16ms each, while on windows, we were getting 1 iteration per millisecond, and achieving near the 1khz that's mentioned by Novint all the time. This is running on the EXACT same code, up to the point of the FTDI library being used. The Windows version was using the ftd2xx drivers, while linux was using libftdi. ftd2xx on linux seemed to run decently fast, though I don't have the number handy at the moment.
 
 Now, I'd read a few things around the net about libftdi being ridiculously slow, mostly in terms of bitbanging though. Either way, I figured it was something in either libftdi or libusb that was causing the slowdown. Rebuilt everything with -gp and let gprof at it for a while, just to see that, nope, it was just sitting there waiting during the I/O loop, for 16ms at a time.
 
-At this point, I start wondering if it's not the synchronousity of libusb-0.1 that's slowing me down. Luckily, <A HREF='http://libusb.wiki.sourceforge.net/Libusb1.0'>libusb-1.0 is in development right now, which enable asynchronous transfers for usb</A>. Pulled the dev branch of that, tried it out. Asynchronous sends, writes are superfast, reads... 16ms.
+At this point, I start wondering if it's not the synchronousity of libusb-0.1 that's slowing me down. Luckily, [libusb-1.0 is in development right now, which enable asynchronous transfers for usb][3]. Pulled the dev branch of that, tried it out. Asynchronous sends, writes are superfast, reads... 16ms.
 
 Damnit.
 
@@ -44,11 +46,13 @@ Well, that made something happy. The problem there is, we're now sending 1000 in
 
 Much googling insues. No information found. Finally out of frustration, I just google "ftdi 64 bytes".
 
-<A HREF='http://www.ftdichip.com/Documents/AppNotes/AN232B-04_DataLatencyFlow.pdf'>And I find the FTDI Addendum on Data Throughput, Latency, and Handshaking for the FT232 Series Chips</A> (PDF)
+[And I find the FTDI Addendum on Data Throughput, Latency, and Handshaking for the FT232 Series Chips][4] (PDF)
 
 There it is, clear as day. There's a latency timer on the chip that will send bytes to the host assuming one of three conditions:
 
-<UL><LI>A serial status line (DTR, RTS, etc...) is flipped</LI><LI>The buffer reaches maximum capacity (Thus our results with the 64 bytes</LI><LI>The latency timer overflows</LI></UL>
+  * A serial status line (DTR, RTS, etc...) is flipped
+  * The buffer reaches maximum capacity (Thus our results with the 64 bytes
+  * The latency timer overflows
 
 We're obviously not playing with the first one. The second one we've seen the effects of, but we don't want to have to wait for 62 user bytes at a time. 
 
@@ -73,17 +77,55 @@ So, the solution to this is to either figure out a way to get both input and out
 Anyways, this still leaves a couple of questions. First off, when I was checking the ftd2xx drivers for linux, I decided to check their symbol table for the dynamic library...
 
 ...
-<pre>
-         U time
-         U tolower
-         U toupper
-00013673 T usb_bulk_read
-0001357d T usb_bulk_write
-00017d30 B usb_busses
-000132ff T usb_claim_interface
-00014309 T usb_clear_halt
-000120e6 T usb_close
-</pre>
+    
+    
+    
+    
+             U time
+    
+    
+    
+    
+             U tolower
+    
+    
+    
+    
+             U toupper
+    
+    
+    
+    
+    00013673 T usb_bulk_read
+    
+    
+    
+    
+    0001357d T usb_bulk_write
+    
+    
+    
+    
+    00017d30 B usb_busses
+    
+    
+    
+    
+    000132ff T usb_claim_interface
+    
+    
+    
+    
+    00014309 T usb_clear_halt
+    
+    
+    
+    
+    000120e6 T usb_close
+    
+    
+    
+
 ...
 
 HEY! Those are libusb calls! So ftd2xx is at least partially based on libusb. How they're managing the superfast I/O, I'm not sure. Could be threading, could be they've got their own asynch thing going on.
@@ -91,3 +133,9 @@ HEY! Those are libusb calls! So ftd2xx is at least partially based on libusb. Ho
 Secondly, I obviously didn't have the latency timer set on the ftd2xx version of the drivers, either. Why did my drivers run so fast on windows without that? I'm guessing there could be a config file I was missing somewhere, or maybe their drivers just do it themselves on connection or something.
 
 Anyways, the moral of the story: Read the god damn spec sheet. And all the addendums. And pay attention to your own notes. 
+
+   [1]: http://farm3.static.flickr.com/2030/2446569720_27520421f3.jpg
+   [2]: http://www.flickr.com/photos/qdot76367/2446569720/ (Comm Trace notes for the Novint Falcon by qdot76367, on Flickr)
+   [3]: http://libusb.wiki.sourceforge.net/Libusb1.0
+   [4]: http://www.ftdichip.com/Documents/AppNotes/AN232B-04_DataLatencyFlow.pdf
+

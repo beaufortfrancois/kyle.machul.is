@@ -4,8 +4,18 @@ date: 2007-02-06 01:20:38 -08:00
 mt_id: 768
 layout: post
 ---
-I suppose one post every 6 months isn't too bad. All settled in at <A HREF='http://www.lindenlab.com'>Linden Lab</A>.
+I suppose one post every 6 months isn't too bad. All settled in at [Linden Lab][1].
 
 Conferences in the near future:
 
-<UL><LI><A HREF='http://www.gdconf.com'>Game Developers Conference 2007</A>, Moscone Center, San Francisco, CA, March 5-9, 2007</LI><LI><A HREF='http://2007.sxsw.com'>SXSW 2007 Interactive</A>, Austin, TX, March 9-13, 2007</LI><LI><A HREF='http://www.scad.edu/events/gdx/2007/'>GDX</A>, Savannah, GA, April 26-27, 2007</LI><LI><A HREF='http://chi2007.org'>SIGCHI 2007</A>, San Jose, CA, April 28-May 3, 2007</LI></UL> 
+  * [Game Developers Conference 2007][2], Moscone Center, San Francisco, CA, March 5-9, 2007
+  * [SXSW 2007 Interactive][3], Austin, TX, March 9-13, 2007
+  * [GDX][4], Savannah, GA, April 26-27, 2007
+  * [SIGCHI 2007][5], San Jose, CA, April 28-May 3, 2007
+
+   [1]: http://www.lindenlab.com
+   [2]: http://www.gdconf.com
+   [3]: http://2007.sxsw.com
+   [4]: http://www.scad.edu/events/gdx/2007/
+   [5]: http://chi2007.org
+

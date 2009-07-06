@@ -4,9 +4,16 @@ date: 2005-11-19 19:15:38 -08:00
 mt_id: 445
 layout: post
 ---
-<div style='float:right;width:70;height:70;padding:5px;'><A HREF='http://www.gameconference.com'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/agc.jpg' border="0" /></A></div>
+[![][1]][2]
 
 The (very few) photos I took during the Austin Games conference are now available on Flickr.
 
-<A HREF='http://www.flickr.com/photos/80226255@N00/sets/1401410/'>AGC Photos</A>
-<A HREF='http://www.flickr.com/photos/80226255@N00/sets/1401450/'>Tombstone Hold'em Photos</A> 
+[AGC Photos][3]
+
+[Tombstone Hold'em Photos][4]
+
+   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/agc.jpg
+   [2]: http://www.gameconference.com
+   [3]: http://www.flickr.com/photos/80226255@N00/sets/1401410/
+   [4]: http://www.flickr.com/photos/80226255@N00/sets/1401450/
+
