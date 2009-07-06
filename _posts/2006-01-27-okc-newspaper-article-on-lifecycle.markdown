@@ -4,15 +4,17 @@ date: 2006-01-27 16:44:52 -08:00
 mt_id: 580
 layout: post
 ---
-In October of last year, the <A HREF='http://www.journalrecord.com/'>Oklahoma City Journal Record</A> did an article on the <A HREF='http://www.nonpolynomial.com/content/2005/09/lifecycle.php'>LifeCycle project</A>. I just happened upon a text version of the article on the web, which has been reposted in this entry, for sake of history. 
-<B>Entrepreneur Tackles Virtual Wild West</B>
+In October of last year, the [Oklahoma City Journal Record][1] did an article on the [LifeCycle project][2]. I just happened upon a text version of the article on the web, which has been reposted in this entry, for sake of history. 
+
+**Entrepreneur Tackles Virtual Wild West**
 
 By Brain Brus
+
 The Journal Record
 
 Norman computer-tech entrepreneur Kyle Machulis slowly pedaled his sleek gray car to the front of his office. After he works the bugs out, he hopes to sell the pedal-driven technology to thousands of others so they can travel anywhere in the world by bike, car, plane and jet pack, he said.
 
-"It would work for treadmills, too," he said, clicking on the car and putting it back in his inventory directory. "It's just a matter of adjusting some connections. … I'm working on making the speed representational of your pedaling effort as well, because right now you move at a consistent crawl."
+"It would work for treadmills, too," he said, clicking on the car and putting it back in his inventory directory. "It's just a matter of adjusting some connections. (...) I'm working on making the speed representational of your pedaling effort as well, because right now you move at a consistent crawl."
 
 Machulis is an entrepreneur in the virtual Wild West, looking to exchange his computer savvy for real cash in a newly developing economy that exists somewhere between the keyboard and his wallet.
 
@@ -22,7 +24,7 @@ In other online game environments similar transactions are taking place for swor
 
 Although the environment may only exist in the electron interplay of the Internet, the money exchanging hands has tangible value.
 
-<B>Money for nothing?</B>
+**Money for nothing?**
 
 At the beginning of the business day on Oct. 24, a single U.S. dollar was worth 177 Second Life dollars, or Lindens, on the LindeX exchange operated by San Francisco-based Linden Lab. At the Internet Gaming Entertainment Ltd. Web site, a third-party exchange registered out of Hong Kong, a trader could sell a minimum of L$5,000 for U.S.$18.50. At AnsheChung.com, named for the Second Life land baroness who lives in real-world Germany, the trade rate was L$5,000 for U.S.$20.99.
 
@@ -38,7 +40,7 @@ Machulis, who operates out of Nonpolynomial Labs in both Norman and a representa
 
 "You really can do almost anything you want here," he said, pointing at his gravity-defying SL lab on the computer screen. "Sooner or later, someone's going to do this. It might as well be me."
 
-<B>Sweat it out</B>
+**Sweat it out**
 
 In a dark room in The Village, warriors are swinging blood-stained swords and dodging magic spells. If Mike Fernandez's character survives the current onslaught - and he probably will, given Fernandez's gaming experience at the keyboard - he could probably sell it on e-Bay for a few hundred dollars.
 
@@ -48,7 +50,7 @@ In a dark room in The Village, warriors are swinging blood-stained swords and do
 
 Fernandez is a regular customer at Cyber Quest, a LAN gaming center owned and operated by Mike Lewis. Fernandez plays for hours a day, often forming teams with other highly skilled gamers in what Lewis called "one of the highest-quality centers in the Southwest."
 
-Fernandez has no desire to turn his hobby into a profit-making venture - "Sometimes it's fun and sometimes it's really boring, kind of like work. … You could do it professionally, but I wouldn't rely on it. It would take too much effort."
+Fernandez has no desire to turn his hobby into a profit-making venture - "Sometimes it's fun and sometimes it's really boring, kind of like work. (...) You could do it professionally, but I wouldn't rely on it. It would take too much effort."
 
 Lewis has done his own share of gaming, and he holds some disdain for professional sword-hackers who are only online to "farm" easy monsters for experience and gold coins. Unlike Second Life, most massively multiplayer online role-playing games, or MMORPGs, have a combat goal involving character advancement and increasingly difficult challenges. To reach the most interesting parts of a game, a character has to be pretty powerful. And that takes hundreds of hours of time others are willing to pay for.
 
@@ -58,11 +60,11 @@ On IGE's exchange or e-Bay's auction sites, a fully developed superhero in City 
 
 Lewis is reluctant to go pro for other reasons, however.
 
-"Sure, you could get away with it, but you run the risk of having your shop shut down," he said. "Because you have to deal with tax issues. … I have to report anything I sell, and honestly, I'm not sure how that would work out.
+"Sure, you could get away with it, but you run the risk of having your shop shut down," he said. "Because you have to deal with tax issues. (...) I have to report anything I sell, and honestly, I'm not sure how that would work out.
 
-"And then you've got the issue of how the gaming industry will try to clamp down on that sort of behavior, because right now they want to collect as many licensing fees as they can." Lewis waved his hand at the dozens of computer terminals in his shop. "Counterstrike is the most popular game in the world, and last year I bought 30 licenses so we could play it here. … You've got to be very careful that you don't give them an excuse to tap into other revenue streams."
+"And then you've got the issue of how the gaming industry will try to clamp down on that sort of behavior, because right now they want to collect as many licensing fees as they can." Lewis waved his hand at the dozens of computer terminals in his shop. "Counterstrike is the most popular game in the world, and last year I bought 30 licenses so we could play it here. (...) You've got to be very careful that you don't give them an excuse to tap into other revenue streams."
 
-<B>Cyber-future</B>
+**Cyber-future**
 
 Pedaling across Second Life's landscape, a user's avatar will find countless opportunities to spend Linden dollars on intricately designed jewelry, tracts of virtual land, and furniture and art for their abodes, all designed by other users, some with big entrepreneurial dreams.
 
@@ -84,10 +86,14 @@ Mableson said that ethically she cannot give legal advice in the virtual world; 
 
 She also mentioned another SL user who is trying to establish a "stock market" to track and invest in companies operating out of SL. Mableson has been discussing SEC issues with the man because technically everything in SL is a security: an investment of money in a common enterprise for the expectation of profit derived by the effort of another. The user in question, who she asked to not identify, has already been in contact with securities attorneys about potential liabilities, she said.
 
-"The thinking there is that this is a game or amusement. … He's saying there are no real securities being sold; we're dealing in funny-money Lindens. If you're playing Monopoly, for example, and you want more money, you go out and buy a pack of Monopoly dollars."
+"The thinking there is that this is a game or amusement. (...) He's saying there are no real securities being sold; we're dealing in funny-money Lindens. If you're playing Monopoly, for example, and you want more money, you go out and buy a pack of Monopoly dollars."
 
 But usually that Monopoly money can't be sold back for real cash, she said. The casino concept might be a closer fit, because players can cash-out their tokens at the end of the day.
 
-"There are no cases on this, nothing not even close to this. … It will be interesting to see how this plays out," she said. "It's mind-boggling."
+"There are no cases on this, nothing not even close to this. (...) It will be interesting to see how this plays out," she said. "It's mind-boggling."
 
 Brian Brus reports on metro area government, finance, agriculture and other issues. You may reach him by phone at 278-2837 or by e-mail, brian.brus@journalrecord.com.
+
+   [1]: http://www.journalrecord.com/
+   [2]: http://www.nonpolynomial.com/content/2005/09/lifecycle.php
+

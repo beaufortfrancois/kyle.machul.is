@@ -13,7 +13,7 @@ I've now broken fwiktr into performing certain core functions (called services),
 Here's what a current run of fwiktr looks like at the moment
 
 * Retrieve Post from Public Timeline of Twitter (via Twitter Service)
-* Run cleanup transforms on post (Twitter Post Cleanup Transform - Remove URLs and specific post service information, like @[name] symbols for twitter directed messages)
+* Run cleanup transforms on post (Twitter Post Cleanup Transform - Remove URLs and specific post service information, like @name symbols for twitter directed messages)
 * Run post through language parser (Lingua::Identify Service - Right tool for the job, even if it is the wrong language :) )
 * Using returned language, choose proper TreeTagger implementation and run Parts of Speech Marking on post (Treetagger ENGLISH - Nouns Only Transform)
 * Get pictures using ALL search mode for flickr API (Flickr Full AND Transform)

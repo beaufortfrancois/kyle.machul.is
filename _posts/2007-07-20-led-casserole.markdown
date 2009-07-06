@@ -12,7 +12,7 @@ Thanks to swag from GDC, LED Spider now has an LED Wiimote to play with! So yeah
 
 [![IMG_0142][3]][4]
 
-One of the interesting things about this project is the project box I used. I had black "project boxes" of all types lying around that I've gotten from different electronics stores, all of which are usually <1cm to large/small in some direction to be truly useful, and all of which cost at least $5. I packaged this board in a little plastic box from [Ichiban Kan][5] in El Cerrito. Incredibly simple to cut up with my Dremel, and @ $1.50/4 boxes, I can fuck 'um up all I want. And they've got all sorts of sizes, nothing more than $2. Realized this technique after checking out some stuff from a Japanese electrostim builder on [SmartStim][6], and I have a feeling most of my projects are gonna come out looking like this now.
+One of the interesting things about this project is the project box I used. I had black "project boxes" of all types lying around that I've gotten from different electronics stores, all of which are usually &lt;1cm to large/small in some direction to be truly useful, and all of which cost at least $5. I packaged this board in a little plastic box from [Ichiban Kan][5] in El Cerrito. Incredibly simple to cut up with my Dremel, and @ $1.50/4 boxes, I can fuck 'um up all I want. And they've got all sorts of sizes, nothing more than $2. Realized this technique after checking out some stuff from a Japanese electrostim builder on [SmartStim][6], and I have a feeling most of my projects are gonna come out looking like this now.
 
 [![IMG_0145][7]][8]
 

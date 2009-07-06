@@ -10,7 +10,7 @@ First off, [libnifalcon][1], the open source driver for the [Novint Falcon][2], 
 
 <p><CENTER><object width="400" height="300">	<param name="allowfullscreen" value="true" />	<param name="allowscriptaccess" value="always" />	<param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=2138448&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=01AAEA&amp;fullscreen=1" />	<embed src="http://vimeo.com/moogaloop.swf?clip_id=2138448&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=01AAEA&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></embed></object><br /><a href="http://vimeo.com/2138448?pg=embed&amp;sec=2138448">Haptic Interfaces for Virtual Instruments using libnifalcon</a> from <a href="http://vimeo.com/user154518?pg=embed&amp;sec=2138448">qDot</a> on <a href="http://vimeo.com?pg=embed&amp;sec=2138448">Vimeo</a>.</CENTER></p>
 
-The video above is a demo of a couple of patches for [PureData][6] written by [Edgar Berdahl][7] for use in [Physical Interaction Design for Music][8] class at the [Center for Computer Research in Music and Acoustics at Stanford University][9]. The video shows a haptic simulation of a bowed instrument, as well as a training patch for drum rolls. Moving toward the line in the middle of the window causes the falcon to kick back slightly, and the user must hold the end effector steady to keep the sound steady and constant. All of this is running on a beta version of the np_nifalcon external for max and pd, which is available on the libnifalcon site.
+The video above is a demo of a couple of patches for [PureData][6] written by Edgar Berdahl for use in [Physical Interaction Design for Music][8] class at the [Center for Computer Research in Music and Acoustics at Stanford University][9]. The video shows a haptic simulation of a bowed instrument, as well as a training patch for drum rolls. Moving toward the line in the middle of the window causes the falcon to kick back slightly, and the user must hold the end effector steady to keep the sound steady and constant. All of this is running on a beta version of the np_nifalcon external for max and pd, which is available on the libnifalcon site.
 
 Next up is another project that I decided to throw together today to check out the [OpenSoundControl protocol][10].
 
@@ -30,7 +30,6 @@ Now, back to working on getting libnifalcon released...
    [4]: http://vimeo.com/user154518?pg=embed&sec=2138448
    [5]: http://vimeo.com?pg=embed&sec=2138448
    [6]: http://www.puredata.info
-   [7]: 
    [8]: http://ccrma.stanford.edu/courses/250a/labs/lab6-Falcon/
    [9]: http://ccrma.stanford.edu
    [10]: http://opensoundcontrol.org/

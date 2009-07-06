@@ -1,3 +1,4 @@
+
 --- 
 title: "Exercise and Video Games: A Brief History"
 date: 2005-10-06 10:56:19 -07:00
@@ -54,7 +55,7 @@ It costs $2500.
 
    [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/exercise_vg.jpg
    [2]: http://www.nonpolynomial.com/archives/2005/10/exercise_vg.php
-   [3]: 
+   [3]: http://
    [4]: http://images.nonpolynomial.com/nonpolynomial.com/blog/exercise_vg/puffer.jpg
    [5]: http://www.atarihq.com/othersec/puffer/
    [6]: http://images.nonpolynomial.com/nonpolynomial.com/blog/exercise_vg/powerpad.jpg
