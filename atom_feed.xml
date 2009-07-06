@@ -1,0 +1,28 @@
+---
+layout: nil
+permalink: /atom_feed.xml
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Nonpolynomial Labs</title>
+ <link href="http://www.nonpolynomial.com/atom.xml" rel="self"/>
+ <link href="http://www.nonpolynomial.com/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://www.nonpolynomial.com/</id>
+ <author>
+   <name>Kyle Machulis</name>
+   <email>kyle at nonpolynomial dot com</email>
+ </author>
+
+ {% for post in site.posts limit:10 %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://www.nonpolynomial.com{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://www.nonpolynomial.com{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+ 
+</feed>
