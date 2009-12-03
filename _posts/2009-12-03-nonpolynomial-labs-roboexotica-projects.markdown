@@ -1,6 +1,6 @@
 --- 
 title: Nonpolynomial Labs Roboexotica Projects
-date: 2009-12-13 01:32:20 -08:00
+date: 2009-12-03 01:32:20 -08:00
 layout: post
 ---
 For the past month, I've been living in Vienna as part of as artist residency with [monochrom][1]. The main goal of this residency was to complete some projects for [roboexotica][2], the robotics cocktail party held each year here in Vienna. This year, [roboexotica][2] is being held December 3-6, and now that I've actually seen my projects pour some drinks, I figured it's time to present them to the world.
