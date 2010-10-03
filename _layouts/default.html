@@ -4,7 +4,9 @@
       body {
       margin:0px;
       }
+
       a {
+
       text-decoration: underline;
       }
 
@@ -200,20 +202,68 @@
       
       }
 
-      .sidebar {
-      margin-top:20px;
-      padding: 5px;
+      .sidebar {      
+      padding-top: 7px;
+      padding-left: 3px;
+      padding-right: 6px;
       font-family: Verdana, Arial, sans-serif;
       font-size: x-small;
       }
 
       .sidebarSub {
-      padding:5px;
-      
+      padding:5px;      
       background: #EEE;
-      margin-bottom:5px;}
+      margin-bottom:5px;
+      }
 
-      .sidebar h2 {
+      .sidebarSubNav {
+      padding:5px;      
+      background: #DDD;
+      margin-bottom:5px;
+      font-size: small;
+      color: #000;
+      }
+
+      .sidebarSubNav h2 {
+      color: #333;
+      font-family: georgia, sans-serif;
+      font-size: x-small;
+      
+      text-align: center;
+      font-weight: bold;
+      
+      text-transform: uppercase;
+      
+      letter-spacing: .2em;
+      }
+
+      .sidebarSubNav a {
+      font-size:small;
+      font-family:  Georgia, Times, serif;
+      color: #000;
+      }
+
+      .sidebarSubNav a:link {
+      font-size:small;
+      color: #000;
+      }
+
+      .sidebarSubNav a:visited {
+      font-size:small;
+      color: #000;
+      }
+
+      .sidebarSubNav a:active {
+      font-size:small;
+      color: #000;
+      }
+
+      .sidebarSubNav a:hover {
+      font-size:small;
+      color: #000;
+      }
+
+      .sidebarSub h2 {
       color: #666666;
       font-family: georgia, sans-serif;
       font-size: xx-small;
@@ -326,7 +376,11 @@
       }
 
       .NPMenu {
-      width : 124px;
+      background-repeat:no-repeat;
+      background-position:right top;
+      background-image: url('npfade-redo.png');
+
+      width : 127px;
       float : left;
       }
 
@@ -337,6 +391,7 @@
       float : left;
       width : 630px;
       margin-left:18px;
+      margin-top:5px;
       }
 
       .NPFooter {
@@ -350,10 +405,26 @@
       <IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npheader.png' />
       <div class="NPContent">
 		<div class="NPMenu">
-		  <A HREF='http://www.nonpolynomial.com/about/'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npabout.png' border=0></A>
-		  <A HREF='http://www.nonpolynomial.com/portfolio/'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npprojects.png' border=0></A>
-		  <A HREF='http://www.nonpolynomial.com/'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/nphome.png' border=0></A>
 	      <div class="sidebar">
+			<div class="sidebarSubNav">
+			  <h2>Navigation</h2>
+			  <CENTER>
+                <UL>
+                <LI><A HREF='http://www.nonpolynomial.com'>Home</A></LI>
+                <LI><A HREF='http://www.nonpolynomial.com/about'>About</A></LI>
+                <LI><A HREF='http://www.nonpolynomial.com/portfolio'>Portfolio</A></LI>
+                </UL>
+			  </CENTER>
+			</div>
+			<div class="sidebarSubNav">
+			  <h2>Software</h2>
+			  <CENTER>
+                <UL>
+                <LI><A HREF='http://www.nonpolynomial.com/libraries'>Libraries</A></LI>
+                <LI><A HREF='http://www.nonpolynomial.com/externals'>Externals</A></LI>
+                </UL>
+			  </CENTER>
+			</div>
 			<div class="sidebarSub">
 			  <h2>Syndication</h2>
 			  <BR />
