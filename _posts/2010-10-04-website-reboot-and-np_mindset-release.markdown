@@ -11,7 +11,7 @@ again. First off, I've created
 seemed like a good time to start advertising them like an actual
 developer.
 
-<CENTER><a href='http://www.flickr.com/photos/qdot76367/5046327338/' title='mindset_max by qdot76367, on Flickr'><img src='http://farm5.static.flickr.com/4125/5046327338_4d60e7201c_m.jpg' width='240' height='229' alt='mindset_max' /></CENTER>
+<CENTER><a href='http://www.flickr.com/photos/qdot76367/5046327338/' title='mindset_max by qdot76367, on Flickr'><img src='http://farm5.static.flickr.com/4125/5046327338_4d60e7201c_m.jpg' width='240' height='229' alt='mindset_max' /></a></CENTER>
 
 [np_mindset version 1.1.5 released][2]
 
