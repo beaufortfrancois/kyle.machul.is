@@ -5,9 +5,9 @@ layout: post
 ---
 
 <CENTER>
-<div style='background:#009900;width:150px;height:93px;> 
+<div style='background:#009900;width:150px;height:93px;'> 
   <A HREF='http://www.openyou.org'><IMG SRC='http://images.nonpolynomial.com/openyou.org/site/openyoutranssmall.png' /></A> 
-  </div> 
+</div> 
   </CENTER>
   
 It's been a while since I've started up a new website, and I found
