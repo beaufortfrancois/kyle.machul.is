@@ -9,8 +9,10 @@ prototype stage yet, but damn, I cannot wait 'til this comes out so I
 can start reverse engineering it.
 
 [Novint][1], the company that manufacturers the [Falcon][2] haptic
-device (that I wrote/maintain the cross-platform [libnifalcon][3]
-for), recently announced a merger with another company. 
+device (that I wrote/maintain the cross-platform [libnifalcon][3] for
+- if you aren't familiar with the falcon,
+[check out this rather exhaustive article I wrote on it a couple of years ago][8]),
+recently announced a merger with another company.
 
 The other company in the deal, Forcetek Enterprises, doesn't even
 seem to exist outside of the PR about this merger. Successful stealth
@@ -76,3 +78,4 @@ onto this as well. I can't wait to get my hands on (and in) the XIO.
 [5]: http://www.tngames.com
 [6]: http://www.twitter.com/tomlucient
 [7]: http://sites.google.com/site/carlkenner/glovepie
+[8]: http://www.nonpolynomial.com/2008/03/25/everything-i-know-about-the-novint-falcon-as-of-march-2008/
