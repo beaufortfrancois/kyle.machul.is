@@ -14,9 +14,10 @@ device (that I wrote/maintain the cross-platform [libnifalcon][3] for
 [check out this rather exhaustive article I wrote on it a couple of years ago][8]),
 recently announced a merger with another company.
 
-The other company in the deal, Forcetek Enterprises, doesn't even
-seem to exist outside of the PR about this merger. Successful stealth
-mode.
+The other company in the deal, Forcetek Enterprises, doesn't even seem
+to exist outside of the PR about this merger (*UPDATE:*
+[Ok, I actually found their old website finally.][9] Apparently this
+was shown at E3?). Successful stealth mode.
 
 What came out of the merger...
 
@@ -79,3 +80,4 @@ onto this as well. I can't wait to get my hands on (and in) the XIO.
 [6]: http://www.twitter.com/tomlucient
 [7]: http://sites.google.com/site/carlkenner/glovepie
 [8]: http://www.nonpolynomial.com/2008/03/25/everything-i-know-about-the-novint-falcon-as-of-march-2008/
+[9]: http://www.forcetekusa.com/
