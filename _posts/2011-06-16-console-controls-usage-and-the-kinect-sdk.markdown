@@ -362,8 +362,10 @@ but that doesn't help much for consumer expectations of product.
 
 ## Microsoft Kinect - Microsoft's SDK ##
 
-On June 16th 2011, Microsoft released their own SDK for the kinect,
-after months of "sometime in the Spring".
+On June 16th 2011,
+[Microsoft released their own SDK for the kinect][17], much to the
+surprise of just about everyone, since there had been no communication
+since March about it.
 
 <CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/kinect-mssdk.png' /></CENTER>
 
@@ -375,7 +377,14 @@ available for non-commercial use.
 Seamless skeleton tracking, which is a huge deal. While the algorithms
 have been released and replicated in open source, the advantage that
 MS has here is big data. Thousands of hours of training sets to send
-through the algorithm so that it can find any body type, 
+through the algorithm so that it can find any body type, meaning that
+people can walk in and out of the scene and instantly be recognized
+and tracked. Seriously fucking _BIG_ deal.
+
+There is also access to the audio system, which no project has gotten
+a complete hold on yet. OpenKinect has some access to the raw audio
+stream, but Microsoft provides a voice SDK that allows developers to
+identify and position users based on sound.
 
 ### What they think of non-game developers ###
 
@@ -424,19 +433,27 @@ game. Without the calibration pose requirement, MS SDK programs should
 "just work" for people coming in to/out of the scene. It adds access
 to the audio core that no other solution can get anywhere near at the
 moment. For the time being, MS is now winning the NUI game in terms of
-capabilities.
+capabilities available to developers. 
 
-Since the license is still non-commercial only, that's all they're
-going to win.
+At least, for developers want to make non-distributable demos. Since
+the license is still non-commercial only, that's all they're going to
+win. This could end up pissing off the industry enough that they find
+some way to replicate it without Microsoft's terms. At that point, we
+have a very fun war on our hands.
 
 ### Where the community is going with it ###
 
-There's not much of a community to speak of, and while [CodePlex][10]
-is huge, I've never really dealt with the MS Open Source Community,
-or, well, any MS community period in the past decade or so. I guess
-we'll see what happens. I'm certainly interested to see how the
-cultural philosophies of OpenKinect versus MS SDK influence the
-projects that come out of them.
+There's not much of a community to speak of since it's been out all of
+10 hours as I write this. While I know [CodePlex][10] is huge, I've
+never really dealt with the MS Open Source Community, or, well, any MS
+community period in the past decade or so. I guess we'll see what
+happens. I'm certainly interested to see how the cultural philosophies
+of OpenKinect versus MS SDK influence the projects that come out of
+them. 
+
+For a better perspective on this, I defer to [Josh Blake][18], who I
+am signing up to write an article on it before even asking him. Hi
+Josh!
 
 ## Conclusion ## 
 
@@ -485,3 +502,5 @@ with open big data.
 [14]: http://www.openni.org
 [15]: http://www.meetup.com/3DVision/
 [16]: http://openkinect.org/wiki/IRC
+[17]: http://research.microsoft.com/en-us/um/redmond/projects/kinectsdk/
+[18]: http://nui.joshland.org/
