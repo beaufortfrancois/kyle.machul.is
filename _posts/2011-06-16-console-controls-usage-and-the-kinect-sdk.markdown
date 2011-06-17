@@ -27,7 +27,7 @@ wave when it comes.
 * While I am part of the OpenKinect project, I do not speak for others
   involved in the project. All opinions expressed here are my own, and
   all cursing is far fucking better than anyone else on the project
-  could turn out, and while I may share my source code, I'm not giving
+  could turn out, so while I may share my source code, I'm not giving
   them rights to that.
 * I strive to keep all the information as correct as possible, but,
   well, I've been drinking.
@@ -40,7 +40,8 @@ wave when it comes.
 * This article is only about reversing/using alternative console
   controllers, not about reversing consoles themselves. There's a
   completely different history to that which would take much more than
-  a blog post to cover.
+  a blog post to cover, though I will admit that it does have some
+  influence on the information here..
 
 ## Nintendo Wiimote ##
 
@@ -97,7 +98,7 @@ will keep it alive for a while to come.
 
 ## Nintendo WiiU Controller ##
 
-We don't even know if this'll exist in a year, but it's been
+I don't even know if this'll exist in a year, but it's been
 announced, so might as well talk about it.
 
 <CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/kinect-wiiu.jpg' /></CENTER>
@@ -113,7 +114,7 @@ You Get:
 
 ### What Nintendo provide in terms of software ###
 
-Well, it's not gonna come out for another 18 months, so we have no
+Well, it's not gonna come out for another 18 months, so I have no
 idea. It may not even look the same by then.
 
 ### Where Nintendo's going with it ###
