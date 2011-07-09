@@ -2,26 +2,35 @@
 layout: blog
 ---
 {% for post in paginator.posts %}
-<div class="PostContent">
-  <CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarlong.png' /></CENTER>
-  <div class="PostTitle">
-    <h3>{{post.title}}</h3>
-  </div>
-  <div class="PostInfo">
-    <CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarshort.png' /></CENTER>
-    <div class="AlignedText">
-      <div class="AlignLeft">
-	<a href="{{post.url}}">{{post.date  | date: "%H:%m:%S %Y-%m-%d"}}</a>
-      </div>
-      <div class="AlignRight">
-	<a href="{{post.url}}#disqus_thread">View Comments</a>
-      </div>
-    </div>
-  </div>
-  <div class="PostBody">
-    {{post.content}}
-  </div>
-</div>
+	<TABLE class="np-post">
+	  <TR>
+	    <TD class="np-post-nav">
+	      <TABLE>
+		<TR><TD class="np-up-arrow">
+		  &#x25B2;
+		</TD></TR>
+		<TR>
+		  <TD class="np-post-date">
+		    <p><a href="{{post.url}}">{{post.date  | date: "%H:%m:%S" }}</a></p>
+		    <p><a href="{{post.url}}">{{post.date  | date: "%Y-%m-%d" }}</a></p>
+		    <p><a href="{{post.url}}#disqus_thread">View Comments</a></p>
+		  </TD>
+		</TR>
+	      </TABLE>
+	    </TD>
+	    
+	    <td class="np-post-content"> 
+	      <div class="np-post-info">
+		<div class="np-post-title">
+		  <h3>{{post.title}}</h3> 
+		</div>
+	      </div>
+	      <div class="np-post-body"> 
+		{{post.content}}
+	      </div>
+	    </td> 
+	  </TR>
+	</TABLE>
 {% endfor %}
 <CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/site/npdivbarlong.png' /></CENTER>
 <div class="PostNav">
