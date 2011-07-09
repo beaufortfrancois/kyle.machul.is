@@ -2,6 +2,11 @@
  * TAG OVERRIDES
  ********************************************************/
 
+html {
+    overflow: -moz-scrollbars-vertical;
+    overflow-y: scroll;
+}
+
 body {
     margin: 0px;
     padding: 0px;
@@ -57,7 +62,7 @@ body {
 .np-header-bottom-menu a {
     padding-right: 20px;
     font-family: 'Droid Sans', arial, serif;
-    font-size: 10pt;
+    font-size: 11pt;
     text-transform: uppercase;
     text-decoration: none;
     color: #222;    
@@ -203,6 +208,18 @@ body {
     vertical-align: bottom;
 }
 
+.np-header-post-nav {
+    width: 100%
+}
+
+.np-header-older {
+    text-align: left;
+}
+
+.np-header-newer {
+    text-align: right;
+}
+
 /********************************************************
  * CONTENT
  ********************************************************/
@@ -216,17 +233,20 @@ body {
  ********************************************************/
 
 .np-post {
-    width: 90%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 50px;
 }
 
 .np-post-nav {
-    display: table-cell;
     padding-right: 10px;
-    min-width: 70px;
+    width: 100px;
     vertical-align: top;
+}
+
+.np-post-stuff {
+    width: 100px;
 }
 
 .np-up-arrow {
@@ -239,12 +259,16 @@ body {
     width: 100%;
     padding: 0px;
     margin: 0px;
-    display: table;
+    vertical-align: top;
 }
 
 .np-post-title {
     font-size: 16pt;
-    display: table-cell;
+}
+
+.np-post-title h3 {
+    padding-top: 0px;
+    margin-top: 0px;
 }
 
 .np-post-date {
@@ -273,8 +297,10 @@ body {
 }
 
 .np-post-content {
-    display: table-cell;
-    margin: 0px auto;
+    padding-right: 100px;
+    vertical-align: top;
+    padding-top: 0;
+    margin-top: 0;
 }
 
 .np-post-body {
@@ -298,6 +324,10 @@ body {
 .np-post-body a:hover {
     color: #888;
     text-decoration: underline;
+}
+
+.np-post-comments {
+    padding-top: 50px;
 }
 
 /********************************************************

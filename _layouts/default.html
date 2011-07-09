@@ -18,18 +18,18 @@
 		  <TD class="np-header-right-margin">
 		  </TD>
 		  <TD class="np-header-top-title">
-		    <IMG SRC="nptitle.png" />
+		    <IMG SRC="/nptitle.png" />
 		  </TD>
 		  <TD class="np-header-top-menu">		
 		    <A HREF=''>Blog</A><A HREF=''>Bio</A><A HREF=''>Projects</A>
 		  </TD>
 		  <TD class="np-header-icons">
-		    <A HREF='http://feeds.feedburner.com/nonpolynomiallabs'><IMG SRC='rss-16x16.gif' /></A>
-		    <A HREF='http://www.twitter.com/qdot'><IMG SRC='Twitter-16x16.png' /></A>
-		    <A HREF='http://gplus.to/qdot'><IMG SRC='Plus-16x16.png' /></A>
-		    <A HREF='http://www.linkedin.com/in/kylemachulis'><IMG SRC='LinkedIn-16x16.png' /></A>
-		    <A HREF='http://www.facebook.com/kyle.machulis'><IMG SRC='FaceBook-16x16.png' /></A>
-		    <A HREF=''><IMG SRC='Youtube-16x16.png' /></A>
+		    <A HREF='http://feeds.feedburner.com/nonpolynomiallabs'><IMG SRC='/rss-16x16.gif' /></A>
+		    <A HREF='http://www.twitter.com/qdot'><IMG SRC='/Twitter-16x16.png' /></A>
+		    <A HREF='http://gplus.to/qdot'><IMG SRC='/Plus-16x16.png' /></A>
+		    <A HREF='http://www.linkedin.com/in/kylemachulis'><IMG SRC='/LinkedIn-16x16.png' /></A>
+		    <A HREF='http://www.facebook.com/kyle.machulis'><IMG SRC='/FaceBook-16x16.png' /></A>
+		    <A HREF=''><IMG SRC='/Youtube-16x16.png' /></A>
 		  </TD>
 		</TR>
 	      </TABLE>	 
@@ -37,7 +37,7 @@
 	    <TD class="np-header-vert-line">		
 	    </TD>
 	    <TD class="np-header-left">		
-	      <IMG SRC='npcurve.jpg' /> 
+	      <IMG SRC='/npcurve.jpg' /> 
 	    </TD>
 	  </TR>
 	</TABLE>
@@ -59,7 +59,29 @@
 		  <TD class="np-header-right-margin">
 		  </TD>
 		  <TD class="np-header-bottom-menu">
+		    {% case page.category %}
+		    {% when 'front_page' %}
+		    <TABLE class="np-header-post-nav">
+		      <TR>
+			<TD class="np-header-older">
+			  {% if paginator.next_page %}
+			  <a href="/page{{ paginator.next_page}}">&#x21FA; Older Posts</a>
+			  {% endif %}
+			</TD>
+			<TD class="np-header-newer">
+			  {% if paginator.previous_page %}
+			  {% if paginator.previous_page == 1 %}
+			  <a href="/">Newer Posts</a> &gt;&gt;
+			  {% else %}
+			  <a href="/page{{ paginator.previous_page }}">Newer Posts &#x21FB;</a>
+			  {% endif %}
+			  {% endif %}
+			</TD>
+		      </TR>
+		    </TABLE>
+		    {% else %}
 		    <A HREF=''>Bio</A><A HREF=''>Education</A><A HREF=''>Career</A><A HREF=''>Speaking</A><A HREF=''>Publications</A><A HREF=''>Exhibitions</A><A HREF=''>Bibliography</A>
+		    {% endcase %}
 		  </TD>
 		</TR>
 	      </TABLE>
