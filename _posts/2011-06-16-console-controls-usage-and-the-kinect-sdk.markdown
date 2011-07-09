@@ -43,6 +43,8 @@ wave when it comes.
   a blog post to cover, though I will admit that it does have some
   influence on the information here..
 
+<!--more-->
+
 ## Nintendo Wiimote ##
 
 The WiiMote was first out of the gate, so let's start with it. 
@@ -440,6 +442,8 @@ the license is still non-commercial only, that's all they're going to
 win. This could end up pissing off the industry enough that they find
 some way to replicate it without Microsoft's terms. At that point, we
 have a very fun war on our hands.
+
+
 
 ### Where the community is going with it ###
 

@@ -11,8 +11,8 @@ layout: default
 		</TD></TR>
 		<TR>
 		  <TD class="np-post-date">
-		    <p><a href="{{post.url}}">{{post.date  | date: "%H:%m:%S" }}</a></p>
 		    <p><a href="{{post.url}}">{{post.date  | date: "%Y-%m-%d" }}</a></p>
+		    <p><a href="{{post.url}}">{{post.date  | date: "%H:%m:%S" }}</a></p>
 		    <p><a href="{{post.url}}#disqus_thread">View Comments</a></p>
 		  </TD>
 		</TR>
@@ -26,7 +26,12 @@ layout: default
 		</div>
 	      </div>
 	      <div class="np-post-body"> 
-		{{post.content}}
+		{% if post.excerpt %}
+		{{ post.excerpt }}
+		<div class="np-post-readmore"><a href="{{ post.url }}/#more" class="more-link">Read the rest of this entry &#x21FB;</a></div>
+		{% else %}
+		{{ post.content | mark_excerpt }}
+		{% endif %}
 	      </div>
 	    </td> 
 	  </TR>
