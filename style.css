@@ -375,6 +375,12 @@ body {
     margin-bottom: .5em;
 }
 
+.np-about-cv h3 {
+    font-size:11pt;
+    margin-top: .2em;
+    margin-bottom: .2em;
+}
+
 .np-about-cv ul {
     margin-top: .2em;
     margin-bottom: .2em;
@@ -383,6 +389,10 @@ body {
 .np-about-cv li {
     font-size:10pt;
     line-height: 130%;
+}
+
+.np-about-cv a {
+    font-style: italic;
 }
 
 /********************************************************
