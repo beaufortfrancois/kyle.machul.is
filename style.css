@@ -59,6 +59,11 @@ body {
     color: #666;
 }
 
+.np-header-bottom-menu {
+    padding-left: 6px;
+    width: 100%;
+}
+
 .np-header-bottom-menu a {
     padding-right: 20px;
     font-family: 'Droid Sans', arial, serif;
@@ -335,6 +340,49 @@ body {
 .np-post-readmore {
     margin: 10px auto;
     font-size: 14pt;
+}
+
+/********************************************************
+ * BIO SPECIFIC
+ ********************************************************/
+
+.np-about-picture {
+    float:left;
+    width:240;
+    height:180;
+    padding:5px;
+}
+
+.np-about-content {
+    margin: 0px auto;
+    width: 80%;
+    font-size: 11pt;
+}
+
+.np-about-content a {
+    color: #666;
+    text-decoration: underline;
+}
+
+.np-about-content a:hover {
+    color: #888;
+    text-decoration: underline;
+}
+
+.np-about-cv h2 {
+    font-size:14pt;
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
+.np-about-cv ul {
+    margin-top: .2em;
+    margin-bottom: .2em;
+}
+
+.np-about-cv li {
+    font-size:10pt;
+    line-height: 130%;
 }
 
 /********************************************************
