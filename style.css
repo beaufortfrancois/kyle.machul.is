@@ -19,7 +19,7 @@ body {
 .np-page {
     margin: 0px auto;
     text-align:left;
-    width:1000px;
+    width:850px;
 }
 
 /********************************************************
@@ -46,6 +46,54 @@ body {
     border: 0;    
 }
 
+
+.np-header-top {
+    width: 100%;
+    height: 35px;
+}
+
+.np-header-top-left {
+    padding-left: 6px;
+    float:left;
+    position: relative;
+    height: 100%;
+    width: 95%;
+    border: 0;
+    border-spacing: 0;
+    margin: 0;
+}
+
+.np-header-top-title {
+    float: left;
+    height: 35px;
+    width: 352px;
+}
+
+.np-header-top-left img {
+    position: absolute;
+    bottom: 3px;
+}
+
+.np-header-top-icons {
+    float:right;
+}
+
+.np-header-top-icon {
+    float: left;
+    width: 16px;
+    height: 100%;
+    margin-left: 3px;
+    position: relative;
+}
+
+.np-header-top-menu {
+    display: inline-block;
+    clear: left;
+    height: 100%;
+    width: 38%;
+    vertical-align: bottom;
+}
+
 .np-header-top-menu a {
     padding: 0px 20px;
     font-family: 'Droid Sans', arial, serif;
@@ -53,10 +101,20 @@ body {
     text-transform: uppercase;
     text-decoration: none;
     color: #222;    
+    height: 100%;
 }
 
 .np-header-top-menu a:hover {
     color: #666;
+}
+
+.np-header-top-vert-line {
+    float: right;
+    height: 35px;
+    width: 2px;
+    vertical-align:bottom;
+    background: #000;
+    border-spacing:0px;
 }
 
 .np-header-bottom-menu {
@@ -65,7 +123,7 @@ body {
 }
 
 .np-header-bottom-menu a {
-    padding-right: 20px;
+    padding-right: 10px;
     font-family: 'Droid Sans', arial, serif;
     font-size: 11pt;
     text-transform: uppercase;
@@ -77,63 +135,50 @@ body {
     color: #666;
 }
 
-.np-header-top-right {
-    width: 980px;
+.np-header-bottom {
+    clear: both;
+}
+
+.np-header-bottom-left {
+    width: 95%;
     border: 0;
     border-spacing: 0;
     margin: 0;
     padding: 0;
-    vertical-align:bottom;
+    float: left;
 }
 
-.np-header-bottom-right {
-    width: 980px;
-    border: 0;
-    border-spacing: 0;
-    margin: 0;
-    padding: 0;
-    vertical-align:top;
-}
-
-.np-header-top-menu {
-    display: table-cell;
-    padding-top: 3px;
-}
-
-.np-header-menu {
-    width: 986px;    
-    padding-top: 3px;
-}
-
-.np-header-right-margin {
-    width: 6px;
-}
-
-.np-header-vert-line {
-    height: 35px;
-    width: 2px;
-    vertical-align:bottom;
-    background: #000;
+.np-header-right {
+    float: right;
     border-spacing:0px;
+    min-width:10px;
+    min-height:25px;
 }
 
-.np-header-left {
-    text-align:left;
-    vertical-align:bottom;
-    border-spacing:0px;
-    width:10px;
-}
-
-.np-header-line {    
-    width: 1000px;
+.np-header-line {
+    clear: both;
+    width: 100%;
     height: 2px;
     border-spacing: 0px;
 }
 
+.np-header-line-center {
+    float: left;
+    width: 94%;
+    height: 2px;
+    line-height:0px;
+    background: #000;
+    padding: 0px;
+    border: 0px;
+    border-spacing: 0px;
+    margin: 0px;
+}
+
 .np-header-line-right-cap {
+    float: left;
     padding: 0px;
     margin: 0px;
-    width: 25px;
+    width: 3%;
     height: 2px;
     background: -moz-linear-gradient(left, rgba(0,0,0,1) 51%, rgba(0,0,0,0) 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, right top, color-stop(51%,rgba(0,0,0,1)), color-stop(100%,rgba(0,0,0,0))); /* Chrome,Safari4+ */
@@ -144,31 +189,13 @@ body {
     background: linear-gradient(left, rgba(0,0,0,1) 51%,rgba(0,0,0,0) 100%); /* W3C */
 }
 
-.np-header-line table {
-    border: 0px;
-    height: 2px;
-    width: 1000px;
-    line-height:2px;
-    border-spacing: 0px;
-}
-
-.np-header-line-center {
-    width: 950px;
-    height: 2px;
-    line-height:0px;
-    background: #000;
-    padding: 0px;
-    border: 0px;
-    border-spacing: 0px;
-    margin: 0px;
- }
-
 .np-header-line-left-cap {
+    float:left;
     padding: 0px;
     border: 0px;
     border-spacing: 0px;
     margin: 0px;
-    width: 25px;
+    width: 3%;
     height: 2px;
     background: -moz-linear-gradient(left, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 51%, rgba(0,0,0,1) 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(0,0,0,0)), color-stop(51%,rgba(0,0,0,1)), color-stop(100%,rgba(0,0,0,1))); /* Chrome,Safari4+ */
@@ -180,6 +207,7 @@ body {
 }
 
 .np-header-line-lower-cap {
+    float:right;
     padding: 0px;
     border: 0px;
     border-spacing: 0px;
@@ -195,33 +223,19 @@ body {
     background: linear-gradient(top, rgba(0,0,0,1) 51%,rgba(0,0,0,0) 100%); /* W3C */
 }
 
-.np-header-top-title {
-    width: 352px;
-    vertical-align: bottom;
-    padding-bottom: 3px;
-}
-
-.np-header-top-menu {
-    width: 450px;
-    text-align: center;
-    vertical-align: bottom;
-    padding-bottom: 3px;
-}
-
-.np-header-icons {
-    text-align: right;
-    vertical-align: bottom;
-}
-
 .np-header-post-nav {
     width: 100%
 }
 
 .np-header-older {
+    width: 50%;
+    float: left;
     text-align: left;
 }
 
 .np-header-newer {
+    width: 50%;
+    float: left;
     text-align: right;
 }
 
@@ -231,6 +245,7 @@ body {
 
 .np-content {
     width:100%;
+    padding-top:20px;
 }
 
 /********************************************************
@@ -399,3 +414,110 @@ body {
  * PORTFOLIO SPECIFIC
  ********************************************************/
 
+.np-project-content {
+    margin: 0px auto;
+}
+
+.np-project-box {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000;
+    margin: 10px;
+    float: left;
+}
+
+.np-project-box-row {
+    clear:both;
+}
+
+.np-project-box-title {
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    vertical-align: top;
+    padding: 0px;
+    margin:0px;
+    background: #000;
+    color: #fff;
+    font-size: 9pt;
+    font-family: 'Droid Sans', arial, serif;
+}
+
+.np-project-box-title p {
+    padding-left: 5px;
+    line-spacing: 100%;
+    margin: 0px;
+}
+
+.np-project-box-icons {
+    position: absolute;
+    top: 30px;
+    height: 20px;
+    width: 100%;
+    text-align: right;
+    vertical-align: bottom;
+}
+
+.np-project-box-icons img {
+    margin: 2px;
+    background: #fff;
+    vertical-align: bottom;
+}
+
+.np-project-box-description {
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    padding: 0px;
+    margin: 0px;
+    bottom: 0px;
+    background: #000;
+    color: #fff;
+    font-size: 8pt;
+    font-family: 'Droid Sans', arial, serif;
+}
+
+.np-project-box-description p {
+    margin: 2px;
+    padding: 0px;
+}
+
+.np-project-info {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.np-project-list {
+    float: left;
+    font-size: 9pt;
+    width: 30%;
+    border-right: 1px solid #000;
+    margin-right: 10px;
+    padding-right: 10px;
+}
+
+.np-project-description {
+    float: left;
+    font-size: 10pt;
+    width: 60%;
+}
+
+.np-project-list h2 {
+    font-size: 10pt;
+    font-style: bold;
+    margin: 0px;
+    margin-top: 5px;
+}
+
+.np-project-list p {
+    padding-left: 2em;
+    margin: 0px;
+    margin-bottom: 5px;
+}
+
+.np-project-box-row a {
+    text-decoration: none;
+}
