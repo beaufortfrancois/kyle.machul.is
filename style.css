@@ -254,6 +254,14 @@ body {
     text-align: right;
 }
 
+.np-footer {
+    clear: both;
+    width: 100%;
+    text-align: center;
+    font-family: 'Droid Sans', arial, serif;
+    font-size: 8pt;
+}
+
 /********************************************************
  * CONTENT
  ********************************************************/
@@ -334,7 +342,7 @@ body {
 }
 
 .np-post-content {
-    padding-right: 100px;
+    padding-right: 40px;
     vertical-align: top;
     padding-top: 0;
     margin-top: 0;
@@ -430,20 +438,26 @@ body {
  ********************************************************/
 
 .np-project-content {
+    width: 90%;
     margin: 0px auto;
+}
+
+.np-project-content h2 {
+    clear: both;
 }
 
 .np-project-box {
     position: relative;
-    width: 200px;
-    height: 200px;
+    width: 175px;
+    height: 175px;
     border: 1px solid #000;
-    margin: 10px;
+    margin: 5px;
     float: left;
 }
 
 .np-project-box-row {
-    clear:both;
+    clear: both;
+    margin: 0px auto;
 }
 
 .np-project-box-title {
