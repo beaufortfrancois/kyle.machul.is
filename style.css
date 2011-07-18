@@ -48,14 +48,18 @@ body {
 
 
 .np-header-top {
-    width: 100%;
+    width: 97%;
     height: 35px;
+    max-height: 35px;
+    border: 0px;
+    padding: 0px;
+    margin: 0px auto;
+    border-spacing: 0px;
 }
 
 .np-header-top-left {
     padding-left: 6px;
     float:left;
-    position: relative;
     height: 100%;
     width: 95%;
     border: 0;
@@ -66,46 +70,50 @@ body {
 .np-header-top-title {
     float: left;
     height: 35px;
-    width: 352px;
+    width: 375px;
+    position: relative;
 }
 
-.np-header-top-left img {
-    position: absolute;
+.np-header-top-title img {
     bottom: 3px;
-}
-
-.np-header-top-icons {
-    float:right;
+    position: absolute;
 }
 
 .np-header-top-icon {
-    float: left;
+    float: right;
     width: 16px;
     height: 100%;
     margin-left: 3px;
     position: relative;
 }
 
-.np-header-top-menu {
-    display: inline-block;
-    clear: left;
-    height: 100%;
-    width: 38%;
-    vertical-align: bottom;
+.np-header-top-icon img {
+    bottom: 3px;
+    position: absolute;
 }
 
-.np-header-top-menu a {
-    padding: 0px 20px;
+.np-header-top-menu-link {
+    float: left;
+    height: 100%;
+    position: relative;
+    width: 75px;
+    text-align: center;
+    padding: 0px 5px;
+}
+
+.np-header-top-menu-link a {
+    position: absolute;
+    bottom: 0px;
     font-family: 'Droid Sans', arial, serif;
     font-size: 14pt;
     text-transform: uppercase;
     text-decoration: none;
     color: #222;    
-    height: 100%;
 }
 
 .np-header-top-menu a:hover {
     color: #666;
+    text-decoration: none;
 }
 
 .np-header-top-vert-line {
@@ -136,6 +144,8 @@ body {
 }
 
 .np-header-bottom {
+    width: 97%;
+    margin: 0px auto;
     clear: both;
 }
 
@@ -151,8 +161,11 @@ body {
 .np-header-right {
     float: right;
     border-spacing:0px;
-    min-width:10px;
-    min-height:25px;
+    width:10px;
+    height:35px;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
 }
 
 .np-header-line {
@@ -164,7 +177,7 @@ body {
 
 .np-header-line-center {
     float: left;
-    width: 94%;
+    width: 92%;
     height: 2px;
     line-height:0px;
     background: #000;
@@ -175,8 +188,10 @@ body {
 }
 
 .np-header-line-right-cap {
-    float: left;
+    float:left;
     padding: 0px;
+    border: 0px;
+    border-spacing: 0px;
     margin: 0px;
     width: 3%;
     height: 2px;
@@ -195,7 +210,7 @@ body {
     border: 0px;
     border-spacing: 0px;
     margin: 0px;
-    width: 3%;
+    width: 4%;
     height: 2px;
     background: -moz-linear-gradient(left, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 51%, rgba(0,0,0,1) 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(0,0,0,0)), color-stop(51%,rgba(0,0,0,1)), color-stop(100%,rgba(0,0,0,1))); /* Chrome,Safari4+ */
