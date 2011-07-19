@@ -96,7 +96,7 @@ body {
     float: left;
     height: 100%;
     position: relative;
-    width: 75px;
+    width: 60px;
     text-align: center;
     padding: 0px 5px;
 }
@@ -105,13 +105,13 @@ body {
     position: absolute;
     bottom: 0px;
     font-family: 'Droid Sans', arial, serif;
-    font-size: 14pt;
+    font-size: 13pt;
     text-transform: uppercase;
     text-decoration: none;
     color: #222;    
 }
 
-.np-header-top-menu a:hover {
+.np-header-top-menu-link a:hover {
     color: #666;
     text-decoration: none;
 }
