@@ -528,6 +528,10 @@ body {
     padding-right: 10px;
 }
 
+.np-project-list p {
+    padding-left: 15px;
+}
+
 .np-project-description {
     float: left;
     font-size: 10pt;
@@ -542,11 +546,27 @@ body {
 }
 
 .np-project-list p {
-    padding-left: 2em;
-    margin: 0px;
-    margin-bottom: 5px;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    padding-left: 1em;
+}
+
+.np-project-list ul {
+    margin-top: .5em;
+    margin-bottom: .5em;
+    list-style:none;
+    padding-left: 1em;
+}
+
+.np-project-list li {
+    padding-bottom: 8px;
 }
 
 .np-project-box-row a {
     text-decoration: none;
+}
+
+.np-project-description h2 {
+    padding-top: 0px;
+    margin-top: 5px;
 }
