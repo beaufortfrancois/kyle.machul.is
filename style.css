@@ -453,6 +453,8 @@ body {
     border: 1px solid #000;
     margin: 5px;
     float: left;
+    background-repeat:no-repeat;
+    background-position:center; 
 }
 
 .np-project-box-row {
@@ -512,54 +514,62 @@ body {
     padding: 0px;
 }
 
-.np-project-info {
+.np-project-sidebar {
     margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
 }
 
 .np-project-list {
     float: left;
     font-size: 9pt;
-    width: 30%;
     border-right: 1px solid #000;
     margin-right: 10px;
     padding-right: 10px;
+    width: 25%;
 }
 
-.np-project-list p {
+.np-library-list {
+    float: left;
+    font-size: 9pt;
+    border-right: 1px solid #000;
+    margin-right: 10px;
+    padding-right: 10px;
+    width: 17%;
+}
+
+.np-project-sidebar p {
     padding-left: 15px;
 }
 
-.np-project-description {
-    float: left;
-    font-size: 10pt;
-    width: 60%;
-}
-
-.np-project-list h2 {
+.np-project-sidebar h2 {
     font-size: 10pt;
     font-style: bold;
     margin: 0px;
     margin-top: 5px;
 }
 
-.np-project-list p {
+.np-project-sidebar p {
     margin-top: .5em;
     margin-bottom: .5em;
     padding-left: 1em;
 }
 
-.np-project-list ul {
+.np-project-sidebar ul {
     margin-top: .5em;
     margin-bottom: .5em;
     list-style:none;
     padding-left: 1em;
 }
 
-.np-project-list li {
+.np-project-sidebar li {
     padding-bottom: 8px;
+}
+
+.np-project-description {
+    float: left;
+    font-size: 10pt;
+    width: 60%;
 }
 
 .np-project-box-row a {
@@ -569,4 +579,23 @@ body {
 .np-project-description h2 {
     padding-top: 0px;
     margin-top: 5px;
+}
+
+.np-library-box-title {
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    vertical-align: top;
+    padding: 0px;
+    margin:0px;
+    background: #000;
+    color: #fff;
+    font-size: 9pt;
+    font-family: 'Droid Sans', arial, serif;
+}
+
+.np-library-box-title p {
+    padding-left: 5px;
+    line-spacing: 100%;
+    margin: 0px;
 }
