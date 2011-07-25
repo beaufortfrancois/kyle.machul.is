@@ -596,3 +596,18 @@ body {
     line-spacing: 100%;
     margin: 0px;
 }
+
+.np-project-type {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.np-project-type-header H1 {
+    float: left;
+    width: 49%;
+    font-family: 'Droid Sans', arial, serif;    
+    font-size: 22pt;
+    font-style: bold;
+    margin: 0px;    
+}
+
