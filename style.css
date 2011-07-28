@@ -37,16 +37,6 @@ body {
     border: 0px;
 }
 
-.np-header table, td {
-    border-collapse: separate;
-    border-spacing: 0;
-    *border-collapse: collapse;
-    padding: 0;
-    margin: 0;
-    border: 0;    
-}
-
-
 .np-header-top {
     width: 97%;
     height: 35px;
@@ -517,6 +507,16 @@ body {
     margin-right: auto;
 }
 
+.np-project-sidebar a {
+    color: #666;
+    text-decoration: underline;
+}
+
+.np-project-sidebar a:hover {
+    color: #888;
+    text-decoration: underline;
+}
+
 .np-project-list {
     float: left;
     font-size: 9pt;
@@ -611,3 +611,12 @@ body {
     margin: 0px;    
 }
 
+.np-project-article {
+    font-size: 10pt;
+}
+
+.np-project-article img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
