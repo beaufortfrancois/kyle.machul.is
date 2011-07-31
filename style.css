@@ -578,6 +578,14 @@ body {
     margin-top: 5px;
 }
 
+.np-project-description iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
 .np-library-box-title {
     position: absolute;
     width: 100%;
