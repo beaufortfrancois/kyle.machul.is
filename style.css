@@ -232,6 +232,19 @@ body {
     width: 100%
 }
 
+.np-header-post-nav a {
+    padding-right: 10px;
+    font-family: 'Droid Sans', arial, serif;
+    font-size: 11pt;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #222;    
+}
+
+.np-header-post-nav a:hover {
+    color: #666;
+}
+
 .np-header-older {
     width: 50%;
     float: left;
@@ -250,6 +263,8 @@ body {
     text-align: center;
     font-family: 'Droid Sans', arial, serif;
     font-size: 8pt;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 /********************************************************
@@ -266,6 +281,7 @@ body {
  ********************************************************/
 
 .np-post {
+    clear: both;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -273,19 +289,15 @@ body {
 }
 
 .np-post-nav {
+    float: left;
     padding-right: 10px;
     padding-left: 10px;
-    width: 90px;
+    width: 11%;
     vertical-align: top;
     text-align: right;
 }
 
-.np-post-stuff {
-    width: 90px;
-}
-
 .np-up-arrow {
-    width: 80px;
     font-size:18pt;
     text-align: right;
 }
@@ -304,6 +316,21 @@ body {
 .np-post-title h3 {
     padding-top: 0px;
     margin-top: 0px;
+}
+
+.np-post-title a {
+    color: #000;
+    text-decoration: none;
+}
+
+.np-post-title a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+.np-post-title a:visited {
+    color: #000;
+    text-decoration: none;
 }
 
 .np-post-date {
@@ -326,13 +353,13 @@ body {
 }
 
 .np-post-date a:hover {
-    padding: 0px 5px;
     color: #666;
     text-decoration: underline;
 }
 
 .np-post-content {
-    padding-right: 40px;
+    width: 82%;
+    float: left;
     vertical-align: top;
     padding-top: 0;
     margin-top: 0;
@@ -362,6 +389,7 @@ body {
 }
 
 .np-post-comments {
+    clear: both;
     padding-top: 50px;
 }
 

@@ -13,7 +13,7 @@
       <div class="np-header">
 	<div class="np-header-top">
 	  <div class="np-header-top-left">
-	    <div class="np-header-top-title"><IMG SRC="/images/nptitle.png" /></div>
+	    <div class="np-header-top-title"><A HREF='/'><IMG SRC="/images/nptitle.png" /></A></div>
 	    <div class="np-header-top-menu-link"><A HREF='/'>Blog</A></div>
 	    <div class="np-header-top-menu-link"><A HREF='/about'>About</A></div>
 	    <div class="np-header-top-menu-link"><A HREF='/projects'>Projects</A></div>
@@ -50,6 +50,19 @@
 		  {% else %}
 		  <a href="/page{{ paginator.previous_page }}">Newer Posts &#x21FB;</a>
 		  {% endif %}
+		  {% endif %}
+		</div>
+	      </div>
+	      {% when 'post' %}
+	      <div class="np-header-post-nav">
+		<div class="np-header-older">
+		  {% if page.previous %}
+		  <a href="{{ page.previous.url }}">&#x21FA; Previous Post</a>
+		  {% endif %}
+		</div>
+		<div class="np-header-newer">
+		  {% if page.next %}
+		  <a href="{{ page.next.url }}">Next Post &#x21FB;</a>
 		  {% endif %}
 		</div>
 	      </div>

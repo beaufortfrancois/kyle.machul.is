@@ -2,40 +2,34 @@
 layout: default
 ---
 {% for post in paginator.posts %}
-	<TABLE class="np-post">
-	  <TR>
-	    <TD class="np-post-nav">
-	      <TABLE class="np-post-stuff">
-		<TR><TD class="np-up-arrow">
-		  &#x25B2;
-		</TD></TR>
-		<TR>
-		  <TD class="np-post-date">
-		    <p><a href="{{post.url}}">{{post.date  | date: "%Y-%m-%d" }}</a></p>
-		    <p><a href="{{post.url}}">{{post.date  | date: "%H:%m:%S" }}</a></p>
-		    <p><a href="{{post.url}}#disqus_thread">View Comments</a></p>
-		  </TD>
-		</TR>
-	      </TABLE>
-	    </TD>
-	    
-	    <td class="np-post-content"> 
-	      <div class="np-post-info">
-		<div class="np-post-title">
-		  <h3>{{post.title}}</h3> 
-		</div>
-	      </div>
-	      <div class="np-post-body"> 
-		{% if post.excerpt %}
-		{{ post.excerpt }}
-		<div class="np-post-readmore"><a href="{{ post.url }}/#more" class="more-link">Read the rest of this entry &#x21FB;</a></div>
-		{% else %}
-		{{ post.content | mark_excerpt }}
-		{% endif %}
-	      </div>
-	    </td> 
-	  </TR>
-	</TABLE>
+<div class="np-post">
+  <div class="np-post-nav">
+    <div class="np-post-stuff">
+      <div class="np-up-arrow">&#x25B2;</div>
+      <div class="np-post-date">
+	<p><a href="{{post.url}}">{{post.date  | date: "%Y-%m-%d" }}</a></p>
+	<p><a href="{{post.url}}">{{post.date  | date: "%H:%m:%S" }}</a></p>
+	<p><a href="{{post.url}}#disqus_thread">View Comments</a></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="np-post-content"> 
+    <div class="np-post-info">
+      <div class="np-post-title">
+	<h3><a href='{{post.url}}'>{{post.title}}</a></h3> 
+      </div>
+    </div>
+    <div class="np-post-body"> 
+      {% if post.excerpt %}
+      {{ post.excerpt }}
+      <div class="np-post-readmore"><a href="{{ post.url }}/#more" class="more-link">Read the rest of this entry &#x21FB;</a></div>
+      {% else %}
+      {{ post.content | mark_excerpt }}
+      {% endif %}
+    </div>
+  </div>
+</div>
 {% endfor %}
 <div class="np-header-post-nav">
   <div class="np-header-older">

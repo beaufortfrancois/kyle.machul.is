@@ -1,58 +1,44 @@
 ---
 layout: default
+category: post
 ---
-<div class="PostNav">
+<div class="np-post">
+  <div class="np-post-nav">
+    <div class="np-post-stuff">
+      <div class="np-up-arrow">&#x25B2;</div>
+      <div class="np-post-date">
+	<p><a href="{{page.url}}">{{page.date  | date: "%Y-%m-%d" }}</a></p>
+	<p><a href="{{page.url}}">{{page.date  | date: "%H:%m:%S" }}</a></p>
+	<p><a href="{{page.url}}#disqus_thread">View Comments</a></p>
+	<BR />
+	<BR />
+	{% if page.previous %}
+	<p>Previous:</p>
+	<p><A HREF='{{ page.previous.url }}'>{{ page.previous.title }}</A></p>
+	<BR />
+	<BR />
+	{% endif %}
+	{% if page.next %}
+	<p>Next:</p>
+	<p><A HREF='{{ page.next.url }}'>{{ page.next.title }}</A></p>
+	{% endif %}
+      </div>
+    </div>
+  </div>
+
+  <div class="np-post-content"> 
+    <div class="np-post-info">
+      <div class="np-post-title">
+	<h3><a href='{{page.url}}'>{{page.title}}</a></h3> 
+      </div>
+    </div>
+    <div class="np-post-body"> 
+      {{ content }}
+    </div>
+  </div>
+  
+  <div class="np-post-comments">
+    <div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/nonpolynomial/embed.js"></script><noscript><a href="http://nonpolynomial.disqus.com/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
 </div>
-<TABLE class="np-post">
-  <TR>
-    <TD class="np-post-nav">
-      <TABLE class="np-post-stuff">
-	<TR>
-	  <TD class="np-up-arrow">
-	    &#x25B2;
-	  </TD>
-	</TR>
-	<TR>
-	  <TD class="np-post-date">
-	    <p><a href="{{page.url}}">{{page.date  | date: "%Y-%m-%d" }}</a></p>
-	    <p><a href="{{page.url}}">{{page.date  | date: "%H:%m:%S" }}</a></p>
-	    <p><a href="{{page.url}}#disqus_thread">View Comments</a></p>
-	  </TD>
-	</TR>
-	<TR>
-	  <TD class="np-post-date">
-	    <BR />
-	    <BR />
-	    <p>Last Post:</p>
-	    <p><A HREF='{{ page.previous.url }}'>{{ page.previous.title }}</A></p>
-	    <BR />
-	    <BR />
-	    {% if page.next %}
-	    <p>Next Post:</p>
-	    <p><A HREF='{{ page.next.url }}'>{{ page.next.title }}</A></p>
-	    {% endif %}
-	  </TD>
-	</TR>
-      </TABLE>
-    </TD>
-    
-    <td class="np-post-content"> 
-      <div class="np-post-info">
-	<div class="np-post-title">
-	  <h3>{{page.title}}</h3> 
-	</div>
-      </div>
-      <div class="np-post-body"> 
-	{{content}}
-      </div>
-    </td> 
-  </TR>
-  <TR>
-    <TD></TD>
-    <TD>      
-      <div class="np-post-comments">
-        <div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/nonpolynomial/embed.js"></script><noscript><a href="http://nonpolynomial.disqus.com/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-      </div>
-    </TD>
-  </TR>
-</TABLE>
+
