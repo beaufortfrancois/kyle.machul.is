@@ -29,6 +29,7 @@ Before I get into technical descriptions, the current resources
 available for updates on keepon hacking are:
 
 * [The Keepoff Project Github Site](http://www.github.com/qdot/keepoff)
+* [Keepon Reverse Engineering Doc](https://github.com/qdot/keepoff/blob/master/doc/keepon_reverse_engineering.asciidoc)
 * [My twitter account for real time updates](http://www.twitter.com/qdot)
 * [My flickr account, for pictures when I remember to upload them](http://www.flickr.com/photos/qdot76367)
 
