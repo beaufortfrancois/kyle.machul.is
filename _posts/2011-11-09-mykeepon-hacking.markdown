@@ -61,7 +61,7 @@ horizontal, Y-Axis up, Z-axis thru):
   is tapped)
 
 A speaker is also available for playing sounds. There is no volume
-nob, sounds are always on, and always loud. The secondary market for
+knob, sounds are always on, and always loud. The secondary market for
 keepons with volume knobs installed is going to be killer.
 
 ## Keepon States
@@ -71,9 +71,9 @@ MyKeepon has 3 states when powered on:
 * Touch - Pays attention to buttons, looks around
 * Music - Listens for music, or dances to rhythm tapped out using head
   button
-* Sleep - Processors in low power state, can be brough out of sleep by
-  hitting music button or tapping head, which causes reset line to be
-  pulled.
+* Sleep - Processor(s) in low power state, can be brought out of sleep
+  by hitting music button or tapping head, which causes reset line to
+  be pulled.
 
 ## Mechanisms and Power
 
@@ -121,8 +121,8 @@ Their data sheets describe them as FPPAs, or "Field Programmable
 Processor Arrays". I have no idea how this makes them special. They're
 dual core, hence the "processor array", but other than that, they look
 like they're One Time Programmable, hence the Field Programmable part
-being... questionable at best. Also, as marcan found, they tend to
-straight up lift figures and paragraphs from the PIC datasheets.
+being... questionable at best. Also, as marcan found,
+[they tend to straight up lift figures and paragraphs from the PIC datasheets](https://twitter.com/#!/marcan42/status/131869545903296512).
 
 The two processors talk to each other via I2C. The PS232 deals with
 sound and encoders and is the slave node on the I2C bus, while the
