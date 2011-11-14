@@ -4,8 +4,7 @@ date: 2011-11-09 17:15:09 -08:00
 layout: post
 ---
 
-<B>UPDATE 2011-11-14:</B> Keepon hacking has made a major step! Thanks to
-[mAngO on the comment thread for my last keepon post](http://www.nonpolynomial.com/2011/11/09/mykeepon-hacking/#comment-359766077),
+<B>UPDATE 2011-11-14:</B> Keepon hacking has made a major step! Thanks to [mAngO on the comment thread for my last keepon post](http://www.nonpolynomial.com/2011/11/09/mykeepon-hacking/#comment-359766077),
 we now know that grounding out the bus during keepon's powerup allows
 you to act as the master to the bus!
 [There's a Proof of Concept video posted on youtube now.](http://www.nonpolynomial.com/2011/11/14/keepon-hacking-proof-of-concept/).
