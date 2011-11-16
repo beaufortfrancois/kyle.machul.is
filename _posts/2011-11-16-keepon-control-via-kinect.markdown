@@ -11,12 +11,12 @@ And the hits just keep on comin'.
 I threw this together this evening, in about 4 hours from top to
 bottom (code + video). Yay open source. Project uses:
 
-* Arduino + Keepoff (http://www.github.com/qdot/keepoff) - Control of Keepon Robot
-* Processing (http://www.processing.org) - tying the whole thing together
-* OSCP5 (http://www.sojamo.de/oscP5) - talk to python script that's controlling arduino, already had that written so didn't write serial controls in Processing
-* GSVideo (http://gsvideo.sourceforge.net) - for webcam (filming keepon)
-* SimpleOpenNI (http://code.google.com/p/simple-openni) - kinect recording and skeleton tracking in processing
-* libfreenect (http://www.openkinect.org) - Cross platform kinect access
+* Arduino + Keepoff [http://www.github.com/qdot/keepoff](http://www.github.com/qdot/keepoff) - Control of Keepon Robot
+* Processing [http://www.processing.org](http://www.processing.org) - tying the whole thing together
+* OSCP5 [http://www.sojamo.de/oscP5](http://www.sojamo.de/oscP5) - talk to python script that's controlling arduino, already had that written so didn't write serial controls in Processing
+* GSVideo [http://gsvideo.sourceforge.net](http://gsvideo.sourceforge.net) - for webcam (filming keepon)
+* SimpleOpenNI [http://code.google.com/p/simple-openni](http://code.google.com/p/simple-openni) - kinect recording and skeleton tracking in processing
+* libfreenect [http://www.openkinect.org](http://www.openkinect.org) - Cross platform kinect access
 
 Processing running on Linux, X Forwarded to OS X because apparently
 it's impossible to get good screencast software on linux.
