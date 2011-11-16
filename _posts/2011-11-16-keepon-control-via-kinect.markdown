@@ -1,6 +1,6 @@
 --- 
 title: Keepon Control via Kinect
-date: 2011-11-14 00:12:09 -08:00
+date: 2011-11-16 00:12:09 -08:00
 layout: post
 ---
 
