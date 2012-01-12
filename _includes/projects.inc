@@ -8,8 +8,7 @@
 </p>
   </div>
   <div class="np-project-box-description">
-    <p>Controlling a reverse engineered MyKeepon bot using the Microsoft
-Kinect
+    <p>Controlling a MyKeepon bot using the Microsoft Kinect
 </p>
   </div>
 </div>
