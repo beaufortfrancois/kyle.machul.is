@@ -56,4 +56,6 @@ SUMMARY_MAX_LENGTH = None
 TEMPLATE_PAGES = {'about/about.html': "about/index.html",
                   'templates/404.html': "404/index.html"}
 
+EXTRA_TEMPLATES_PATHS = (['content/about/about-templates'])
+
 MD_EXTENSIONS = ['codehilite', 'extra', 'video']
