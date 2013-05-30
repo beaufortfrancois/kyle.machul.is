@@ -1,1 +1,8 @@
-_site*
+#ignore the generated site directory
+_site
+*.pyc
+output
+\#*
+.#*
+blog-env
+*.pid

@@ -1,0 +1,24 @@
+<div class="np-post">
+  <div class="np-post-nav">
+    <div class="np-post-stuff">
+      <div class="np-up-arrow">&#x25B2;</div>
+      <div class="np-post-date">
+	<p><a href="{{article.url}}">{{ article.date.strftime("%Y-%m-%d") }}</a></p>
+	<p><a href="{{article.url}}">{{ article.date.strftime("%H:%m:%S") }}</a></p>
+	<p><a href="{{article.url}}#disqus_thread">View Comments</a></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="np-post-content"> 
+    <div class="np-post-info">
+      <div class="np-post-title">
+	<h3><a href="{{ SITEURL }}/{{article.url}}">{{article.title}}</a></h3> 
+      </div>
+    </div>
+    <div class="np-post-body"> 
+      {% block article %}
+      {% endblock %}
+    </div>
+  </div>
+</div>
