@@ -1,4 +1,18 @@
 {% extends "article-template.html" %}
+{% block nav %}
+	<BR />
+	<BR />
+	{% if article.prev_article %}
+	<p>Previous:</p>
+	<p><A HREF='{{ SITEURL }}/{{ article.prev_article.url }}'>{{ article.prev_article.title }}</A></p>
+	<BR />
+	<BR />
+	{% endif %}
+	{% if article.next_article %}
+	<p>Next:</p>
+	<p><A HREF='{{ SITEURL }}/{{ article.next_article.url }}'>{{ article.next_article.title }}</A></p>
+	{% endif %}
+{% endblock %}
 {% block article %}
 {{ article.content }}
 {% endblock %}
