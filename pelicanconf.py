@@ -49,9 +49,7 @@ PLUGINS = ['summary', 'neighbors', ]
 SUMMARY_END_MARKER = "<!--more-->"
 SUMMARY_MAX_LENGTH = None
 
-#FILES_TO_COPY = (('extras/robots.txt', 'robots.txt'))
-#                 ('extras/favicon.ico', 'favicon.ico'),
-#                 ('extras/htaccess', '.htaccess'),)
+FILES_TO_COPY = (('extras/htaccess', '.htaccess'),)
 
 TEMPLATE_PAGES = {'about/about.html': "about/index.html",
                   'templates/404.html': "404/index.html"}

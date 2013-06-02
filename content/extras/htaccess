@@ -1,0 +1,29 @@
+Options -Indexes
+ErrorDocument 404 /404/index.html
+
+RewriteEngine On
+
+RewriteRule ^2005/07/10/ever-wonder-where-=-and--came-from/?$ http://nonpolynomial.com/2005/07/10/ever-wonder-where-and-came-from/ [NC,L,R=301]
+RewriteRule ^2006/01/16/25---in-over-my-head/?$ http://nonpolynomial.com/2006/01/16/25-in-over-my-head/ [NC,L,R=301]
+RewriteRule ^2007/07/19/kyle--siggraph-/?$ http://nonpolynomial.com/2007/07/19/kyle-siggraph-/ [NC,L,R=301]
+RewriteRule ^2008/01/13/wiiyo-ir-led--yoyo--wiimote/?$ http://nonpolynomial.com/2008/01/13/wiiyo-ir-led-yoyo-wiimote/ [NC,L,R=301]
+RewriteRule ^2009/09/08/a-day-at-the-ports/?$ http://nonpolynomial.com/2009/09/07/a-day-at-the-ports/ [NC,L,R=301]
+RewriteRule ^2010/10/05/website-reboot-and-np_mindset-release/?$ http://nonpolynomial.com/2010/10/04/website-reboot-and-np_mindset-release/ [NC,L,R=301]
+RewriteRule ^2010/12/27/see-my-vest-see-my-vest-third-space-vest-reversed/?$ http://nonpolynomial.com/2010/12/27/see-my-vest-see-my-vest-third-space-vest-reverse-engineered/ [NC,L,R=301]
+RewriteRule ^2010/12/28/np_thirdspacevest-external-for-max-pd/?$ http://nonpolynomial.com/2010/12/28/np_thirdspacevest-external-for-maxmsp-and-puredata/ [NC,L,R=301]
+RewriteRule ^2011/02/24/openyou/?$ http://nonpolynomial.com/2011/02/24/introducing-openyouorg/ [NC,L,R=301]
+RewriteRule ^2011/03/14/np_epoc-v02-released/?$ http://nonpolynomial.com/2011/03/13/np_epoc-v02-released/ [NC,L,R=301]
+RewriteRule ^2011/11/09/mykeepon-hacking/?$ http://nonpolynomial.com/2011/11/09/everything-you-ever-wanted-to-know-about-mykeepon-except-for-the-parts-i-dont-know-about-yet/ [NC,L,R=301]
+RewriteRule ^2012/10/21/updates-and-speaking/?$ http://nonpolynomial.com/2012/10/21/upcoming-speaking-engagements-and-project-updates [NC,L,R=301]
+RewriteRule ^2005/07/10/ever-wonder-where-=-and--came-from/index.html http://nonpolynomial.com/2005/07/10/ever-wonder-where-and-came-from/ [NC,L,R=301]
+RewriteRule ^2006/01/16/25---in-over-my-head/index.html http://nonpolynomial.com/2006/01/16/25-in-over-my-head/ [NC,L,R=301]
+RewriteRule ^2007/07/19/kyle--siggraph-/index.html http://nonpolynomial.com/2007/07/19/kyle-siggraph-/ [NC,L,R=301]
+RewriteRule ^2008/01/13/wiiyo-ir-led--yoyo--wiimote/index.html http://nonpolynomial.com/2008/01/13/wiiyo-ir-led-yoyo-wiimote/ [NC,L,R=301]
+RewriteRule ^2009/09/08/a-day-at-the-ports/index.html http://nonpolynomial.com/2009/09/07/a-day-at-the-ports/ [NC,L,R=301]
+RewriteRule ^2010/10/05/website-reboot-and-np_mindset-release/index.html http://nonpolynomial.com/2010/10/04/website-reboot-and-np_mindset-release/ [NC,L,R=301]
+RewriteRule ^2010/12/27/see-my-vest-see-my-vest-third-space-vest-reversed/index.htmlhttp://nonpolynomial.com/ 2010/12/27/see-my-vest-see-my-vest-third-space-vest-reverse-engineered/ [NC,L,R=301]
+RewriteRule ^2010/12/28/np_thirdspacevest-external-for-max-pd/index.html http://nonpolynomial.com/2010/12/28/np_thirdspacevest-external-for-maxmsp-and-puredata/ [NC,L,R=301]
+RewriteRule ^2011/02/24/openyou/index.html http://nonpolynomial.com/2011/02/24/introducing-openyouorg/ [NC,L,R=301]
+RewriteRule ^2011/03/14/np_epoc-v02-released/index.html http://nonpolynomial.com/2011/03/13/np_epoc-v02-released/ [NC,L,R=301]
+RewriteRule ^2011/11/09/mykeepon-hacking/index.html http://nonpolynomial.com/2011/11/09/everything-you-ever-wanted-to-know-about-mykeepon-except-for-the-parts-i-dont-know-about-yet/ [NC,L,R=301]
+RewriteRule ^2012/10/21/updates-and-speaking/index.html http://nonpolynomial.com/2012/10/21/upcoming-speaking-engagements-and-project-updates [NC,L,R=301]
