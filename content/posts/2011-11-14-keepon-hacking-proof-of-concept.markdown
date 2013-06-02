@@ -1,10 +1,21 @@
 title: Keepon Hacking Proof of Concept
 date: 2011-11-14 00:12:09
 
+<B>UPDATE 2013-06-01:</B> 
+
+While this post still has relevant information, the engineers at
+[BeatBots](http://www.beatbots.net) have created a far more stable
+firmware. I highly recommend using their MyKeepon firmware, as it fixes
+a lot of the timing issues the KeepOff firmware had. The MyKeepon
+firmware is available at:
+
+[https://github.com/beatbots/MyKeepon](https://github.com/beatbots/MyKeepon)
+
+---
 
 We have Keepon control!
 
-<CENTER><object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/P0u2lakH5nc?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/P0u2lakH5nc?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></CENTER>
+http://www.youtube.com/watch?v=P0u2lakH5nc
 
 Yay! Thanks to [mAngO on the comment thread for my last keepon post](http://www.nonpolynomial.com/2011/11/09/mykeepon-hacking/#comment-359766077), we now know that grounding out the bus during keepon's powerup allows you to act as the master to the bus! This means we can now control the motors and sound, as can be seen in the video above. I'm just controlling motors there, using the [Control Program for Android](http://charlie-roberts.com/Control/) to send OSC messages to a python script I wrote. The python talks to the USB serial port, and the arduino turns the commands coming over serial into I2C to go to keepon.
 

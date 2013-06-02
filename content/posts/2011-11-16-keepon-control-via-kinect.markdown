@@ -1,10 +1,21 @@
 title: Keepon Control via Kinect
 date: 2011-11-16 00:12:09
 
+<B>UPDATE 2013-06-01:</B> 
+
+While this post still has relevant information, the engineers at
+[BeatBots](http://www.beatbots.net) have created a far more stable
+firmware. I highly recommend using their MyKeepon firmware, as it fixes
+a lot of the timing issues the KeepOff firmware had. The MyKeepon
+firmware is available at:
+
+[https://github.com/beatbots/MyKeepon](https://github.com/beatbots/MyKeepon)
+
+---
 
 And the hits just keep on comin'.
 
-<CENTER><object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/6XhbYWLnsq0?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/6XhbYWLnsq0?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></CENTER>
+http://www.youtube.com/watch?v=6XhbYWLnsq0
 
 I threw this together this evening, in about 4 hours from top to
 bottom (code + video). Yay open source. Project uses:
@@ -29,8 +40,10 @@ Code is, as usual, available at
 
 So, why goth dance? This is a running joke we had at
 [the Art and Code conference at CMU last month](http://www.artandcode.com/3d).
-For those not familiar with the youtube meme, see
-[http://www.youtube.com/watch?v=PvNrjcg3WjA](http://www.youtube.com/watch?v=PvNrjcg3WjA)
-at your own risk. I figured that I might as well turn it into a way to
-demo new hardware. Other A&&C people, consider the (velvet, tear
-stained) gauntlet thrown down.
+For those not familiar with the youtube meme:
+
+http://www.youtube.com/watch?v=PvNrjcg3WjA
+
+I figured that I might as well turn it into a way to demo new
+hardware. Other A&&C people, consider the (velvet, tear stained)
+gauntlet thrown down.

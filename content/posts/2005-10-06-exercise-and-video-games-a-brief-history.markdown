@@ -1,4 +1,3 @@
-
 title: "Exercise and Video Games: A Brief History"
 date: 2005-10-06 10:56:19 
 

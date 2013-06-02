@@ -1,6 +1,17 @@
 title: Everything You Ever Wanted to Know about MyKeepon Except for the Parts I Don't Know About Yet
 date: 2011-11-09 17:15:09
 
+<B>UPDATE 2013-06-01:</B> 
+
+While this post still has relevant information, the engineers at
+[BeatBots](http://www.beatbots.net) have created a far more stable
+firmware. I highly recommend using their MyKeepon firmware, as it fixes
+a lot of the timing issues the KeepOff firmware had. The MyKeepon
+firmware is available at:
+
+[https://github.com/beatbots/MyKeepon](https://github.com/beatbots/MyKeepon)
+
+---
 
 <B>UPDATE 2011-11-14:</B> 
 
