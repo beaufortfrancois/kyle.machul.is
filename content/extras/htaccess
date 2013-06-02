@@ -3,6 +3,12 @@ ErrorDocument 404 /404/index.html
 
 RewriteEngine On
 
+RewriteRule ^libraries/?$ http://projects.nonpolynomial.com/$1 [NC,L,R=301]
+RewriteRule ^libraries/index.html$ http://projects.nonpolynomial.com/$1 [NC,L,R=301]
+RewriteRule ^externals/?$ http://projects.nonpolynomial.com/$1 [NC,L,R=301]
+RewriteRule ^externals/index.html$ http://projects.nonpolynomial.com/$1 [NC,L,R=301]
+RewriteRule ^projects/(.*)$ http://projects.nonpolynomial.com/$1 [NC,L,R=301]
+RewriteRule ^projects/?$ http://projects.nonpolynomial.com/$1 [NC,L,R=301]
 RewriteRule ^2005/07/10/ever-wonder-where-=-and--came-from/?$ http://nonpolynomial.com/2005/07/10/ever-wonder-where-and-came-from/ [NC,L,R=301]
 RewriteRule ^2006/01/16/25---in-over-my-head/?$ http://nonpolynomial.com/2006/01/16/25-in-over-my-head/ [NC,L,R=301]
 RewriteRule ^2007/07/19/kyle--siggraph-/?$ http://nonpolynomial.com/2007/07/19/kyle-siggraph-/ [NC,L,R=301]
