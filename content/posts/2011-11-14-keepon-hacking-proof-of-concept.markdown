@@ -1,7 +1,7 @@
 title: Keepon Hacking Proof of Concept
 date: 2011-11-14 00:12:09
 
-<B>UPDATE 2013-06-01:</B> 
+**UPDATE 2013-06-01:**
 
 While this post still has relevant information, the engineers at
 [BeatBots](http://www.beatbots.net) have created a far more stable

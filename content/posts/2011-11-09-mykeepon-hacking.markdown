@@ -1,7 +1,7 @@
 title: Everything You Ever Wanted to Know about MyKeepon Except for the Parts I Don't Know About Yet
 date: 2011-11-09 17:15:09
 
-<B>UPDATE 2013-06-01:</B> 
+**UPDATE 2013-06-01:**
 
 While this post still has relevant information, the engineers at
 [BeatBots](http://www.beatbots.net) have created a far more stable
@@ -13,7 +13,7 @@ firmware is available at:
 
 ---
 
-<B>UPDATE 2011-11-14:</B> 
+**UPDATE 2011-11-14:**
 
 Keepon hacking has made a major step! Thanks to [mAngO on the comment thread for my last keepon post](http://www.nonpolynomial.com/2011/11/09/mykeepon-hacking/#comment-359766077),
 we now know that grounding out the bus during keepon's powerup allows
