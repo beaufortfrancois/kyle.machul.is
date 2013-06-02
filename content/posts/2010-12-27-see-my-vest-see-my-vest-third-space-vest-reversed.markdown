@@ -37,7 +37,7 @@ functionality to the vest.
 
 To close, here's a video of my cat versus the vest (running my code!):
 
-<CENTER markdown='1'><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/q76cphm7hFI?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/q76cphm7hFI?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></CENTER>
+http://www.youtube.com/watch?v=q76cphm7hFI
 
 [1]: http://www.tngames.com
 [2]: https://github.com/qdot/libthirdspacevest/blob/master/doc/third_space_vest_reverse_engineering.asciidoc

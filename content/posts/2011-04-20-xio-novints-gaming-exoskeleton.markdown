@@ -46,7 +46,7 @@ hardware, using
 * [TNGames Third Space Vest][5] ([Which I also write drivers for!][4])
 * Some new gun controller
 
-<CENTER><object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/lV3j2Yxv7jY?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/lV3j2Yxv7jY?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390"></embed></object></CENTER>
+http://www.youtube.com/watch?v=lV3j2Yxv7jY
 
 The XIO is supposed to integrate with Novint's _F-Gen_ drivers. F-Gen
 is an abstract programmer layer (similar to [GlovePIE][7]) made to

@@ -5,11 +5,11 @@ For the past month, I've been living in Vienna as part of as artist residency wi
 
 First off, there's Adult Mario, the mario game that drinks and vibrates!
 
-<CENTER markdown='1'><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/7kiKE3lif8Q&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/7kiKE3lif8Q&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></CENTER>
+http://www.youtube.com/watch?v=7kiKE3lif8Q
 
 Then there's Bartris, the tetris that's also a bartender.
 
-<CENTER markdown='1'><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/qafivdcSekM&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qafivdcSekM&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></CENTER>
+http://www.youtube.com/watch?v=qafivdcSekM
 
 I'll have a post next week that goes into the implementation specifics of these projects, but for now, all of the code is available at [http://www.github.com/qdot/bartris][3].
 
