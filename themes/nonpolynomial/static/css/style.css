@@ -285,6 +285,7 @@ body {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
+    font-family: 'Droid Sans', arial, serif;
 }
 
 .np-post-nav {
@@ -366,8 +367,7 @@ body {
 }
 
 .np-post-body {
-    font-family:  Georgia, Times, serif;
-    font-size: 10pt;
+    font-size: 12pt;
 }
 
 .np-post-body p {
@@ -415,7 +415,8 @@ body {
     margin-top: 40px;
     margin-bottom: 20px;
     width: 80%;
-    font-size: 11pt;
+    font-size: 12pt;
+    font-family: 'Droid Sans', arial, serif;
 }
 
 .np-about-content a {
@@ -429,13 +430,13 @@ body {
 }
 
 .np-about-cv h2 {
-    font-size:14pt;
+    font-size:15pt;
     margin-top: .5em;
     margin-bottom: .5em;
 }
 
 .np-about-cv h3 {
-    font-size:11pt;
+    font-size:13pt;
     margin-top: .2em;
     margin-bottom: .2em;
 }
@@ -446,7 +447,7 @@ body {
 }
 
 .np-about-cv li {
-    font-size:10pt;
+    font-size:11pt;
     line-height: 130%;
 }
 
