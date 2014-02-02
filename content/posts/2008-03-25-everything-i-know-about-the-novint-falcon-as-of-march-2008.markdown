@@ -163,17 +163,17 @@ This was, quite literally, all it took. No amazingness or code breaking or whate
    [1]: http://www.nonpolynomial.com/archives/2008/03/that-thingy-that-feels.php
    [2]: http://www.gamesetwatch.com/2008/03/gamesetlinks_from_falcon_to.php
    [3]: http://arstechnica.com/journals/thumbs.ars/2008/03/25/novint-falcon-at-retail-problems-in-selling-haptic-controllers
-   [4]: http://images.nonpolynomial.com/nonpolynomial.com/blog/falcon/falcon.jpg
+   [4]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2008-03-25-everything-i-know-about-the-novint-falcon-as-of-march-2008/falcon.jpg
    [5]: http://www.bracina.com/haptichardware.html
    [6]: http://www.parallemics.org
    [7]: http://en.wikipedia.org/wiki/Parallel_manipulator
-   [8]: http://images.nonpolynomial.com/nonpolynomial.com/blog/falcon/parallel1.jpg
-   [9]: http://images.nonpolynomial.com/nonpolynomial.com/blog/falcon/parallel2.jpg
+   [8]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2008-03-25-everything-i-know-about-the-novint-falcon-as-of-march-2008/parallel1.jpg
+   [9]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2008-03-25-everything-i-know-about-the-novint-falcon-as-of-march-2008/parallel2.jpg
    [10]: http://www.eurohaptics.vision.ee.ethz.ch/2001/grange.pdf
    [11]: http://www.parallemic.org/Reviews/Review002.html
    [12]: http://libnifalcon.sourceforge.net
    [13]: http://www.forcedimension.com/
-   [14]: http://images.nonpolynomial.com/nonpolynomial.com/blog/falcon/omega3_2.jpg
+   [14]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2008-03-25-everything-i-know-about-the-novint-falcon-as-of-march-2008/omega3_2.jpg
    [15]: http://farm3.static.flickr.com/2093/2275967695_20b971efce.jpg
    [16]: http://www.flickr.com/photos/qdot76367/2275967695/ (The Inside of the Falcon by qdot76367, on Flickr)
    [17]: http://www.ftdichip.com/

@@ -4,7 +4,7 @@ date: 2012-10-21 16:42:10
 
 Time for more speaking updates! 
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/aes2012.jpg' /></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/2012-10-21-updates-and-speaking/aes2012.jpg' /></CENTER>
 
 I'll be part of a panel on
 [using biometrics for generative game audio at AES][1], on Friday,

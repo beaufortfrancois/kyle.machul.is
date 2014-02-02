@@ -20,7 +20,7 @@ was shown at E3?). Successful stealth mode.
 What came out of the merger...
 
 <CENTER><A HREF='http://novint.com/index.php?option=com_content&view=article&id=76&Itemid=178'><IMG
-SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/xioarm.jpg' /></A></CENTER>
+SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/2011-04-20-xio-novints-gaming-exoskeleton/xioarm.jpg' /></A></CENTER>
 
 is a partial exoskeleton for gaming.
 

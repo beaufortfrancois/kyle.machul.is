@@ -4,7 +4,7 @@ date: 2011-02-24 22:37:21
 
 <CENTER>
 <div style='background:#009900;width:150px;height:93px;'> 
-  <A HREF='http://www.openyou.org'><IMG SRC='http://images.nonpolynomial.com/openyou.org/site/openyoutranssmall.png' /></A> 
+  <A HREF='http://www.openyou.org'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/2011-02-24-openyou/openyoutranssmall.png' /></A> 
 </div> 
   </CENTER>
   

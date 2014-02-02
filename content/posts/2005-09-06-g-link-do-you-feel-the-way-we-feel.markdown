@@ -7,7 +7,7 @@ date: 2005-09-06 16:29:49
 
 via [PixelSumo][3]
 
-   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/glink.jpg
+   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-09-06-g-link-do-you-feel-the-way-we-feel/glink.jpg
    [2]: http://miolnir.co.uk/glink/
    [3]: http://www.pixelsumo.com
 

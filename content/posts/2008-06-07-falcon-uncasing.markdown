@@ -12,5 +12,5 @@ I really like this image for some reason.
    [1]: http://www.sourceforge.net/projects/libnifalcon
    [2]: http://www.nonpolynomial.com/archives/2008/05/solidedge-simulation-of-the-novint-falco.php
    [3]: http://picasaweb.google.com/kouellet/FalconProject?authkey=kAvHYd9lo5A
-   [4]: http://images.nonpolynomial.com/nonpolynomial.com/blog/deskfalcon.jpg
+   [4]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2008-06-07-falcon-uncasing/deskfalcon.jpg
 

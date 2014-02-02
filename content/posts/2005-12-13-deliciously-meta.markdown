@@ -21,7 +21,7 @@ But, seriously, damn.
 
 And yes, I now own those goggles.
 
-   [1]: http://images.nonpolynomial.com/numberporn.com/blog/dwellget.jpg
-   [2]: http://images.nonpolynomial.com/numberporn.com/blog/bliss.jpg
+   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-12-13-deliciously-meta/dwellget.jpg
+   [2]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-12-13-deliciously-meta/bliss.jpg
    [3]: http://www.gethappy.com/watchmore.html
 

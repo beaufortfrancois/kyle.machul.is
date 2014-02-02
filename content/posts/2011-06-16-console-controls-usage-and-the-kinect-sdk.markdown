@@ -47,7 +47,7 @@ wave when it comes.
 
 The WiiMote was first out of the gate, so let's start with it. 
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/kinect-wiimote.jpg' /></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/2011-06-16-console-controls-usage-and-the-kinect-sdk/kinect-wiimote.jpg' /></CENTER>
 
 You get:
 
@@ -101,7 +101,7 @@ will keep it alive for a while to come.
 I don't even know if this'll exist in a year, but it's been
 announced, so might as well talk about it.
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/kinect-wiiu.jpg' /></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/2011-06-16-console-controls-usage-and-the-kinect-sdk/kinect-wiiu.jpg' /></CENTER>
 
 You Get:
 
@@ -123,7 +123,7 @@ I... don't know, and I don't think that's good. It's almost _too_
 integrated, when we're already seeing new controllers that provide
 both physical controls and a detachable screen.
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/kinect-livid.jpg' /></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/2011-06-16-console-controls-usage-and-the-kinect-sdk/kinect-livid.jpg' /></CENTER>
 
 <CENTER><small markdown='1'>Above: [Livid Instruments Controller][9] integrated with iPad</small></CENTER>
 
@@ -154,7 +154,7 @@ like this will gain community traction in its current state.
 
 Sony's entry into the gaming market: a wand with a light on it.
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/kinect-move.jpg' /></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/2011-06-16-console-controls-usage-and-the-kinect-sdk/kinect-move.jpg' /></CENTER>
 
 You get:
 
@@ -213,7 +213,7 @@ their SDK, but the community doesn't even care in the first place.
 For the Kinect, we've got so many different solutions out there now
 that I'm actually splitting them into their own sections.
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/kinect-teardown.jpg' /></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/2011-06-16-console-controls-usage-and-the-kinect-sdk/kinect-teardown.jpg' /></CENTER>
 
 You get:
 
@@ -230,7 +230,7 @@ You get:
 2010. If you've like a more in-depth history, check out
 [my presentation on it at Maker Faire 2011][8].
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/kinect-openkinect.png' /></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/2011-06-16-console-controls-usage-and-the-kinect-sdk/kinect-openkinect.png' /></CENTER>
 
 As I said in the intro, while I am part of the OpenKinect project,
 what I am stating about the project here is my own opinion, and does
@@ -291,7 +291,7 @@ A few weeks after the OpenKinect project put out the source for their
 library, depth camera chip manufacturer [PrimeSense][13] followed suit
 with their own SDK, known as [OpenNI][14].
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/kinect-openni.png' /></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/2011-06-16-console-controls-usage-and-the-kinect-sdk/kinect-openni.png' /></CENTER>
 
 OpenNI is both a library and an initiative. The library is the
 implementation of a standard that PrimeSense is pushing to be a
@@ -367,7 +367,7 @@ On June 16th 2011,
 surprise of just about everyone, since there had been no communication
 since March about it.
 
-<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/kinect-mssdk.png' /></CENTER>
+<CENTER><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/2011-06-16-console-controls-usage-and-the-kinect-sdk/kinect-mssdk.png' /></CENTER>
 
 As of this writing, the SDK is still considered "beta", and is only
 available for non-commercial use.

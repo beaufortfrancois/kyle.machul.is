@@ -7,6 +7,6 @@ Major lesson from this conference: Never, ever say you'll live blog a conference
 
 Lots of notes taken, expect blogging when I get home, because god damn, there's just no time. 
 
-   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/agc.jpg
+   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-10-27-austin-games-conference-day-2-part-1/agc.jpg
    [2]: http://www.gameconference.com
 

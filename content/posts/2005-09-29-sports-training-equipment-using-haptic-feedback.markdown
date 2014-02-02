@@ -9,7 +9,7 @@ A new sports training device has been developed that uses haptic feedback for co
 
 via [We Make Money Not Art][3]
 
-   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/sporthaptic.jpg
+   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-09-29-sports-training-equipment-using-haptic-feedback/sporthaptic.jpg
    [2]: http://www.newscientist.com/article.ns?id=mg18825196.000&feedId=online-news_rss20
    [3]: http://www.we-make-money-not-art.com/archives/007104.php
 

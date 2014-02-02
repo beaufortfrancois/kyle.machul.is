@@ -21,6 +21,6 @@ I'm not taking off the boots. They're too damn sexy.
 
 More later. 
 
-   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/agc.jpg
+   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-10-26-austin-games-conference-day-1-part-1/agc.jpg
    [2]: http://www.gameconference.com
 
