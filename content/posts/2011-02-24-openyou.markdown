@@ -2,12 +2,6 @@ title: Introducing OpenYou.org
 date: 2011-02-24 22:37:21
 
 
-<CENTER>
-<div style='background:#009900;width:150px;height:93px;'> 
-  <A HREF='http://www.openyou.org'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/2011-02-24-openyou/openyoutranssmall.png' /></A> 
-</div> 
-  </CENTER>
-  
 It's been a while since I've started up a new website, and I found
 myself doing enough work on health hardware that I decided to spin it
 out into its own site. Not to mention, there's already a ton of
