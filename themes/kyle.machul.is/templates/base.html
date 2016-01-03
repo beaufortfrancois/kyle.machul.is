@@ -102,6 +102,7 @@
     <!-- Typekit -->
     <script src="https://use.typekit.net/drn7our.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
 </head>
 <body>
 
@@ -114,16 +115,16 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
+            {% if SITELOGO %}<img {% if SITELOGOSVG %}srcset="{{ SITEURL }}/{{ SITELOGOSVG }}"{% endif %} src="{{ SITEURL }}/{{ SITELOGO }}" width="{{ SITELOGO_SIZE }}" height="{{ SITELOGO_SIZE }}" class="navbar-logo"/> {% endif %}
             <a href="{{ SITEURL }}/" class="navbar-brand">
-                {% if SITELOGO %}<img src="{{ SITEURL }}/{{ SITELOGO }}" width="{{ SITELOGO_SIZE }}"/> {% endif %}
-                {% if not HIDE_SITENAME %}{{ SITENAME }}{% endif %}
+              {% if not HIDE_SITENAME %}Kyle Machulis | qDot{% endif %}
             </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav navbar-right">
                 {% for title, link in MENUITEMS %}
                     <li><a href="{{ link }}">{{ title }}</a></li>
-                {% endfor %}
+                    {% endfor %}
                 {% if DISPLAY_PAGES_ON_MENU %}
                     {% for p in PAGES %}
                          <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">
@@ -138,9 +139,6 @@
                         </li>
                     {% endfor %}
                 {% endif %}
-            </ul>
-            <!--
-            <ul class="nav navbar-nav navbar-right">
             {% if 'tipue_search' in PLUGINS %}
               <li><span>
                 <form class="navbar-search" action="{{ SEARCH_URL | default('/search.html') }}">
@@ -148,9 +146,21 @@
                 </form></span>
               </li>
             {% endif %}
+            {% if DISPLAY_ARCHIVES_ON_MENU %}
               <li><a href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+              {% endif %}
             </ul>
-            -->
+            <div class="footer-right social-icons show-mobile">
+              <ul>
+	              <li><a href='http://www.twitter.com/qdot'><i class="fa fa-twitter-square"></i></a></li>
+	              <li><a href='http://feeds.feedburner.com/nonpolynomiallabs'><i class="fa fa-rss-square"></i></a></li>
+                <li><a href='http://github.com/qdot'><i class="fa fa-github-square"></i></a></li>
+                <li><A href='http://www.linkedin.com/in/kylemachulis'><i class="fa fa-linkedin-square"></i></a></li>
+                <li><A href='http://www.soundcloud.com/qdot'><i class="fa fa-soundcloud"></i></a></li>
+                <li><A href='http://www.last.fm/qdot'><i class="fa fa-lastfm-square"></i></a></li>
+                <li><A href='http://steamcommunity.com/id/qdot/'><i class="fa fa-steam-square"></i></a></li>
+              </ul>
+            </div>
         </div>
         <!-- /.navbar-collapse -->
     </div>
@@ -198,6 +208,14 @@
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
 <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/respond.min.js"></script>
 
+<!-- Make dropdown disappear on click -->
+<script type="text/javascript">
+ $(document).on('click',function(){
+  $('.collapse').collapse('hide');
+ })
+</script>
+
+
 {% if BANNER %}
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bodypadding.js"></script>
 {% endif %}
@@ -205,7 +223,6 @@
 {% include 'includes/disqus_script.html' %}
 {% include 'includes/ga.html' %}
 {% include 'includes/piwik.html' %}
-
 {% block scripts %}{% endblock %}
 </body>
 </html>

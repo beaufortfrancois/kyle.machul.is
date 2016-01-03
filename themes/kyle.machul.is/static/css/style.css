@@ -224,24 +224,33 @@ figure.floatcenter, .align-center {
 
 .navbar, .navbar-brand {
     font-family: "proxima-nova", sans-sarif;
-    font-size: 24pt;
+    font-size: 16pt;
     color: #000;
     background-color: #fff;
+    min-height: 40px !important;
 }
 
-/* Override style to put dots between selections */
-.navbar-nav li:after {
-    content: '\00B7';
+.navbar-brand {
+    padding-top: 10px;
+    padding-bottom: 10px;
     padding-right: 5px;
-}
-
-.navbar-nav li:last-child:after {
-    content: '';
+    padding-left: 5px;
+    height: 40px;
 }
 
 .nav li a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 40px;
+}
+
+/* Make logo not conflict with header height */
+.navbar-logo {
+    float: left;
+    margin-right: 15px;
+    margin-left: 3px;
     display: inline;
-    color: #000;
+    margin-top: 3px;
 }
 
 /* Sticky footer styles
@@ -252,7 +261,7 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  /* margin-bottom: 40px; */
+  margin-bottom: 30px;
 }
 
 /* Footer idea taken from http://chdoig.github.io */
@@ -260,7 +269,7 @@ footer {
     border-top: 1px solid #eee;
     padding: 0.5% 1% 1.5% 1%;
     text-align: center;
-    height: 10px;
+    height: 30px;
     margin-bottom: 0px;
     margin-top: 5px;
     bottom: 0px;
@@ -271,3 +280,44 @@ footer {
     font-family: "proxima-nova", sans-sarif;
     font-size: 10pt;
 }
+
+.footer-left {
+    float: left;
+}
+
+.footer-right {
+    float: right !important;
+ }
+
+.footer-right ul {
+    margin-bottom: 0px;
+}
+
+.social-icons li {
+    display: inline;
+    list-display-style: none;
+    font-size: 16pt;
+    padding-left: 5px;
+}
+
+.show-mobile {
+    display: none;
+}
+
+/* Don't stick the footer on phones */
+@media (max-width: 650px) {
+    footer {
+        position: absolute;
+    }
+    /* Show social icons on hamburger menu when in mobile */
+    .show-mobile {
+        display: block;
+    }
+}
+
+/* Fix toggle margin to deal with smaller header */
+.navbar-toggle {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+

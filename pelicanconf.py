@@ -76,3 +76,11 @@ MENUITEMS = (('bio', 'bio'),
              ('portfolio', 'portfolio'),
              ('config', 'config'))
 
+SITELOGO = "theme/images/qdotlogo.png"
+SITELOGOSVG = "theme/images/qdot.logo.svg"
+SITELOGO_SIZE = "35px"
+HIDE_SIDEBAR = True
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_ARCHIVES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+
