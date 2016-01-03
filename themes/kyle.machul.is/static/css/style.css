@@ -265,7 +265,7 @@ body {
 }
 
 /* Footer idea taken from http://chdoig.github.io */
-footer {
+.footer-copyright {
     border-top: 1px solid #eee;
     padding: 0.5% 1% 1.5% 1%;
     text-align: center;
@@ -281,15 +281,15 @@ footer {
     font-size: 10pt;
 }
 
-.footer-left {
+.footer-copyright-left {
     float: left;
 }
 
-.footer-right {
+.footer-copyright-right {
     float: right !important;
  }
 
-.footer-right ul {
+.footer-copyright-right ul {
     margin-bottom: 0px;
 }
 
@@ -306,7 +306,7 @@ footer {
 
 /* Don't stick the footer on phones */
 @media (max-width: 650px) {
-    footer {
+    .footer-copyright {
         position: absolute;
     }
     /* Show social icons on hamburger menu when in mobile */
