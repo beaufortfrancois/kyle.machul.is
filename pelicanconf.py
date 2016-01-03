@@ -3,14 +3,16 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Kyle Machulis'
-SITENAME = u'Nonpolynomial Labs'
-SITEURL = 'http://nonpolynomial.com'
+SITENAME = u'Kyle Machulis'
+SITEURL = 'http://kyle.machul.is/'
+
+PATH = 'content'
 
 TIMEZONE = 'US/Pacific'
 
-MARKUP = (('md', 'markdown'))
-
 DEFAULT_LANG = u'en'
+
+THEME = "themes/kyle.machul.is"
 
 # Feed generation is usually not desired when developing
 FEED_ATOM = ('atom-fb.xml')
@@ -19,8 +21,6 @@ FEED_ALL_ATOM = None
 FEED_DOMAIN = SITEURL
 TRANSLATION_FEED = None
 FEED_MAX_ITEMS = 10
-
-THEME = "themes/nonpolynomial"
 
 # Relative to content dir
 PAGE_DIR = 'pages'
@@ -43,6 +43,21 @@ DEFAULT_PAGINATION = 5
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
+# Blogroll
+# LINKS = (('Pelican', 'http://getpelican.com/'),
+#          ('Python.org', 'http://python.org/'),
+#          ('Jinja2', 'http://jinja.pocoo.org/'),
+#          ('You can modify those links in your config file', '#'),)
+
+# Social widget
+# SOCIAL = (('You can add links in your config file', '#'),
+#           ('Another social link', '#'),)
+
+DEFAULT_PAGINATION = 10
+
+# Uncomment following line if you want document-relative URLs when developing
+RELATIVE_URLS = True
+
 PLUGIN_PATH = 'plugins'
 PLUGINS = ['summary', 'neighbors', ]
 
@@ -56,4 +71,8 @@ TEMPLATE_PAGES = {'about/about.html': "about/index.html",
 
 EXTRA_TEMPLATES_PATHS = (['content/about/about-templates'])
 
-MD_EXTENSIONS = ['codehilite', 'extra', 'video']
+MENUITEMS = (('bio', 'bio'),
+             ('blog', 'blog'),
+             ('portfolio', 'portfolio'),
+             ('config', 'config'))
+
