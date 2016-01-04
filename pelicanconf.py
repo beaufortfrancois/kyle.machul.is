@@ -84,3 +84,4 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_ARCHIVES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
+MD_EXTENSIONS = ['codehilite', 'extra', 'video']

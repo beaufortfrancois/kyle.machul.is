@@ -261,15 +261,15 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 30px;
+  margin-bottom: 25px;
 }
 
 /* Footer idea taken from http://chdoig.github.io */
 .footer-copyright {
     border-top: 1px solid #eee;
-    padding: 0.5% 1% 1.5% 1%;
+    padding: 0% 1% 1.5% 1%;
     text-align: center;
-    height: 30px;
+    height: 25px;
     margin-bottom: 0px;
     margin-top: 5px;
     bottom: 0px;
@@ -278,10 +278,12 @@ body {
     position: fixed;
     color: #000;
     font-family: "proxima-nova", sans-sarif;
-    font-size: 10pt;
+    font-size: 12pt;
 }
 
 .footer-copyright-left {
+    /* Nudge text down slightly to line up with icons */
+    margin-top: 2px;
     float: left;
 }
 
@@ -291,6 +293,7 @@ body {
 
 .footer-copyright-right ul {
     margin-bottom: 0px;
+    padding-left: 0px;
 }
 
 .social-icons li {
@@ -321,3 +324,20 @@ body {
     margin-bottom: 4px;
 }
 
+.mdx-video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.mdx-video-container iframe, .mdx-video-container object, .mdx-video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
