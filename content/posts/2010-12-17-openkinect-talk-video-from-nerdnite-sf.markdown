@@ -1,8 +1,7 @@
 title: OpenKinect Talk Video from NerdNite SF
 date: 2010-12-17 11:57:20
 
-
-<CENTER><object width="400" height="295"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=17895177&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=01AAEA&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=17895177&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=01AAEA&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="295"></embed></object><p><a href="http://vimeo.com/17895177">Nerd Nite SF: "OpenKinect: One Month In" - Kyle Machulis, 12/15/10</a> from <a href="http://vimeo.com/user4905095">nerdniteSF</a> on <a href="http://vimeo.com">Vimeo</a>.</p></CENTER>
+http://vimeo.com/1789517
 
 Here's a video of me at [Nerd Nite San Francisco][1], talking about
 the [OpenKinect Project][2]. This covers the history of the project,

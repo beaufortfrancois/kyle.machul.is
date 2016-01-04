@@ -3,8 +3,7 @@ date: 2008-01-06 00:38:02
 
 Consider all videos in this post NSFW. :)
 
-<p><object type="application/x-shockwave-flash" width="400" height="300" data="http://www.vimeo.com/moogaloop.swf?clip_id=451452&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=01AAEA">	<param name="quality" value="best" />	<param name="allowfullscreen" value="true" />	<param name="scale" value="showAll" />	<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=451452&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=01AAEA" /></object><br />
-<br /><a href="http://www.vimeo.com/451452/l:embed_451452">Arse Elektronika 2007: Presentation by Kyle Machulis</a> from <a href="http://www.vimeo.com/user154518/l:embed_451452">qDot</a> on <a href="http://vimeo.com/l:embed_451452">Vimeo</a>.</p>
+http://vimeo.com/451452
 
 Yay. Full hour presentation up on Vimeo. Or, if you still want it in < 10 minute sized chunks:
 

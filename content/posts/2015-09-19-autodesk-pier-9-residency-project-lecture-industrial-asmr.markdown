@@ -7,7 +7,7 @@ I was an Artist In Residence at
 interesting sounds from the prototyping machines around the workshop.
 There's a video of the lecture I gave covering my time at Pier 9:
 
-<center><iframe src="https://player.vimeo.com/video/123686188" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/123686188">AiR Presentation: Kyle Machulis</a> from <a href="https://vimeo.com/pier9">Pier 9</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
+http://vimeo.com/123686188
 
 [OpenTranscripts was also nice enough to provide a transcription of the talk](http://opentranscripts.org/transcript/words-sounds-pier-9/).
 The project was covered by media outlets such as
