@@ -94,7 +94,6 @@ endif
 
 stopserver:
 	$(BASEDIR)/develop_server.sh stop
->>>>>>> Initial commit with pelican-bootstrap theme
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
 publish:
