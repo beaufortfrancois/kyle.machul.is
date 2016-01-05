@@ -1,24 +1,16 @@
 title: Keepon Control via Kinect
 date: 2011-11-16 00:12:09
 
-**UPDATE 2013-06-01:**
-
-While this post still has relevant information, the engineers at
-[BeatBots](http://www.beatbots.net) have created a far more stable
-firmware. I highly recommend using their MyKeepon firmware, as it fixes
-a lot of the timing issues the KeepOff firmware had. The MyKeepon
-firmware is available at:
-
-[https://github.com/beatbots/MyKeepon](https://github.com/beatbots/MyKeepon)
-
----
-
 And the hits just keep on comin'.
 
 http://www.youtube.com/watch?v=6XhbYWLnsq0
 
 I threw this together this evening, in about 4 hours from top to
-bottom (code + video). Yay open source. Project uses:
+bottom (code + video). Yay open source. 
+
+<!--more-->
+
+Project uses:
 
 * Arduino + Keepoff [http://www.github.com/qdot/keepoff](http://www.github.com/qdot/keepoff) - Control of Keepon Robot
 * Processing [http://www.processing.org](http://www.processing.org) - tying the whole thing together

@@ -1,18 +1,6 @@
 title: Keepon Hacking Proof of Concept
 date: 2011-11-14 00:12:09
 
-**UPDATE 2013-06-01:**
-
-While this post still has relevant information, the engineers at
-[BeatBots](http://www.beatbots.net) have created a far more stable
-firmware. I highly recommend using their MyKeepon firmware, as it fixes
-a lot of the timing issues the KeepOff firmware had. The MyKeepon
-firmware is available at:
-
-[https://github.com/beatbots/MyKeepon](https://github.com/beatbots/MyKeepon)
-
----
-
 We have Keepon control!
 
 http://www.youtube.com/watch?v=P0u2lakH5nc

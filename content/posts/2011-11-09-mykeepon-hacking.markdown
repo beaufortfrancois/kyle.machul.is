@@ -47,6 +47,8 @@ ideas for reversing it, but those could take a while (stupid real life
 getting in the way of toy hacking), so I figured I'd dump what
 information I do have now.
 
+<!--more-->
+
 ## Resources
 
 Before I get into technical descriptions, the current resources

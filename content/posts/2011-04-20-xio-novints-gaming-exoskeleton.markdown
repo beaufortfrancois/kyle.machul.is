@@ -23,6 +23,8 @@ What came out of the merger...
 
 is a partial exoskeleton for gaming.
 
+<!--more-->
+
 The XIO is a sleeve exoskeleton that allows you to feel forces
 throughout the arm, versus just through the hand like the Novint
 Falcon. There is actuation along the arm and elbow, meaning much
