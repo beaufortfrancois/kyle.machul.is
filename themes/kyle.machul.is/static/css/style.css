@@ -346,6 +346,7 @@ body {
 
 .post-info {
     font-family: "proxima-nova", sans-sarif;
+    font-size: 10pt;
 }
 
 .post-info .label {
@@ -353,11 +354,6 @@ body {
     background-color: inherit;
     color: #000;
     font-weight: bold;
-    font-size: 10pt;
-}
-
-.post-info .published {
-    font-size: 10pt;
 }
 
 .page-header {
@@ -369,11 +365,15 @@ body {
     background-color: #eee;
     border-radius: 4px;
     border: 1px #666 solid;
-    width: 20%;
+    max-width: 25%;
+    padding-left: 5px;
+    padding-right: 5px;
+    /* push down slightly to line up with title line */
+    margin-top: 3px;
 }
 
 .page-title {
-    width: 75%;
+    max-width: 70%;
     float: left;
     margin-bottom: 10px;
 }
@@ -382,18 +382,25 @@ body {
 @media (max-width: 650px) {
     .page-info {
         float: none;
-        width: 100%;
+        max-width: 100%;
     }
     .page-title {
         float: none;
-        width: 100%;
+        max-width: 100%;
     }
 }
 
 .page-title h1, .page-title h2 {
     display: inline;
-    font-size: 18pt;
+    font-size: 20pt;
     font-family: "proxima-nova", sans-sarif;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 16pt;
+    font-family: "proxima-nova", sans-sarif;
+    font-weight: bold;
 }
 
 .page-title a {
@@ -405,16 +412,26 @@ body {
 }
 
 .entry-content {
-    clear: both;
     border-top: 1px #ddd solid;
+}
+
+.entry-content, .summary {
+    clear: both;
     padding-top: 10px;
     width: 98%;
     margin-left: auto;
     margin-right: auto;
+    /* font-size: 12pt; */
+    /* font-family: "proxima-nova"; */
+    /* font-weight: normal; */
 }
 
-.summary {
-    clear: both;
+.summary a {
+    border-bottom: 1px dotted;
+}
+
+.container {
+    max-width: 900px;
 }
 
 #content {

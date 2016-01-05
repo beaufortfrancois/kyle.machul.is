@@ -71,8 +71,8 @@ TEMPLATE_PAGES = {'about/about.html': "about/index.html",
 
 EXTRA_TEMPLATES_PATHS = (['content/about/about-templates'])
 
-MENUITEMS = (('bio', 'bio'),
-             ('blog', 'blog'),
+MENUITEMS = (('bio', 'about'),
+             ('blog', '/'),
              ('portfolio', 'portfolio'),
              ('config', 'config'))
 

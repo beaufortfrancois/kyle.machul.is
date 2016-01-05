@@ -15,7 +15,9 @@
         </div>
         <div class="summary">{{ article.summary }}
           {% include 'includes/comment_count.html' %}
-          <a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">more ...</a>
+          {% if article.summary != article.content %}
+            <a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">more ...</a>
+          {% endif %}
         </div>
       </article>
       <hr/>
