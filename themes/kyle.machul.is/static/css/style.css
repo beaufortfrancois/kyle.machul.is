@@ -362,9 +362,9 @@ body {
 
 .page-info {
     float: right;
-    background-color: #eee;
-    border-radius: 4px;
-    border: 1px #666 solid;
+    /* background-color: #eee; */
+    /* border-radius: 4px; */
+    /* border: 1px #666 solid; */
     max-width: 25%;
     padding-left: 5px;
     padding-right: 5px;
@@ -436,4 +436,26 @@ h2 {
 
 #content {
     margin-bottom: 25px;
+}
+
+.wide {
+    text-align: center;
+}
+
+.biopic {
+    background-image: url("/theme/images/banner_circle.jpg");
+    width: 385px;
+    height: 385px;
+    background-size: 100% 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Don't stick the footer on phones */
+@media (max-width: 400px) {
+    .biopic {
+        background-image: url("/theme/images/banner_circle_mobile.jpg");
+        width: 275px;
+        height: 275px;
+    }
 }
