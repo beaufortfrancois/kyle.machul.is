@@ -248,9 +248,16 @@ figure.floatcenter, .align-center {
 .navbar-logo {
     float: left;
     margin-right: 15px;
-    margin-left: 3px;
     display: inline;
     margin-top: 3px;
+}
+
+
+/* Push logo slightly to the left on small phone screens */
+@media (max-width: 700px) {
+    .navbar-logo {
+        margin-left: 3px;
+    }
 }
 
 /* Sticky footer styles
