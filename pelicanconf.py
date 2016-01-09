@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Kyle Machulis'
 SITENAME = u'Kyle Machulis'
-SITEURL = 'http://kyle.machul.is/'
+SITEURL = 'http://kyle.machul.is'
 
 PATH = 'content'
 
@@ -23,10 +23,10 @@ TRANSLATION_FEED = None
 FEED_MAX_ITEMS = 10
 
 # Relative to content dir
-PAGE_DIR = 'pages'
+PAGE_PATHS = ['pages']
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
-ARTICLE_DIR = 'posts'
+ARTICLE_PATHS = ['posts']
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 CATEGORY_SAVE_AS = False
@@ -58,13 +58,19 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-PLUGIN_PATH = 'plugins'
+PLUGIN_PATHS = ['plugins']
 PLUGINS = ['summary', 'neighbors', ]
 
 SUMMARY_END_MARKER = "<!--more-->"
 SUMMARY_MAX_LENGTH = None
 
-FILES_TO_COPY = (('extras/htaccess', '.htaccess'),)
+STATIC_PATHS = ['extras/htaccess',
+                'extras/robots.txt']
+
+EXTRA_PATH_METADATA = {
+    'extras/htaccess': {'path': '.htaccess'},
+    'extras/robots.txt': {'path': 'robots.txt'}
+}
 
 TEMPLATE_PAGES = {'about/about.html': "about/index.html",
                   'templates/404.html': "404/index.html"}
