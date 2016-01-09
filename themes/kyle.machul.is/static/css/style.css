@@ -466,3 +466,11 @@ h2 {
         height: 275px;
     }
 }
+
+.cv h1 {
+    font-size: 14pt;
+}
+
+.cv li {
+    font-size: 10pt;
+}
