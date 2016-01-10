@@ -73,9 +73,11 @@ EXTRA_PATH_METADATA = {
 }
 
 TEMPLATE_PAGES = {'about/about.html': "about/index.html",
+                  'config/config.html': "config/index.html",
                   'templates/404.html': "404/index.html"}
 
-EXTRA_TEMPLATES_PATHS = (['content/about/about-templates'])
+EXTRA_TEMPLATES_PATHS = ['content/about/about-templates',
+                         'content/config/config-templates']
 
 MENUITEMS = (('bio', '/about'),
              ('blog', '/'),
