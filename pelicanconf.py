@@ -80,6 +80,7 @@ TEMPLATE_PAGES = {'about/about.html': "about/index.html",
                   'templates/404.html': "404/index.html"}
 
 EXTRA_TEMPLATES_PATHS = ['content/about/about-templates',
+                         'content/portfolio/templates',
                          'content/config/config-templates']
 
 MENUITEMS = (('bio', '/about'),
@@ -102,6 +103,8 @@ MD_EXTENSIONS = ['codehilite', 'extra', 'video']
 
 import os
 import json
+import time
+import datetime
 # Build portfolio links
 
 PORTFOLIO_INFO_DIR = "content/portfolio/info"
@@ -111,4 +114,6 @@ project_infos = filter(os.path.isfile,
 PORTFOLIO_SUMMARIES = []
 for p in project_infos:
     with open(p) as data_file:
-        PORTFOLIO_SUMMARIES += [json.load(data_file)]
+        info_dict = json.load(data_file)
+        info_dict["year"] = time.strptime(info_dict["date"], "%Y-%d-%M").tm_year
+        PORTFOLIO_SUMMARIES += [info_dict]
