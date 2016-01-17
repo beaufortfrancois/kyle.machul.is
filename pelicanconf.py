@@ -23,9 +23,9 @@ TRANSLATION_FEED = None
 FEED_MAX_ITEMS = 10
 
 # Relative to content dir
-PAGE_PATHS = ['pages']
-PAGE_URL = '{slug}/'
-PAGE_SAVE_AS = '{slug}/index.html'
+PAGE_PATHS = ['portfolio/desc/']
+PAGE_URL = 'portfolio/{slug}/'
+PAGE_SAVE_AS = 'portfolio/{slug}/index.html'
 ARTICLE_PATHS = ['posts']
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
@@ -65,14 +65,17 @@ SUMMARY_END_MARKER = "<!--more-->"
 SUMMARY_MAX_LENGTH = None
 
 STATIC_PATHS = ['extras/htaccess',
-                'extras/robots.txt']
+                'extras/robots.txt',
+                'portfolio/img']
 
 EXTRA_PATH_METADATA = {
+    'portfolio/img': {'path': 'portfolio/img'},
     'extras/htaccess': {'path': '.htaccess'},
     'extras/robots.txt': {'path': 'robots.txt'}
 }
 
 TEMPLATE_PAGES = {'about/about.html': "about/index.html",
+                  'portfolio/index.html': "portfolio/index.html",
                   'config/config.html': "config/index.html",
                   'templates/404.html': "404/index.html"}
 
@@ -96,3 +99,16 @@ DISPLAY_ARTICLE_INFO_ON_INDEX = True
 SHOW_ARTICLE_CATEGORY = False
 
 MD_EXTENSIONS = ['codehilite', 'extra', 'video']
+
+import os
+import json
+# Build portfolio links
+
+PORTFOLIO_INFO_DIR = "content/portfolio/info"
+project_infos = filter(os.path.isfile,
+                       [os.path.join(PORTFOLIO_INFO_DIR, d)
+                        for d in os.listdir(PORTFOLIO_INFO_DIR)])
+PORTFOLIO_SUMMARIES = []
+for p in project_infos:
+    with open(p) as data_file:
+        PORTFOLIO_SUMMARIES += [json.load(data_file)]
