@@ -1,9 +1,142 @@
 {% extends "base.html" %}
 {% block title %}{{ page.title|striptags }} - {{ SITENAME }}{% endblock %}
 {% block content %}
-<h1> {{ page.title }}</h1>
-<img src="/portfolio/img/{{ page.slug }}/{{ page.slug }}.jpg"/>
-{{ page.content }}
-<BR/>
-{{ page.testing }}
+  <div class="project-title">
+    <h1> {{ page.title }}</h1>
+  </div>
+  <div class="project-header-image">
+    <img src="/portfolio/img/{{ page.slug }}/{{ page.slug }}.jpg"/>
+  </div>
+  <div class="project-content">
+    <div class="project-info-box">
+      <div class="project-info-header">
+        Project Info
+      </div>
+      <div class="project-info-content">
+        {% for project in PORTFOLIO_SUMMARIES %}
+          {% if project.title == page.title %}
+            <h2>Title:</h2>
+            <p>{{ project.title }}</p>
+            <h2>Summary:</h2>
+            <p>{{ project.summary }}</p>
+            <h2>Year Started:</h2>
+            <p>{{ project.year }}</p>
+            {% if project.repo %}
+              <h2>Code Repo:</h2>
+              <p><a href='{{ project.repo }}'>Repo @ Github</a></p>
+              {% if project.category == "software" and "np_boneyard" not in project.repo %}
+                <h2>Releases</h2>
+                <p><a href='{{ project.repo }}/releases'>Releases @ Github</a></p>
+                <h2>Issues</h2>
+                <p><a href='{{ project.repo }}/issues'>Issues @ Github</a></p>
+              {% endif %}
+            {% endif %}
+            {% if project.company %}
+            {% endif %}
+            {% if project.lead %}
+              <h2>Project Leads</h2>
+              <ul>
+                {% for lead in project.lead %}
+                  <li>{{lead}}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+            {% if project.collaborators %}
+              <h2>Project Collaborates</h2>
+              <ul>
+                {% for c in project.collaborators %}
+                  <li>{{c}}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+            {% if project.medium %}
+              <h2>Project Medium</h2>
+              <p>{{project.medium}}</p>
+            {% endif %}
+            {% if project.tools %}
+              <h2>Tools Used</h2>
+              <ul>
+                {% for t in project.tools %}
+                  <li>{{t}}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+            {% if project.exhibitions %}
+              <h2>Exhibitions</h2>
+              <ul>
+                {% for k in project.exhibitions %}
+                  <li>{{k}}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+            {% if project["web-active-dates"] %}
+              <h2>Years Active</h2>
+              <p>{{project["web-active-dates"]}}</p>
+            {% endif %}
+            {% if project["web-url"] %}
+              <h2>Page URL</h2>
+              <p><a href='{{project["web-url"]}}'>{{project["web-url"]}}</a></p>
+            {% endif %}
+            {% if project.videos %}
+              <h2>Videos</h2>
+              <ul>
+                {% for k,v in project.videos.items() %}
+                  <li><a href='{{v}}'>{{k}}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+            {% if project.audio %}
+              <h2>Videos</h2>
+              <ul>
+                {% for k,v in project.audio.items() %}
+                  <li><a href='{{v}}'>{{k}}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+            {% if project.articles %}
+              <h2>Press</h2>
+              <ul>
+                {% for k,v in project.articles.items() %}
+                  <li><a href='{{v}}'>{{k}}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+            {% if project.publications %}
+              <h2>Publications</h2>
+              <ul>
+                {% for k,v in project.publications.items() %}
+                  <li><a href='{{v}}'>{{k}}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+    {{ page.content }}
+    {% for project in PORTFOLIO_SUMMARIES %}
+      {% if project.title == page.title %}
+        {% if project.videos %}
+          <h2>Videos</h2>
+          {% for k,v in project.videos.items() %}
+            {{k}}:
+            <div class="mdx-video-container">
+              <iframe src="{{v}}"
+                      allowfullscreen="true"
+                      webkitallowfullscreen="true"
+                      mozallowfullscreen="true"
+                      frameborder=0></iframe>
+            </div>
+          {% endfor %}
+        {% endif %}
+        {% if project.audio %}
+          <h2>Audio</h2>
+          {% for k,v in project.audio.items() %}
+            <li><a href='{{v}}'>{{k}}</a></li>
+          {% endfor %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
 {% endblock %}
+
