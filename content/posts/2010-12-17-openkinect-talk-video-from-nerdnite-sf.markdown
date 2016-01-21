@@ -1,7 +1,7 @@
 title: OpenKinect Talk Video from NerdNite SF
 date: 2010-12-17 11:57:20
 
-http://vimeo.com/1789517
+http://vimeo.com/17895177
 
 Here's a video of me at [Nerd Nite San Francisco][1], talking about
 the [OpenKinect Project][2]. This covers the history of the project,
