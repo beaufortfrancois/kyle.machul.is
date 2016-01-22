@@ -85,8 +85,8 @@ EXTRA_TEMPLATES_PATHS = ['content/about/about-templates',
 
 MENUITEMS = (('bio', '/about'),
              ('blog', '/'),
-             ('portfolio', '/portfolio'),
-             ('config', '/config'))
+             ('portfolio', '/portfolio'))
+#             ('config', '/config'))
 
 SITELOGO = "theme/images/qdotlogo.png"
 SITELOGOSVG = "theme/images/qdot.logo.svg"

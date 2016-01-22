@@ -583,6 +583,16 @@ use that to clear the floats here */
     color: #FFF;
 }
 
+@media (max-width: 600px) {
+    .project-info-box {
+        float: none;
+        display: block;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
 .project-info-header {
     font-weight: bold;
     background: #444;
@@ -606,3 +616,22 @@ use that to clear the floats here */
     padding-left: 15px;
 }
 
+.project-content a {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+.project-content a:hover {
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+
+.project-info-box a {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+.project-info-box a:hover {
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
