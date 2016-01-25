@@ -635,3 +635,7 @@ use that to clear the floats here */
     text-decoration: none;
     border-bottom: 1px solid;
 }
+
+.soundcloud-iframe {
+    max-width: 100%;
+}
