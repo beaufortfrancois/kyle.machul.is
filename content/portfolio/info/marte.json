@@ -1,0 +1,11 @@
+{
+  "title": "CSHS Controls for MARTE Drill",
+  "slug": "marte",
+  "summary": "Controls for Core Sample Handling System for MARTE Drill",
+  "category": "professional",
+  "date": "2005-05-01",
+  "company": {"KISS Institute for Practical Robotics": "http://www.kipr.org"},
+  "collaborators": ["Tim Hunt", "Matt Roman", "Alois Winterholler", "Rich LeGrand"],
+  "tools": ["ARM Assembly", "FPGA", "C/C++"],
+  "articles": {"Marte Project Website": "http://marte.arc.nasa.gov"}
+}

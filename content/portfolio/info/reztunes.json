@@ -1,0 +1,10 @@
+{
+  "title": "RezTunes",
+  "slug": "reztunes",
+  "summary": "iTunes plugin for audio activation of Rez Trancevibrator",
+  "category": "software",
+  "date": "2008-02-27",
+  "repo": "http://github.com/qdot/reztunes",
+  "collaborators": ["Bryn Davies"],
+  "tools": ["iTunes SDK", "libtrancevibe"]
+}

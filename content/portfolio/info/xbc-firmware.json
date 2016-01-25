@@ -1,0 +1,14 @@
+{
+  "title": "XBC Firmware",
+  "slug": "xbc-firmware",
+  "summary": "Firmware/GUI for the Xport Botball Controller",
+  "category": "professional",
+  "date": "2004-10-01",
+  "company": {"KISS Insistute for Practical Robotics": "http://www.botball.org"},
+  "collaborators": ["Anne Wright", "Rich Legrand"],
+  "tools": ["C/C++", "ARM Assembly", "Interactive C", "Gameboy Advance"],
+  "videos": {"XBC Vision System @ Vimeo": { "type": "vimeo",
+                                            "id": "371015"}
+            },
+  "publications": { "Richard LeGrand, Kyle Machulis, David P. Miller, Randy Sargent & Anne Wright, The XBC: A Modern Low-Cost Mobile Robot Controller, Proceedings of IROS 2005, 08/2005": ""}
+}

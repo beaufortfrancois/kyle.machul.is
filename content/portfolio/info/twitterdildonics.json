@@ -1,0 +1,14 @@
+{
+  "title": "Twitterdildonics",
+  "slug": "twitterdildonics",
+  "summary": "Using twitter messages to trigger vibration",
+  "category": "projects",
+  "date": "2007-03-10",
+  "repo": "http://github.com/qdot/twitterdildonics",
+  "tools": ["Python", "Twitter", "Rez Trancevibrator"],
+  "videos": {"GETV - Twitterdildonic Stimulation": { "type": "youtube",
+                                                     "id": "uuKP5viPYRM"}
+            },
+  "articles": {"Laughing Squid - Twitterdildonics Hack at SXSW 2007": "http://laughingsquid.com/kyle-machulis-twitterdildonic-hack-at-sxsw-2007",
+               "Fleshbot - Introducing Twitterdildonics": "http://straight.fleshbot.com/247195/sex-toy-techwatch-introducing-twitterdildonics"}
+}

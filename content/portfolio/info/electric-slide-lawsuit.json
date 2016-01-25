@@ -1,0 +1,20 @@
+{
+  "title": "Electric Slide Lawsuit",
+  "slug": "electric-slide-lawsuit",
+  "summary": "DMCA lawsuit over video of a line dance performance",
+  "category": "projects",
+  "date": "2007-01-29",
+  "videos": { "FC2009 Concert Footage @ Youtube": { "type": "youtube",
+                                                    "id" : "y9pCuRHmQvw"}
+            },
+  "medium": "Lawsuit",
+  "tools": ["Electronic Frontier Foundation", "Creative Commons Licensing", "US Court System"],
+  "articles": {
+    "EFF - Electric Slide Litigation": "http://www.eff.org/cases/electric-slide-litigation",
+    "Washington Post - Standing Up to Takedown Notices": "http://www.washingtonpost.com/wp-dyn/content/article/2007/10/18/AR2007101802453.html",
+    "CNET - Electric Slide on a Slippery DMCA Slope": "http://news.cnet.com/Electric-Slide-on-slippery-DMCA-slope/2100-1030_3-6156021.html",
+    "Gizmodo - Inventor of Crappy Electric Slide: 'Stop Dancing Like Crap'": "http://gizmodo.com/#!233969/inventor-of-crappy-electric-slide-stop-dancing-like-crap",
+    "Techdirt - EFF Sues Electric Slide Creator Over DMCA Threat": "http://www.techdirt.com/articles/20070302/172258.shtml",
+    "Wired - Electric Slide Creator No Longer Dancing": "http://www.wired.com/threatlevel/2007/03/electric_slide_/"
+  }
+}

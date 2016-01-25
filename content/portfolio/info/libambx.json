@@ -1,0 +1,8 @@
+{
+  "title": "libambx",
+  "slug": "libambx",
+  "summary": "Cross platform driver for the Philips Ambx Environment System",
+  "category": "software",
+  "date": "2009-04-21",
+  "repo": "http://github.com/qdot/libambx"
+}

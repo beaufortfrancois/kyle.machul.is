@@ -1,0 +1,23 @@
+{
+  "title": "Drink Bot/Bartris/Adult Mario",
+  "slug": "drink-serving-bot",
+  "summary": "Drink mixer with video game controls",
+  "date": "2009-12-04",
+  "repo": "http://www.github.com/qdot/bartris",
+  "tools": ["Arduino", "FCEUX NES Emulator", "Python", "OpenSoundControl", "amBX Environment Feedback System", "libambx", "Rez Trancevibrator", "libtrancevibe"],
+  "exhibitions": ["Roboexotica 2009, Vienna, Austria"],
+  "videos": {"Bartris @ Youtube" : { "type": "youtube",
+                                     "id" : "qafivdcSekM" },
+             "Bartris Stress Test @ Youtube": { "type": "youtube",
+                                                "id" : "J8yJYo29jrM" },
+             "Adult Mario @ Youtube": { "type": "youtube",
+                                        "id" : "7kiKE3lif8Q" }
+            },
+  "images": {"Bartris Construction @ Flickr": "http://www.flickr.com/photos/qdot76367/sets/72157622852743956/"},
+  "articles": {"Laughing Squid - Video Game Themed Cocktails": "http://laughingsquid.com/adult-mario-bartris-two-video-game-themed-cocktail-robots-at-roboexotica/",
+               "Hackaday - Simple liquid dispenser for auto-cocktails": "http://hackaday.com/2009/12/07/simple-liquid-dispenser-for-auto-cocktails/",
+               "DVICE - Adult Mario Rewards You With Booze": "http://dvice.com/archives/2009/12/adult-mario-rob.php",
+               "Giant Bomb - Super Rum and Coke Brothers on Display": "http://www.giantbomb.com/news/super-rum-coke-bros-on-display/1784/",
+               "Kotaku - Mario, Tetris turned into robots that serve you drinks": "http://kotaku.com/5418624/mario-tetris-turned-into-robots-that-serve-you-drinks",
+               "Popular Science - Robot Bartender Pours Your Drink Based on Your Tetris Skill": "http://www.popsci.com/technology/article/2009-12/play-mario-or-tetris-make-yourself-drink-robotic-bartender"}
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Twittercore",
+  "slug": "twittercore",
+  "summary": "Generative breakcore based on twitter messages",
+  "category": "projects",
+  "date": "2007-12-26",
+  "repo": "http://github.com/qdot/twitter_breakcore",
+  "tools": ["Max/MSP", "Python"],
+  "audio": {"actively gnawing on some guys head @ Soundcloud": { "type": "soundcloud",
+                                                                 "name": "actively-gnawing-on-some-guys-head",
+                                                                 "id": "2010132"}
+           }
+}

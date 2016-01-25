@@ -1,0 +1,8 @@
+{
+  "title": "SUTN Omron Client",
+  "slug": "omron-shape-up-the-nation",
+  "summary": "Pedometer info upload client for Shape Up The Nation",
+  "category": "professional",
+  "date": "2009-10-01",
+  "tools": ["Qt", "libomron", "Omron Pedometer Hardware"]
+}

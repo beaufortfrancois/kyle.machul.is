@@ -1,0 +1,11 @@
+{
+  "title": "Pen15 Board",
+  "slug": "pen15-board",
+  "summary": "Vibrator control shield for the Arduino",
+  "category": "projects",
+  "date": "2011-10-15",
+  "repo": "http://github.com/qdot/pen15-board",
+  "collaborators": ["Ben Peoples"],
+  "tools": ["Arduino"],
+  "articles": {"HackADay - Pen15 Board": "http://hackaday.com/2011/10/16/join-the-pen15-club-with-a-vibrator-shield/"}
+}

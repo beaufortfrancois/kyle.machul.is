@@ -1,0 +1,14 @@
+{
+  "title": "Keepon Hacking and Kinect Control",
+  "slug": "keepon-kinect-control",
+  "summary": "Reverse engineering a MyKeepon bot and controlling it using the Microsoft Kinect",
+  "category": "projects",
+  "date": "2011-11-13",
+  "repo": "http://github.com/qdot/keepoff",
+  "tools": ["Microsoft Kinect", "MyKeepon Robot", "OpenKinect Driver", "Keepoff Library"],
+  "videos": {"Kinect Keepon Control Demo @ Youtube": { "type": "youtube",
+                                                       "id": "6XhbYWLnsq0"}
+            },
+  "articles": {"Keepon Hacking @ Engadget": "http://www.engadget.com/2011/11/18/my-keepon-kinect-ing-hackers-and-goths-through-the-art-of-dance/",
+               "Keeping Hacking @ Hackaday": "http://hackaday.com/2011/11/09/reverse-engineering-mykeepon/"}
+}

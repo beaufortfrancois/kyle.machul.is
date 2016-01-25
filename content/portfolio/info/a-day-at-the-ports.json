@@ -1,0 +1,15 @@
+{
+  "title": "A Day at the Ports",
+  "slug": "a-day-at-the-ports",
+  "summary": "iPhone film pieces with generative audio",
+  "category": "projects",
+  "date": "2009-09-15",
+  "medium": "Digital Video",
+  "tools": ["iPhone 3GS Camera", "rjdj iPhone app", "Final Cut Pro"],
+  "videos": {
+    "A Headless Sutro @ Vimeo": { "type": "vimeo",
+                                  "id": "6451589" },
+    "Construction from Far Away @ Vimeo": { "type": "vimeo",
+                                            "id": "6451349" }
+  }
+}

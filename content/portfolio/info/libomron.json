@@ -1,0 +1,8 @@
+{
+  "title": "libomron",
+  "slug": "libomron",
+  "summary": "Cross platform driver for Omron pedometers and BP monitors",
+  "category": "software",
+  "date": "2009-04-26",
+  "repo": "http://github.com/openyou/libomron"
+}

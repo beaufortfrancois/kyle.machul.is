@@ -1,0 +1,8 @@
+{
+  "title": "liblightstone",
+  "slug": "liblightstone",
+  "summary": "Cross platform driver for the Lightstone biometrics widget",
+  "category": "software",
+  "date": "2007-12-17",
+  "repo": "http://github.com/openyou/liblightstone"
+}

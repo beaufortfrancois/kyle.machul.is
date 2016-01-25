@@ -1,0 +1,12 @@
+{
+  "title": "Copernicus Rover",
+  "slug": "copernicus-rover",
+  "summary": "Research rover for the Copernicus Mission Proposal",
+  "category": "professional",
+  "lead": ["David Miller"],
+  "collaborators": ["Tim Hunt", "Matt Roman", "Alois Winterholler"],
+  "date": "2004-04-01",
+  "tools": ["C/C++", "OpenGL", "Elphel Cameras"],
+  "images": {"Amboy Crater Rover Mission @ Flickr":"http://www.flickr.com/photos/qdot76367/sets/72157594558988946/"},
+  "publications": { "David P. Miller and Kyle Machulis, Visual Aids For Lunar Rover Tele-Operation, Proceedings of iSAIRAS 2005, Munich, Germany, 09/2005": ""}
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Kitelight",
+  "slug": "kitelight",
+  "summary": "Wireless lighting control system for kites",
+  "category": "projects",
+  "date": "2008-07-23",
+  "repo": "https://github.com/qdot/kitelight",
+  "tools": ["TouchOSC", "Python", "Arduino", "Zigbee"],
+  "medium": "Digital Art",
+  "images": { "Kitelight @ Flickr" : "http://www.flickr.com/photos/qdot76367/sets/72157606246910762/" },
+  "videos": { "Kitelight @ Vimeo" : { "type": "vimeo",
+                                      "id": "1392439" } }
+}

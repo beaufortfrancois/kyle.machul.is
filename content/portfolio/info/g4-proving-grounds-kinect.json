@@ -1,0 +1,8 @@
+{
+  "title": "G4 Proving Grounds Kinect Stunt",
+  "slug": "g4-proving-grounds-kinect",
+  "summary": "Kinect control for G4TV's Proving Grounds Star Wars Stunt",
+  "category": "professional",
+  "date": "2011-05-01",
+  "tools": ["Microsoft Kinect", "OpenFrameworks", "OpenNI"]
+}

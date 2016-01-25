@@ -1,0 +1,9 @@
+{
+  "title": "Fwiktr",
+  "slug": "fwiktr",
+  "summary": "Matching twitter captions and flickr images for generative art",
+  "category": "projects",
+  "date": "2007-06-23",
+  "repo": "http://github.com/qdot/fwiktr",
+  "tools": ["Flickr API", "Twitter API", "Python", "NLTK"]
+}

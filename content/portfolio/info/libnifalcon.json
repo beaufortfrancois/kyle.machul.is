@@ -1,0 +1,8 @@
+{
+  "title": "libnifalcon",
+  "slug": "libnifalcon",
+  "summary": "Cross platform driver for the Novint Falcon",
+  "category": "software",
+  "date": "2007-09-01",
+  "repo": "http://github.com/qdot/libnifalcon"
+}

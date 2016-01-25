@@ -1,0 +1,15 @@
+{
+  "title": "Second Life Teledildonics",
+  "slug": "second-life-teledildonics",
+  "summary": "Sex toy control via Second Life",
+  "category": "projects",
+  "date": "2005-06-30",
+  "repo": "http://www.github.com/qdot/np_boneyard",
+  "tools": ["Second Life", "Rez Trancevibrator"],
+  "videos": {"qDot Bunnyhug @ SLCC 2006": { "type": "youtube",
+                                            "id" : "6znaAWhBE7c"}
+            },
+  "articles": {"Wired - Second Life Gets Sexier": "http://www.wired.com/gaming/virtualworlds/commentary/sexdrive/2006/08/71657",
+               "The Unofficial Tourists Guide to Second Life": "http://books.google.com/books?id=mGOD2Jrf_0QC&pg=PA208&lpg=PA208&dq=second+life+teledildonics&source=bl&ots=FgD7zfm6f1&sig=1vdBhKVpE2If0IHCXaVX8ANkPzo&hl=en&ei=x4AjTtrsCoGksQO8wMlj&sa=X&oi=book_result&ct=result&resnum=9&ved=0CFsQ6AEwCA#v=onepage&q=second%20life%20teledildonics&f=false",
+               "Sameer Halai - Teledildonics: A Legal and Ethical Analysis": "http://www.sameerhalai.com/blog/portfolio/teledildonics-an-ethical-analysis/"}
+}

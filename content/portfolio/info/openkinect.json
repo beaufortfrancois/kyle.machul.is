@@ -1,0 +1,9 @@
+{
+  "title": "OpenKinect",
+  "slug": "openkinect",
+  "summary": "Driver for the Microsoft Kinect Camera",
+  "category": "software",
+  "date": "2010-11-10",
+  "repo": "http://www.github.com/openkinect/libfreenect",
+  "lead": ["Josh Blake", "Hector Marcan", "Kyle Machulis"]
+}

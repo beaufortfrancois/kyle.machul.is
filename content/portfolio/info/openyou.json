@@ -1,0 +1,12 @@
+{
+  "title": "OpenYou.org",
+  "slug": "openyou",
+  "summary": "Medical Device Reverse Engineering Website/Project",
+  "category": "web",
+  "date": "2011-02-01",
+  "repo": "http://github.com/openyou/openyou.org",
+  "articles": { "MIT Tech Review: The Measured Life": "http://www.technologyreview.com/biomedicine/37784/",
+                "Quantified Self: Kyle Machulis Hacks Your Health Hardware": "http://quantifiedself.com/2011/04/kyle-machulis-hacks-your-health-hardware/"},
+  "web-active-dates": "2011-Present",
+  "web-url": "http://www.openyou.org"
+}

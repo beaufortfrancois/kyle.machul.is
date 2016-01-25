@@ -1,0 +1,11 @@
+{
+  "title": "Lifecycle",
+  "slug": "lifecycle",
+  "summary": "Driving Second Life vehicles via real exercise bikes",
+  "category": "projects",
+  "date": "2005-10-15",
+  "repo": "http://github.com/qdot/np_boneyard",
+  "tools": ["Exercise Bike", "Xport Botball Controller (FPGA + Gameboy Advance)"],
+  "articles": {"Oklahoma City Journal Record - Entrepreneur tackles Virtual Wild West": "http://www.growinokc.com/index.php?src=news&submenu=NewsforOKCEntrepreneurs&srctype=detail&category=News&refno=70&view=news_detail_basic",
+               "New World Notes - On a Bicycle Built for 2L": "http://nwn.blogs.com/nwn/2005/10/on_a_bicycle_bu.html"}
+}

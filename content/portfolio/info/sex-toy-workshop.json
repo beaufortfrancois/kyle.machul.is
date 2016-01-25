@@ -1,0 +1,10 @@
+{
+  "title": "DIY Sex Toy Workshop",
+  "slug": "sex-toy-workshop",
+  "summary": "Workshop for building arduino based vibrators",
+  "category": "projects",
+  "date": "2010-09-12",
+  "tools": ["Arduino", "Processing"],
+  "articles": {"TU Delta - De techniek van sexspeeltjes": "http://www.delta.tudelft.nl/nl/archief/artikel/de-techniek-van-sexspeeltjes/21703"},
+  "exhibitions": ["WORM, Rotterdamn, NL, September 2010"]
+}

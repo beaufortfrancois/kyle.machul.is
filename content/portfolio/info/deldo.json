@@ -1,0 +1,14 @@
+{
+  "title": "Deldo",
+  "slug": "deldo",
+  "summary": "Sex toy control and teledildonics mode for emacs",
+  "category": "projects",
+  "date": "2009-11-15",
+  "repo": "http://github.com/qdot/deldo",
+  "tools": ["emacs", "elisp", "Rez Trancevibrator", "OpenSoundControl", "Python"],
+  "medium": "Software",
+  "videos": { "Deldo Presentation @ Youtube": { "type": "youtube",
+                                                "id" : "D1sXuHnf_lo" }
+            },
+  "articles": { "Deldo @ Emacswiki": "http://www.emacswiki.org/emacs/Deldo"}
+}

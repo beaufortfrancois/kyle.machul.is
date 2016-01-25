@@ -1,0 +1,8 @@
+{
+  "title": "libthirdspacevest",
+  "slug": "libthirdspacevest",
+  "summary": "Driver for the Third Space Vest haptic device",
+  "category": "software",
+  "date": "2010-12-26",
+  "repo": "http://www.github.com/qdot/libthirdspacevest"
+}

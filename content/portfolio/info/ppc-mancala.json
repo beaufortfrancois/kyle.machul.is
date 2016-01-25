@@ -1,0 +1,8 @@
+{
+  "title": "Mancala for Pocket PC",
+  "slug": "ppc-mancala",
+  "summary": "Small mancala game from Windows CE 2",
+  "category": "software",
+  "date": "1999-09-01",
+  "tools": ["C++", "Windows CE"]
+}

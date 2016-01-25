@@ -1,0 +1,13 @@
+{
+  "title": "Trettio Lighting System",
+  "slug": "trettio-lighting-system",
+  "summary": "USB control system for Ikea Trettio light set",
+  "category": "projects",
+  "date": "2007-08-13",
+  "repo": "http://github.com/qdot/ikea-trettio",
+  "tools": ["Arduino"],
+  "videos": {"Gesture Based Lighting Control @ Vimeo": { "type": "vimeo",
+                                                         "id": "296403"}
+            },
+  "images": {"Ikea Trettio Lighting Board @ Flickr": "http://www.flickr.com/photos/qdot76367/sets/72157601425718028/"}
+}

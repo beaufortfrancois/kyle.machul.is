@@ -1,0 +1,10 @@
+{
+  "title": "Biometric Presentation",
+  "slug": "biometric-presentation",
+  "summary": "Presentation software that displays biometrics of presenter",
+  "date": "2009-09-26",
+  "repo": "http://www.github.com/qdot/biometric-presentation",
+  "medium": "Software",
+  "tools": ["Max/MSP", "Biometrics Hardware"],
+  "performances": ["Arse Elektronika 2009, San Francisco, CA"]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Missing A Kick",
+  "slug": "missing-a-kick",
+  "summary": "SL/RL Art Piece with Wiimote Triggering",
+  "category": "projects",
+  "date": "2010-11-20",
+  "lead": ["Xpertina Marilu"],
+  "collaborators": ["Magnus Wurzer"],
+  "tools": ["Wiimote", "OSCulator", "Python", "OpenSoundControl"],
+  "videos": {"Missing A Kick @ Vimeo": { "type": "vimeo",
+                                         "id": "20976660"}
+            },
+  "exhibitions": ["Cyberfest, 11/2010, St. Petersburg, Russia"]
+}

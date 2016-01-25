@@ -1,0 +1,15 @@
+{
+  "title": "WiiYo",
+  "slug": "wiiyo",
+  "summary": "Yoyo tracking via Wiimote IR Camera",
+  "category": "projects",
+  "date": "2008-01-13",
+  "tools": ["Max/MSP", "Wiimote", "Yoyos"],
+  "videos": {"IR LED + Wiimote + Yoyo @ Youtube": { "type": "youtube",
+                                                    "id": "9RqBJgGNiE8"},
+             "Popcast E06 - Yoyocore @ Youtube": { "type": "youtube",
+                                                   "id": "thy0OxgxoNE"}
+            },
+  "images": {"Wiiyo Project @ Flickr": "http://www.flickr.com/photos/qdot76367/sets/72157603707787538"},
+  "articles": { "Make Magazine - Yoyocore": "http://blog.makezine.com/archive/2008/01/yoyo-core-wii-yoyo-musica.html"}
+}

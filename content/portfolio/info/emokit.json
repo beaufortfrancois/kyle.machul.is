@@ -1,0 +1,9 @@
+{
+  "title": "Emokit",
+  "slug": "emokit",
+  "summary": "Driver for the Emotiv EPOC EEG",
+  "category": "software",
+  "date": "2010-09-13",
+  "repo": "http://github.com/openyou/emokit",
+  "lead": ["Cody Brocious", "Kyle Machulis"]
+}

@@ -1,0 +1,8 @@
+{
+  "title": "libfitbit",
+  "slug": "libfitbit",
+  "summary": "Driver for the Fitbit Classic pedometer",
+  "category": "software",
+  "date": "2011-01-29",
+  "repo": "http://github.com/openyou/libfitbit"
+}

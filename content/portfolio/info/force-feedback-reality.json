@@ -1,0 +1,11 @@
+{
+  "title": "Force Feedback Reality",
+  "slug": "force-feedback-reality",
+  "summary": "Sensor system for triggering vibration via surrounding environment",
+  "category": "projects",
+  "date": "2007-07-31",
+  "repo": "http://www.github.com/qdot/force-feedback-reality",
+  "tools": ["AVR Microprocessor", "Sensors (Rangefinder, Sonar, Photoresistor, etc...)"],
+  "articles": { "Metafetish: Force Feedback Reality": "http://www.metafetish.com/2007/07/31/force-feedback-reality/"},
+  "images": {"Force Feedback Reality @ Flickr": "http://www.flickr.com/photos/qdot76367/sets/72157601111181734/"}
+}

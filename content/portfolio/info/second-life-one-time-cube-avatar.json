@@ -1,0 +1,11 @@
+{
+  "title": "Second Life One Time Cube Avatar",
+  "slug": "second-life-one-time-cube-avatar",
+  "summary": "SL Avatar with generative audio stream for voice",
+  "category": "projects",
+  "date": "2007-06-15",
+  "tools": ["Leafcutter John's Forester"],
+  "audio": {"One Time Cube Avatar Sample @ Soundcloud": { "type": "soundcloud",
+                                                          "name": "one-time-cube-avatar-voice",
+                                                          "id": "96523272"} }
+}

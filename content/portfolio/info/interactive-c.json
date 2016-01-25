@@ -1,0 +1,10 @@
+{
+  "title": "Interactive C",
+  "slug": "interactive-c",
+  "summary": "Interactive C Compiler for educational robotics platforms",
+  "category": "professional",
+  "date": "2003-02-01",
+  "company": {"KISS Institute for Practical Robotics": "http://www.botball.org"},
+  "lead": ["Randy Sargent", "Anne Wright", "David Miller"],
+  "tools": ["C", "C++", "Qt", "Assembly (Various sets)"]
+}

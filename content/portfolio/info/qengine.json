@@ -1,0 +1,9 @@
+{
+  "title": "qEngine",
+  "slug": "qengine",
+  "summary": "Small DirectX based game engine",
+  "category": "software",
+  "date": "2002-07-01",
+  "repo": "http://github.com/qdot/np_boneyard",
+  "tools": ["C++", "DirectX"]
+}

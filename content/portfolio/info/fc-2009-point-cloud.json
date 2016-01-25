@@ -1,0 +1,11 @@
+{
+  "title": "FC 2009 Point Cloud",
+  "slug": "fc-2009-point-cloud",
+  "summary": "3D Point Cloud of 512 Fursuits",
+  "category": "projects",
+  "date": "2009-01-25",
+  "tools": ["Velodyne LIDAR"],
+  "images": { "Point Cloud Generation @ Flickr": "http://www.flickr.com/photos/qdot76367/sets/721576129" },
+  "videos": { "Point Cloud Test Render @ Vimeo": { "type": "vimeo",
+                                                   "id": "3116248"} }
+}

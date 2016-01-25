@@ -1,0 +1,8 @@
+{
+  "title": "libtrancevibe",
+  "slug": "libtrancevibe",
+  "summary": "Driver for Rez Trancevibrator and compatible vibrators",
+  "category": "software",
+  "date": "2007-11-05",
+  "repo": "http://github.com/qdot/libtrancevibe"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Moaning Lisa",
+  "slug": "moaning-lisa",
+  "summary": "Interactive mannequin as sexual interface",
+  "category": "projects",
+  "date": "2007-09-29",
+  "lead": ["Matt Ganucheau"],
+  "collaborators": ["Kelly Moore"],
+  "tools": ["Max/MSP", "Maker Board"],
+  "videos": {"Moaning Lisa @ CNet": { "type": "youtube",
+                                      "id" : "4zWt4_gh25c" },
+             "Moaning Lisa Presentation @ AE2007": { "type": "youtube",
+                                                     "id" : "7eowweTbB1U" }
+            },
+  "images": {"Moaning Lisa Construction @ Flickr": "http://www.flickr.com/photos/qdot76367/sets/72157602223532497"},
+  "articles": {"Synthtopia - Moaning Lisa: The Most Bizarre Music Instrument Ever": "http://www.synthtopia.com/content/2007/11/26/moaning-lisa"},
+  "exhibitions": ["Arse Elektronika 2007, 09/2007, San Francisco, CA"]
+}
