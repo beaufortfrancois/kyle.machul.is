@@ -21,9 +21,9 @@ Anyways, what that means is the encoder values refer to some point on a 4" arc t
 
 This, of course, will all happen as soon as I decide to stop spending time making pretty pictures and posting about how proud I am of said pretty pictures. 
 
-   [1]: http://www.nonpolynomial.com/archives/2008/03/everything-i-know-about-the-novint-falcon.php
-   [2]: http://www.nonpolynomial.com/pdf/claveldelta.pdf
+   [1]: /archives/2008/03/everything-i-know-about-the-novint-falcon.php
+   [2]: /pdf/claveldelta.pdf
    [3]: http://www.youtube.com/watch?v=TD1LHejil6M
-   [4]: http://farm4.static.flickr.com/3067/2415446632_2a7f2f9061.jpg
-   [5]: http://www.flickr.com/photos/qdot76367/2415446632/ (Diagram of IK/DK Derivations for a Clavel DELTA Robot by qdot76367, on Flickr)
+   [4]: https://farm4.static.flickr.com/3067/2415446632_2a7f2f9061.jpg
+   [5]: https://www.flickr.com/photos/qdot76367/2415446632/ (Diagram of IK/DK Derivations for a Clavel DELTA Robot by qdot76367, on Flickr)
 

@@ -41,7 +41,7 @@ So, I learned something valuable out of all this. In a world where you don't nee
 
 And lord knows, there's a ton of people out there who want a world without Windows. 
 
-   [1]: http://www.flickr.com/photos/80226255@N00/31773694/
+   [1]: https://www.flickr.com/photos/80226255@N00/31773694/
    [2]: http://www.sluniverse.com/pics/pic.aspx?id=32510&sort=PictureID+desc&Search=qdot
    [3]: http://www.sluniverse.com/pics/pic.aspx?id=32508&sort=PictureID+desc&Search=qdot
    [4]: http://www.sluniverse.com/pics/pic.aspx?id=32511&sort=PictureID+desc&Search=qdot

@@ -13,14 +13,14 @@ Made a USB reference implementation using the [USBTiny][5] firmware only USB 1.1
 [usbref][8]
 Originally uploaded by [qdot76367][4].
 
-   [1]: http://static.flickr.com/118/307480691_abb27edfe1_m.jpg
-   [2]: http://www.flickr.com/photos/80226255@N00/307480691/
-   [3]: http://www.flickr.com/photos/80226255@N00/307480691/
-   [4]: http://www.flickr.com/people/80226255@N00/
+   [1]: https://static.flickr.com/118/307480691_abb27edfe1_m.jpg
+   [2]: https://www.flickr.com/photos/80226255@N00/307480691/
+   [3]: https://www.flickr.com/photos/80226255@N00/307480691/
+   [4]: https://www.flickr.com/people/80226255@N00/
    [5]: http://www.xs4all.nl/~dicks/avr/usbtiny/
-   [6]: http://static.flickr.com/122/307494866_208f2b9503_m.jpg
-   [7]: http://www.flickr.com/photos/80226255@N00/307494866/
-   [8]: http://www.flickr.com/photos/80226255@N00/307494866/
+   [6]: https://static.flickr.com/122/307494866_208f2b9503_m.jpg
+   [7]: https://www.flickr.com/photos/80226255@N00/307494866/
+   [8]: https://www.flickr.com/photos/80226255@N00/307494866/
    [9]: http://www.technorati.com/tag/electronics
    [10]: http://www.technorati.com/tag/leds
    [11]: http://www.technorati.com/tag/projects

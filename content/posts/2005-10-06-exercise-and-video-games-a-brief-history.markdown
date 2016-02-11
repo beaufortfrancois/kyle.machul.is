@@ -49,25 +49,25 @@ The NexFit, somewhat like the Puffer Project, provides a full exercise bike setu
 
 It costs $2500.
 
-   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-10-06-exercise-and-video-games-a-brief-history/exercise_vg.jpg
-   [2]: http://www.nonpolynomial.com/archives/2005/10/exercise_vg.php
+   [1]: /images/2005-10-06-exercise-and-video-games-a-brief-history/exercise_vg.jpg
+   [2]: /archives/2005/10/exercise_vg.php
    [3]: http://
-   [4]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-10-06-exercise-and-video-games-a-brief-history/puffer.jpg
+   [4]: /images/2005-10-06-exercise-and-video-games-a-brief-history/puffer.jpg
    [5]: http://www.atarihq.com/othersec/puffer/
-   [6]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-10-06-exercise-and-video-games-a-brief-history/powerpad.jpg
+   [6]: /images/2005-10-06-exercise-and-video-games-a-brief-history/powerpad.jpg
    [7]: http://www.gamersgraveyard.com/repository/nes/peripherals/powerpad.html
    [8]: http://www.planetnintendo.com/nindb/nes/un.shtml
    [9]: http://www.planetnintendo.com/nindb/nes/ae.shtml
-   [10]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-10-06-exercise-and-video-games-a-brief-history/ddr.jpg
+   [10]: /images/2005-10-06-exercise-and-video-games-a-brief-history/ddr.jpg
    [11]: http://en.wikipedia.org/wiki/Dance_Dance_Revolution
    [12]: http://www.klov.com/game_detail.php?letter=M&game_id=8724
    [13]: http://www.channelbeat.com/products/dance/para_para__paradise_series.html
-   [14]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-10-06-exercise-and-video-games-a-brief-history/neoracer.jpg
+   [14]: /images/2005-10-06-exercise-and-video-games-a-brief-history/neoracer.jpg
    [15]: http://www.neoracer.com/
-   [16]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-10-06-exercise-and-video-games-a-brief-history/eloton.jpg
+   [16]: /images/2005-10-06-exercise-and-video-games-a-brief-history/eloton.jpg
    [17]: http://www.amazon.com/exec/obidos/tg/detail/-/B0001SJZD4/002-1896665-7767263?v=glance
-   [18]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-10-06-exercise-and-video-games-a-brief-history/yourself.jpg
-   [19]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-10-06-exercise-and-video-games-a-brief-history/fpgamerunner.jpg
+   [18]: /images/2005-10-06-exercise-and-video-games-a-brief-history/yourself.jpg
+   [19]: /images/2005-10-06-exercise-and-video-games-a-brief-history/fpgamerunner.jpg
    [20]: http://www.fpgamerunner.com
-   [21]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-10-06-exercise-and-video-games-a-brief-history/nexfit.jpg
+   [21]: /images/2005-10-06-exercise-and-video-games-a-brief-history/nexfit.jpg
 

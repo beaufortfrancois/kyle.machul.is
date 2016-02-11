@@ -11,8 +11,8 @@ In the interest of seeing what happens when I build my own usability interfaces,
 
 This setup seems completely natural to me, but looking at it this way, it's interesting to see what could be changed and optimized to either be lower in the tree or accessed differently.
 
-   [1]: http://farm1.static.flickr.com/158/390871575_c475a623e1_m.jpg
-   [2]: http://www.flickr.com/photos/80226255@N00/390871575/
-   [3]: http://www.flickr.com/photos/80226255@N00/390871575/
-   [4]: http://www.flickr.com/people/80226255@N00/
+   [1]: https://farm1.static.flickr.com/158/390871575_c475a623e1_m.jpg
+   [2]: https://www.flickr.com/photos/80226255@N00/390871575/
+   [3]: https://www.flickr.com/photos/80226255@N00/390871575/
+   [4]: https://www.flickr.com/people/80226255@N00/
 

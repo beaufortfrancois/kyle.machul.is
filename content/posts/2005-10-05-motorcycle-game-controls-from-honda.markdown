@@ -12,7 +12,7 @@ Wish we could get one of these for the LifeCycle Project.
 Via [Engadget][4]
 
    [1]: http://www.nihoncarandbike.com/news/Le+Riding+Simulator+de+Honda+%21
-   [2]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-10-05-motorcycle-game-controls-from-honda/hondabars.jpg
+   [2]: /images/2005-10-05-motorcycle-game-controls-from-honda/hondabars.jpg
    [3]: http://www.newscientist.com/article.ns?id=mg18825196.000&feedId=online-news_rss20
    [4]: http://www.gizmodo.com/gadgets/gadgets/no-road-rash-all-motorcycle-129057.php
 

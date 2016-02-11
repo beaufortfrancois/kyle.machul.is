@@ -20,8 +20,8 @@ PureData:
 Is there such a thing as a pretty PD patch? I have yet to see one. 
 
    [1]: http://libnifalcon.sf.net
-   [2]: http://farm3.static.flickr.com/2289/2389032528_fcc6668dea.jpg
-   [3]: http://www.flickr.com/photos/qdot76367/2389032528/ (np_nifalcon Max External Tutorial by qdot76367, on Flickr)
-   [4]: http://farm3.static.flickr.com/2336/2391872168_f84a82107a_o.jpg
-   [5]: http://www.flickr.com/photos/qdot76367/2391872168/ (np_nifalcon PureData External Tutorial by qdot76367, on Flickr)
+   [2]: https://farm3.static.flickr.com/2289/2389032528_fcc6668dea.jpg
+   [3]: https://www.flickr.com/photos/qdot76367/2389032528/ (np_nifalcon Max External Tutorial by qdot76367, on Flickr)
+   [4]: https://farm3.static.flickr.com/2336/2391872168_f84a82107a_o.jpg
+   [5]: https://www.flickr.com/photos/qdot76367/2391872168/ (np_nifalcon PureData External Tutorial by qdot76367, on Flickr)
 

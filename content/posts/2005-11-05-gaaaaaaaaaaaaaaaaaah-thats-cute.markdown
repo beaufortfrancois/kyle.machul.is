@@ -9,6 +9,6 @@ So I was doing an google image search on "USB" for images for another blog, and 
 
 Seriously, is there anything that the Japanese CAN'T make cute?
 
-   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-11-05-gaaaaaaaaaaaaaaaaaah-thats-cute/usbintro.jpg
+   [1]: /images/2005-11-05-gaaaaaaaaaaaaaaaaaah-thats-cute/usbintro.jpg
    [2]: http://hatosuzume.hp.infoseek.co.jp/cg.html
 

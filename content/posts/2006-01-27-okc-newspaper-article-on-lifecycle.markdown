@@ -92,5 +92,5 @@ But usually that Monopoly money can't be sold back for real cash, she said. The 
 Brian Brus reports on metro area government, finance, agriculture and other issues. You may reach him by phone at 278-2837 or by e-mail, brian.brus@journalrecord.com.
 
    [1]: http://www.journalrecord.com/
-   [2]: http://www.nonpolynomial.com/content/2005/09/lifecycle.php
+   [2]: /content/2005/09/lifecycle.php
 

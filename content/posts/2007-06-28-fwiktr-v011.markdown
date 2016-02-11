@@ -21,7 +21,7 @@ Some favorites so far:
 
 [Back to the Java Forums][9]
 
-   [1]: http://www.nonpolynomial.com/archives/2007/06/fwiktr_v01.php
+   [1]: /archives/2007/06/fwiktr_v01.php
    [2]: http://www.30helensagree.com/fwiktr/fwiktr_view.php
    [3]: http://30helensagree.com/fwiktr/fwiktr_view.php?art_refresh=0&art_index=28
    [4]: http://www.30helensagree.com/fwiktr/fwiktr_view.php?art_refresh=0&art_index=3399

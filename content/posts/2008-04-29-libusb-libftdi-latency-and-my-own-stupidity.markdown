@@ -133,8 +133,8 @@ Secondly, I obviously didn't have the latency timer set on the ftd2xx version of
 
 Anyways, the moral of the story: Read the god damn spec sheet. And all the addendums. And pay attention to your own notes. 
 
-   [1]: http://farm3.static.flickr.com/2030/2446569720_27520421f3.jpg
-   [2]: http://www.flickr.com/photos/qdot76367/2446569720/ (Comm Trace notes for the Novint Falcon by qdot76367, on Flickr)
+   [1]: https://farm3.static.flickr.com/2030/2446569720_27520421f3.jpg
+   [2]: https://www.flickr.com/photos/qdot76367/2446569720/ (Comm Trace notes for the Novint Falcon by qdot76367, on Flickr)
    [3]: http://libusb.wiki.sourceforge.net/Libusb1.0
    [4]: http://www.ftdichip.com/Documents/AppNotes/AN232B-04_DataLatencyFlow.pdf
 

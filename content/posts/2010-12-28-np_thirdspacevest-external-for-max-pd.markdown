@@ -2,7 +2,7 @@ title: np_thirdspacevest External for Max/MSP and Puredata
 date: 2010-12-28 20:35:21
 
 
-<CENTER><a href="http://www.flickr.com/photos/qdot76367/5301828021/" title="np_thirdspacevest Max/MSP External by qdot76367, on Flickr"><img src="http://farm6.static.flickr.com/5205/5301828021_477f02932a.jpg" width="500" height="241" alt="np_thirdspacevest Max/MSP External" /></a></CENTER>
+<CENTER><a href="https://www.flickr.com/photos/qdot76367/5301828021/" title="np_thirdspacevest Max/MSP External by qdot76367, on Flickr"><img src="https://farm6.static.flickr.com/5205/5301828021_477f02932a.jpg" width="500" height="241" alt="np_thirdspacevest Max/MSP External" /></a></CENTER>
 
 As of last night, I got Windows, OS X, and Linux support working on
 the C version of [libthirdspacevest][1] for the

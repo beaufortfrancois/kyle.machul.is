@@ -6,7 +6,7 @@ Did some work this weekend on making np_epoc a little more usable,
 since v0.1 had VID/PID and encryption keys hardcoded to the headset I
 have.
 
-<a href="http://www.flickr.com/photos/qdot76367/5080605788/" title="np_epoc by qdot76367, on Flickr"><img src="http://farm5.static.flickr.com/4013/5080605788_eb455a1daa.jpg" width="410" height="500" alt="np_epoc" /></a>
+<a href="https://www.flickr.com/photos/qdot76367/5080605788/" title="np_epoc by qdot76367, on Flickr"><img src="https://farm5.static.flickr.com/4013/5080605788_eb455a1daa.jpg" width="410" height="500" alt="np_epoc" /></a>
 
 VID/PID and key are now selectable by users. You can also get a device
 count to make sure you have the VID/PID pair set up correctly.

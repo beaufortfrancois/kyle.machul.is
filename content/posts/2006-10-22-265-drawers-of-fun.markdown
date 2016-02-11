@@ -9,8 +9,8 @@ I decided to search CraigsList for electronics components, and managed to find s
 
 Almost ALL of the parts that came with this stuff are... different from my little logic level sheltered world. They're just odd. Everything seems to be made for extremely high wattage (Including a 10Ohm 50W resistor. It's H00GE. I think I'm going to have resistor kaiju battles with little quarter watt resistors running for their lives all over the desk.), and I have little doubt that 90% of the components are older than I am. I'll be documenting the whole things through flickr and blogging the interesting parts.
 
-   [1]: http://static.flickr.com/111/275899576_4c71728884_m.jpg
-   [2]: http://www.flickr.com/photos/80226255@N00/275899576/
-   [3]: http://www.flickr.com/photos/80226255@N00/275899576/
-   [4]: http://www.flickr.com/people/80226255@N00/
+   [1]: https://static.flickr.com/111/275899576_4c71728884_m.jpg
+   [2]: https://www.flickr.com/photos/80226255@N00/275899576/
+   [3]: https://www.flickr.com/photos/80226255@N00/275899576/
+   [4]: https://www.flickr.com/people/80226255@N00/
 

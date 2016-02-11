@@ -9,7 +9,7 @@ Ok, I already bought mine, so now I can tell other people.
 
 They have them at Lowes for $29! It's SO CUTE! OMG! It's friends with my Robosapien now! YAY!
 
-   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-07-13-omg-robot-lamp/robotlamp.jpg
+   [1]: /images/2005-07-13-omg-robot-lamp/robotlamp.jpg
    [2]: http://www.lowes.com/lowes/lkn?action=productDetail&productId=24700-79995-HL1261&category=15&lpage=none&bc=c
    [3]: http://www.lowes.com
 

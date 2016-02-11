@@ -1,7 +1,7 @@
 title: New Projects at NP Labs
 date: 2009-05-03 13:44:51 
 
-<CENTER><a href="http://www.flickr.com/photos/qdot76367/3497299795/" title="Workin on new toys by qdot76367, on Flickr"><img src="http://farm4.static.flickr.com/3316/3497299795_6293533843_m.jpg" width="240" height="180" alt="Workin on new toys" /></a></CENTER>
+<CENTER><a href="https://www.flickr.com/photos/qdot76367/3497299795/" title="Workin on new toys by qdot76367, on Flickr"><img src="https://farm4.static.flickr.com/3316/3497299795_6293533843_m.jpg" width="240" height="180" alt="Workin on new toys" /></a></CENTER>
 
 Well, another 6 months have come and gone, and I've got a few new projects on the radar here.
 

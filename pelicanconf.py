@@ -66,7 +66,8 @@ SUMMARY_MAX_LENGTH = None
 
 STATIC_PATHS = ['extras/htaccess',
                 'extras/robots.txt',
-                'portfolio/img']
+                'portfolio/img',
+                'images']
 
 EXTRA_PATH_METADATA = {
     'portfolio/img': {'path': 'portfolio/img'},

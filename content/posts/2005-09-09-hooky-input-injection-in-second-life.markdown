@@ -7,6 +7,6 @@ Second Life comes with 2 control mechanisms; keyboard and mouse. There's very li
 
 Through Hooky, users can now control Second Life through any device that is compatible with DirectInput, and soon, any device that can be monitored through system hooks. Joysticks, foot pedals, and kitchen sinks are now all fair game for ways to experience and navigate through the world 
 
-   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-09-09-hooky-input-injection-in-second-life/hooky.jpg
-   [2]: http://www.nonpolynomial.com/content/2005/09/hooky_input_inj.php
+   [1]: /images/2005-09-09-hooky-input-injection-in-second-life/hooky.jpg
+   [2]: /content/2005/09/hooky_input_inj.php
 

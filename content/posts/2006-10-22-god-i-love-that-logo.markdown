@@ -9,8 +9,8 @@ Why did box design for electronics components have to progress past the mid 1960
 
 I want all my components to come in stuff this cool!
 
-   [1]: http://static.flickr.com/44/276555594_d14c037e8a_m.jpg
-   [2]: http://www.flickr.com/photos/80226255@N00/276555594/ (photo sharing)
-   [3]: http://www.flickr.com/photos/80226255@N00/276555594/
-   [4]: http://www.flickr.com/people/80226255@N00/
+   [1]: https://static.flickr.com/44/276555594_d14c037e8a_m.jpg
+   [2]: https://www.flickr.com/photos/80226255@N00/276555594/ (photo sharing)
+   [3]: https://www.flickr.com/photos/80226255@N00/276555594/
+   [4]: https://www.flickr.com/people/80226255@N00/
 

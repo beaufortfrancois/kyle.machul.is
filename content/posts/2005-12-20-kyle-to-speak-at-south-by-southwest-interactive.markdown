@@ -19,7 +19,7 @@ Kyle Machulis (aka qDot, aka qDot Bunnyhug, aka ME) - [Nonpolynomial Labs][8]/[I
 
 Come see us try and discuss emergent sex in video games in a vaguely academic way until we all break down and just start saying naughty words just because we can. I do so love talking about this stuff. 
 
-   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-12-20-kyle-to-speak-at-south-by-southwest-interactive/sxsw2006.gif
+   [1]: /images/2005-12-20-kyle-to-speak-at-south-by-southwest-interactive/sxsw2006.gif
    [2]: http://2006.sxsw.com/interactive/
    [3]: http://www.clickableculture.com
    [4]: http://www.spendthenight.com

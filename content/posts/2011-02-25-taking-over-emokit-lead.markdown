@@ -4,7 +4,7 @@ date: 2011-02-25 15:01:09
 
 They say he who dies with the most maintainerships... dies very tired.
 
-<CENTER><A HREF='http://www.github.com/qdot/emokit/'><IMG SRC='http://images.nonpolynomial.com/nonpolynomial.com/blog/2011-02-25-taking-over-emokit-lead/emotiv.gif' /></A></CENTER>
+<CENTER><A HREF='http://www.github.com/qdot/emokit/'><IMG SRC='/images/2011-02-25-taking-over-emokit-lead/emotiv.gif' /></A></CENTER>
 
 The [emokit][1] project, started by [Daeken][2], aims to provide a
 free driver to access raw data coming from the Emotiv EPOC
@@ -36,4 +36,4 @@ headset itself, so keep an eye on that [on my personal externals page][4].
 [1]: http://www.github.com/qdot/emokit/
 [2]: http://daeken.com/
 [3]: http://www.github.com/qdot/np_epoc/
-[4]: http://www.nonpolynomial.com/externals/
+[4]: /externals/

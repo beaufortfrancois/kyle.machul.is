@@ -15,10 +15,10 @@ Next step is getting all of this out of Max/MSP and into either [PD][7] or [Open
 
    [1]: http://www.rentron.com
    [2]: http://www.rentron.com/remote_control/IRLED.htm#1L2
-   [3]: http://farm3.static.flickr.com/2258/2256612367_255047d5cf_m.jpg
-   [4]: http://www.flickr.com/photos/qdot76367/2256612367/ (sleeper by qdot76367, on Flickr)
-   [5]: http://farm3.static.flickr.com/2285/2256612379_d2f6227706_m.jpg
-   [6]: http://www.flickr.com/photos/qdot76367/2256612379/ (trap by qdot76367, on Flickr)
+   [3]: https://farm3.static.flickr.com/2258/2256612367_255047d5cf_m.jpg
+   [4]: https://www.flickr.com/photos/qdot76367/2256612367/ (sleeper by qdot76367, on Flickr)
+   [5]: https://farm3.static.flickr.com/2285/2256612379_d2f6227706_m.jpg
+   [6]: https://www.flickr.com/photos/qdot76367/2256612379/ (trap by qdot76367, on Flickr)
    [7]: http://puredata.info
    [8]: http://www.openframeworks.cc
 

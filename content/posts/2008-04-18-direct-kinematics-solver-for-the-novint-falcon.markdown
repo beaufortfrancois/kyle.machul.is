@@ -7,6 +7,6 @@ I swear this makes more sense if you actually see it moving, but nonetheless, I 
 
 Outside of the fact that the simulator can't reliably pick which solution it wants to use (meaning sometimes it thinks the end effector ends up behind the fixed frame, oops), and that it's not mirroring the exact wonky angles the Falcon axes come out at, it works! And all in under a day's work. Not bad for being a little rusty on my OGL. 
 
-   [1]: http://farm4.static.flickr.com/3200/2422071335_9eb017d3f7.jpg
-   [2]: http://www.flickr.com/photos/qdot76367/2422071335/ (OpenGL Falcon Direct Kinematics Solver by qdot76367, on Flickr)
+   [1]: https://farm4.static.flickr.com/3200/2422071335_9eb017d3f7.jpg
+   [2]: https://www.flickr.com/photos/qdot76367/2422071335/ (OpenGL Falcon Direct Kinematics Solver by qdot76367, on Flickr)
 

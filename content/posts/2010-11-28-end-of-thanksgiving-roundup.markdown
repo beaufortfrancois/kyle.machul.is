@@ -53,8 +53,8 @@ news:
 [7]: http://libnifalcon.nonpolynomial.com
 [8]: http://www.github.com/qdot/compily_buildd
 [9]: http://code.google.com/p/phantom-drivers/
-[10]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2010-11-28-end-of-thanksgiving-roundup/kinect-teardown.jpg
+[10]: /images/2010-11-28-end-of-thanksgiving-roundup/kinect-teardown.jpg
 [11]: http://www.openkinect.org
-[12]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2010-11-28-end-of-thanksgiving-roundup/jerkcity.png
+[12]: /images/2010-11-28-end-of-thanksgiving-roundup/jerkcity.png
 [13]: https://github.com/qdot/jerkcity-project
-[14]: http://www.nonpolynomial.com/externals
+[14]: /externals

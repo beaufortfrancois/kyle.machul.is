@@ -17,15 +17,15 @@ All drivers, no applications. Maybe I should actually write something to use thi
 [1]: http://www.github.com/mojombo/jekyll
 [2]: http://www.github.com
 [3]: http://www.counter-productive.com
-[4]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2009-07-18-new-software-project-icons-and-pages/libnifalcon.jpg
+[4]: /images/2009-07-18-new-software-project-icons-and-pages/libnifalcon.jpg
 [5]: http://qdot.github.com/libnifalcon
-[6]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2009-07-18-new-software-project-icons-and-pages/libambx.jpg
+[6]: /images/2009-07-18-new-software-project-icons-and-pages/libambx.jpg
 [7]: http://qdot.github.com/libambx
-[8]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2009-07-18-new-software-project-icons-and-pages/liblightstone.jpg
+[8]: /images/2009-07-18-new-software-project-icons-and-pages/liblightstone.jpg
 [9]: http://qdot.github.com/liblightstone
-[10]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2009-07-18-new-software-project-icons-and-pages/libomron.jpg
+[10]: /images/2009-07-18-new-software-project-icons-and-pages/libomron.jpg
 [11]: http://qdot.github.com/libomron
-[12]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2009-07-18-new-software-project-icons-and-pages/libtrancevibe.jpg
+[12]: /images/2009-07-18-new-software-project-icons-and-pages/libtrancevibe.jpg
 [13]: http://qdot.github.com/libtrancevibe
 
 

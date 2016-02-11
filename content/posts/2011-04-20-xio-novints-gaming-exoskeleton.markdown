@@ -19,7 +19,7 @@ was shown at E3?). Successful stealth mode.
 
 What came out of the merger...
 
-[![](http://images.nonpolynomial.com/nonpolynomial.com/blog/2011-04-20-xio-novints-gaming-exoskeleton/xioarm.jpg)](http://novint.com/index.php?option=com_content&view=article&id=76&Itemid=178)
+[![](/images/2011-04-20-xio-novints-gaming-exoskeleton/xioarm.jpg)](http://novint.com/index.php?option=com_content&view=article&id=76&Itemid=178)
 
 is a partial exoskeleton for gaming.
 
@@ -78,5 +78,5 @@ onto this as well. I can't wait to get my hands on (and in) the XIO.
 [5]: http://www.tngames.com
 [6]: http://www.twitter.com/tomlucient
 [7]: http://sites.google.com/site/carlkenner/glovepie
-[8]: http://www.nonpolynomial.com/2008/03/25/everything-i-know-about-the-novint-falcon-as-of-march-2008/
+[8]: /2008/03/25/everything-i-know-about-the-novint-falcon-as-of-march-2008/
 [9]: http://www.forcetekusa.com/

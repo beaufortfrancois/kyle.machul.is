@@ -13,10 +13,10 @@ Wednesday, March 5th, it's off to [O'Reillys Emerging Technologies Conference][6
 
 And then... Nothing. Yes, I have absolutely no planned speaking engagements after that, and I plan on keeping it that way for a while. 
 
-   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2008-02-18-upcoming-conference-list/gdc2008.jpg
+   [1]: /images/2008-02-18-upcoming-conference-list/gdc2008.jpg
    [2]: http://www.gdconf.com
    [3]: https://www.cmpevents.com/GD08/a.asp?option=C&V=11&SessID=6397
    [4]: https://www.cmpevents.com/GD08/a.asp?option=C&V=11&SessID=6548
-   [5]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2008-02-18-upcoming-conference-list/etech2008.jpg
+   [5]: /images/2008-02-18-upcoming-conference-list/etech2008.jpg
    [6]: http://conferences.oreilly.com/etech/
 

@@ -5,6 +5,6 @@ date: 2007-07-19 19:09:44
 
 Hotel/plan booked, registration finished, I'm goin' to SIGGRAPH! I haven't been this excited about attending a conference in quite a while. Not to mention, this is gonna be possibly the first conference I've been to where I haven't also been speaking. See you there! 
 
-   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2007-07-19-kyle--siggraph-2007/siggraph2007.jpg
+   [1]: /images/2007-07-19-kyle--siggraph-2007/siggraph2007.jpg
    [2]: http://www.siggraph.org/s2007/
 

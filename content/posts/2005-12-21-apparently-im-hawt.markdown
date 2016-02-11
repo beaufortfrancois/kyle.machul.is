@@ -9,5 +9,5 @@ So, for those of you that knew me when I looked like [this][3] or [this][4] (for
    [2]: http://www.tinynibbles.com
    [3]: http://www.numberporn.com/gallery/TheYoungqDot01/kyle2
    [4]: http://www.numberporn.com/gallery/TheYoungqDot/kyle21
-   [5]: http://www.flickr.com/photos/80226255@N00/73357881/
+   [5]: https://www.flickr.com/photos/80226255@N00/73357881/
 

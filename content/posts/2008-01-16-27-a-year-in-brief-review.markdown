@@ -40,7 +40,7 @@ Well. It was no [2005][13], but it'll do.
    [5]: http://qdot.livejournal.com/220788.html
    [6]: http://qdot.livejournal.com/231282.html
    [7]: http://www.synthtopia.com/content/2007/11/26/moaning-lisa/
-   [8]: http://www.flickr.com/photos/qdot76367/sets/72157601249957353/
+   [8]: https://www.flickr.com/photos/qdot76367/sets/72157601249957353/
    [9]: http://www.monochrom.at/arse-elektronika/about.html
    [10]: http://sourceforge.net/projects/libnifalcon
    [11]: http://sourceforge.net/projects/libtrancevibe

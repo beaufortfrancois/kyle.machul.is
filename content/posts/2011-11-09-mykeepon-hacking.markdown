@@ -15,10 +15,10 @@ firmware is available at:
 
 **UPDATE 2011-11-14:**
 
-Keepon hacking has made a major step! Thanks to [mAngO on the comment thread for my last keepon post](http://www.nonpolynomial.com/2011/11/09/mykeepon-hacking/#comment-359766077),
+Keepon hacking has made a major step! Thanks to [mAngO on the comment thread for my last keepon post](/2011/11/09/mykeepon-hacking/#comment-359766077),
 we now know that grounding out the bus during keepon's powerup allows
 you to act as the master to the bus!
-[There's a Proof of Concept video posted on youtube now.](http://www.nonpolynomial.com/2011/11/14/keepon-hacking-proof-of-concept/).
+[There's a Proof of Concept video posted on youtube now.](/2011/11/14/keepon-hacking-proof-of-concept/).
 I'm leaving the rest of this post as it was when I first wrote it for
 history sake, but the information in it plus knowing that you just
 need to hold down the I2C lines for a second when the keepon powers up
@@ -57,7 +57,7 @@ available for updates on keepon hacking are:
 * [The Keepoff Project Github Site](http://www.github.com/qdot/keepoff)
 * [Keepon Reverse Engineering Doc](https://github.com/qdot/keepoff/blob/master/doc/keepon_reverse_engineering.asciidoc)
 * [My twitter account for real time updates](http://www.twitter.com/qdot)
-* [My flickr account, for pictures when I remember to upload them](http://www.flickr.com/photos/qdot76367)
+* [My flickr account, for pictures when I remember to upload them](https://www.flickr.com/photos/qdot76367)
 
 ## Default Interfaces (i.e. What It's Supposed to Do)
 
@@ -65,7 +65,7 @@ The MyKeepon robot isn't the most complicated toy in the world. The
 main selling points of the toy are that it's cute, it's interactive, it
 can dance to your music, and it's cute. 
 
-<CENTER><a href="http://www.flickr.com/photos/qdot76367/6326487862/" title="photo.JPG by qdot76367, on Flickr"><img src="http://farm7.static.flickr.com/6214/6326487862_2f74c73eec_m.jpg" width="180" height="240" alt="photo.JPG"></a></CENTER>
+<CENTER><a href="https://www.flickr.com/photos/qdot76367/6326487862/" title="photo.JPG by qdot76367, on Flickr"><img src="https://farm7.static.flickr.com/6214/6326487862_2f74c73eec_m.jpg" width="180" height="240" alt="photo.JPG"></a></CENTER>
 
 To establish the interactive cuteness, the following interfaces are
 available to users:
@@ -75,7 +75,7 @@ available to users:
   one on the top of the head.
 * A Microphone in the nose  
 
-<CENTER><a href="http://www.flickr.com/photos/qdot76367/6325747781/" title="photo.JPG by qdot76367, on Flickr"><img src="http://farm7.static.flickr.com/6031/6325747781_19068f41db_m.jpg" width="240" height="180" alt="photo.JPG"></a></CENTER>
+<CENTER><a href="https://www.flickr.com/photos/qdot76367/6325747781/" title="photo.JPG by qdot76367, on Flickr"><img src="https://farm7.static.flickr.com/6031/6325747781_19068f41db_m.jpg" width="240" height="180" alt="photo.JPG"></a></CENTER>
 
 There's 4 degrees of freedom in movement for the MyKeepon (X-Axis
 horizontal, Y-Axis up, Z-axis thru):
@@ -110,14 +110,14 @@ they give a TON of info about the plug sizes needed in the manual, a
 surprising, rarely seen bit of information). The 12V runs to the
 motors, and is stepped down to 3.3v for the internal circuit.
 
-<CENTER><a href="http://www.flickr.com/photos/qdot76367/6326491472/" title="photo.JPG by qdot76367, on Flickr"><img src="http://farm7.static.flickr.com/6221/6326491472_d923ca47ba_m.jpg" width="180" height="240" alt="photo.JPG"></a></CENTER>
+<CENTER><a href="https://www.flickr.com/photos/qdot76367/6326491472/" title="photo.JPG by qdot76367, on Flickr"><img src="https://farm7.static.flickr.com/6221/6326491472_d923ca47ba_m.jpg" width="180" height="240" alt="photo.JPG"></a></CENTER>
 
 Each of the motors has an encoding mechanism on it, but I haven't
 really done much work figuring out exactly what it is yet. I believe
 the largest motor for turning the base is a regular gear motor (see
 encoding conjecture below), but the bend motors may be small servos.
 
-<CENTER><a href="http://www.flickr.com/photos/qdot76367/6325743721/" title="photo.JPG by qdot76367, on Flickr"><img src="http://farm7.static.flickr.com/6219/6325743721_6cf38e9db2_m.jpg" width="240" height="180" alt="photo.JPG"></a></CENTER>
+<CENTER><a href="https://www.flickr.com/photos/qdot76367/6325743721/" title="photo.JPG by qdot76367, on Flickr"><img src="https://farm7.static.flickr.com/6219/6325743721_6cf38e9db2_m.jpg" width="240" height="180" alt="photo.JPG"></a></CENTER>
 
 On the circuit board, there are 3 pins (see picture below) that come
 in contact with this piece that's mounted on top of the battery pack.
@@ -133,9 +133,9 @@ manual.
 There's one main circuit board in the MyKeepon, with 2 very odd
 processors. 
 
-<CENTER><a href="http://www.flickr.com/photos/qdot76367/6296272375/"
+<CENTER><a href="https://www.flickr.com/photos/qdot76367/6296272375/"
 title="Keepon circuit by qdot76367, on Flickr"><img
-src="http://farm7.static.flickr.com/6031/6296272375_8de75e398b.jpg"
+src="https://farm7.static.flickr.com/6031/6296272375_8de75e398b.jpg"
 width="500" height="375" alt="Keepon circuit"></a></CENTER>
 
 The microprocessors are 
@@ -216,7 +216,7 @@ that there's some way to easily access the hardware on the board.
 
 ## Simple Modifications 
 
-<CENTER><a href="http://www.flickr.com/photos/qdot76367/6326494230/" title="photo.JPG by qdot76367, on Flickr"><img src="http://farm7.static.flickr.com/6034/6326494230_3462cb3a72_m.jpg" width="180" height="240" alt="photo.JPG"></a></CENTER>
+<CENTER><a href="https://www.flickr.com/photos/qdot76367/6326494230/" title="photo.JPG by qdot76367, on Flickr"><img src="https://farm7.static.flickr.com/6034/6326494230_3462cb3a72_m.jpg" width="180" height="240" alt="photo.JPG"></a></CENTER>
 
 I've only made a couple of small modications so far. The first is
 running a wire from the I2C pads out of the bot. I dremeled a small

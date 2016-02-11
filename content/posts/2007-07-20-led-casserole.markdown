@@ -21,14 +21,14 @@ The whole thing is powered off the USB line, the MOSFET just works as a simple s
 
 Onto the next project! 
 
-   [1]: http://farm2.static.flickr.com/1377/856694995_c1a0f5d0fc.jpg
-   [2]: http://www.flickr.com/photos/qdot76367/856694995/ (Photo Sharing)
-   [3]: http://farm2.static.flickr.com/1026/856695049_a0565914f3_m.jpg
-   [4]: http://www.flickr.com/photos/qdot76367/856695049/ (Photo Sharing)
+   [1]: https://farm2.static.flickr.com/1377/856694995_c1a0f5d0fc.jpg
+   [2]: https://www.flickr.com/photos/qdot76367/856694995/ (Photo Sharing)
+   [3]: https://farm2.static.flickr.com/1026/856695049_a0565914f3_m.jpg
+   [4]: https://www.flickr.com/photos/qdot76367/856695049/ (Photo Sharing)
    [5]: http://www.maruwa.com/
    [6]: http://www.smartstim.com
-   [7]: http://farm2.static.flickr.com/1089/856701475_88da2c6212.jpg
-   [8]: http://www.flickr.com/photos/qdot76367/856701475/ (Photo Sharing)
+   [7]: https://farm2.static.flickr.com/1089/856701475_88da2c6212.jpg
+   [8]: https://www.flickr.com/photos/qdot76367/856701475/ (Photo Sharing)
    [9]: http://www.phoenixent.com/
    [10]: http://www.xs4all.nl/~dicks/avr/usbtiny/
 

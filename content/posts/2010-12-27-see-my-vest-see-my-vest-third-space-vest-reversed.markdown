@@ -42,6 +42,6 @@ http://www.youtube.com/watch?v=q76cphm7hFI
 [1]: http://www.tngames.com
 [2]: https://github.com/qdot/libthirdspacevest/blob/master/doc/third_space_vest_reverse_engineering.asciidoc
 [3]: http://pyusb.berlios.de/
-[4]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2010-12-27-see-my-vest-see-my-vest-third-space-vest-reversed/thirdspacevest.jpg
+[4]: /images/2010-12-27-see-my-vest-see-my-vest-third-space-vest-reversed/thirdspacevest.jpg
 [5]: http://www.openkinect.org
 [6]: http://github.com/qdot/libthirdspacevest/

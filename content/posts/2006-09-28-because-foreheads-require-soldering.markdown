@@ -9,9 +9,9 @@ So for some reason, I decided my [MaleBots][5] (NSFW) account needed a profile p
 
 God damn, the geekiness hurts me. Except, it's my own geekiness. THE CYCLE BEGINS.
 
-   [1]: http://static.flickr.com/90/254623744_da147e8004_m.jpg
-   [2]: http://www.flickr.com/photos/80226255@N00/254623744/
-   [3]: http://www.flickr.com/photos/80226255@N00/254623744/
-   [4]: http://www.flickr.com/people/80226255@N00/
+   [1]: https://static.flickr.com/90/254623744_da147e8004_m.jpg
+   [2]: https://www.flickr.com/photos/80226255@N00/254623744/
+   [3]: https://www.flickr.com/photos/80226255@N00/254623744/
+   [4]: https://www.flickr.com/people/80226255@N00/
    [5]: http://www.malebots.com
 

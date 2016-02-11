@@ -110,7 +110,7 @@ I began this conference as an engineer, with no formal writing skills whatsoever
 
 Now, I was an engineer who knew some writers. Truly, I had grown.
 
-   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-11-01-austin-games-conference-days-0-and-1-not-so-live-blogged/agc.jpg
+   [1]: /images/2005-11-01-austin-games-conference-days-0-and-1-not-so-live-blogged/agc.jpg
    [2]: http://www.gameconference.com
    [3]: http://www.bible-prophecy.com/babylon.htm
    [4]: http://www.rubytuesday.com/

@@ -122,7 +122,7 @@ Next Post: The 2005 qDot Awards.
    [13]: http://www.secondlife.com
    [14]: http://www.mmorgy.com
    [15]: http://www.igda.org/sex/archives/2005/09/kyle_machulis_j.html
-   [16]: http://www.nonpolynomial.com/content/projects.php
+   [16]: /content/projects.php
    [17]: http://etecok.com/nedc/WildWest.html
    [18]: http://secondlife.blogs.com/nwn/2005/10/_on_a_bicycle_b.html
    [19]: http://events.ccc.de/congress/2005/fahrplan/events/931.en.html

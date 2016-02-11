@@ -9,6 +9,6 @@ Second Life can be an incredibly immersive world, seeing that it is based solely
 
 Biking is the first of these controls we have decided to implement, because it is so ubiquitous. The bicycle is used around the world for cheap, self-powered transportation, and has embedded itself into many interesting contextual situations. Romantic ideas such as biking through the park or using paddle boats, the thrill of the Tour De France, the metaphor of training wheels, are all based on bicycles. Using the LifeCycle, users will now be able to move themselves from place to place in the Second Life world using a stationary exercise bike. 
 
-   [1]: http://images.nonpolynomial.com/nonpolynomial.com/blog/2005-10-03-lifecycle-v10-first-life-locomotion-in-second-life/lifecycle.jpg
-   [2]: http://www.nonpolynomial.com/content/2005/09/lifecycle.php
+   [1]: /images/2005-10-03-lifecycle-v10-first-life-locomotion-in-second-life/lifecycle.jpg
+   [2]: /content/2005/09/lifecycle.php
 

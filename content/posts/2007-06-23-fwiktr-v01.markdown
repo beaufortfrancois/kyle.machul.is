@@ -109,10 +109,10 @@ So, that's it for right now. Fwiktr is slaving away throwing new files up on the
    [9]: http://www.901am.com/2007/mashing-mashups-every-twitterer-tells-a-story-dont-they.html
    [10]: http://incident.net/works/flussgeist/waiting/flash/index.html
    [11]: http://windowsvistablog.com/blogs/windowsexperience/archive/2007/05/01/wpf-screensaver-flittrbook-from-mix07.aspx
-   [12]: http://www.nonpolynomial.com/fwiktr.txt
-   [13]: http://farm2.static.flickr.com/1110/594318483_1c8fd484c2.jpg
-   [14]: http://farm2.static.flickr.com/1259/594386622_48f11538a0.jpg
-   [15]: http://farm2.static.flickr.com/1250/592326463_dab506a4f2.jpg
+   [12]: /fwiktr.txt
+   [13]: https://farm2.static.flickr.com/1110/594318483_1c8fd484c2.jpg
+   [14]: https://farm2.static.flickr.com/1259/594386622_48f11538a0.jpg
+   [15]: https://farm2.static.flickr.com/1250/592326463_dab506a4f2.jpg
    [16]: http://www.30helensagree.com/28e9ece0-e890-4e0b-a212-927bd15e19c4.html
    [17]: http://www.30helensagree.com/5fe7711d-4466-4e7c-ad45-032dad2508e1.html
    [18]: http://www.30helensagree.com/d250ddff-3e37-46d2-8834-f380d0fd2c83.html

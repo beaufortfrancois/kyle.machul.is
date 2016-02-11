@@ -78,8 +78,8 @@ To be fair, it was actively gnawing on some guy's head when they shot it.
 i'm in ur eharmonies, communicatin' wif ur matches. 
 
    [1]: http://www.30helensagree.com/mcinterwebz/
-   [2]: http://farm3.static.flickr.com/2189/2139791847_34dca32750_m.jpg
-   [3]: http://www.flickr.com/photos/qdot76367/2139791847/ (twittercore by qdot76367, on Flickr)
+   [2]: https://farm3.static.flickr.com/2189/2139791847_34dca32750_m.jpg
+   [3]: https://www.flickr.com/photos/qdot76367/2139791847/ (twittercore by qdot76367, on Flickr)
    [4]: http://www.robotspeak.com
    [5]: http://www.twitter.com
    [6]: http://www.30helensagree.com/mcinterwebz/twittercore1.mp3

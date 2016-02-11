@@ -40,21 +40,21 @@ So, that was my weekend. The project still has a long way to go. I've got 2 more
 Have any interesting ideas for this project? Please leave comments! Seems like there's a million places this could go. 
 
    [1]: http://www.cs.cmu.edu/~johnny/projects/wii/
-   [2]: http://farm3.static.flickr.com/2380/2192046336_40962cb9bc.jpg
-   [3]: http://www.flickr.com/photos/qdot76367/2192046336/ (yoyoproject by qdot76367, on Flickr)
-   [4]: http://farm3.static.flickr.com/2239/2191251499_bd418c6510.jpg
-   [5]: http://www.flickr.com/photos/qdot76367/2191251499/ (yoyoproject 005 by qdot76367, on Flickr)
-   [6]: http://farm3.static.flickr.com/2415/2192039408_30013b1db0.jpg
-   [7]: http://www.flickr.com/photos/qdot76367/2192039408/ (yoyoproject 006 by qdot76367, on Flickr)
-   [8]: http://farm3.static.flickr.com/2277/2192039620_3792f6a831.jpg
-   [9]: http://www.flickr.com/photos/qdot76367/2192039620/ (yoyoproject 009 by qdot76367, on Flickr)
-   [10]: http://farm3.static.flickr.com/2025/2192039668_8ddc30c628.jpg
-   [11]: http://www.flickr.com/photos/qdot76367/2192039668/ (yoyoproject 010 by qdot76367, on Flickr)
+   [2]: https://farm3.static.flickr.com/2380/2192046336_40962cb9bc.jpg
+   [3]: https://www.flickr.com/photos/qdot76367/2192046336/ (yoyoproject by qdot76367, on Flickr)
+   [4]: https://farm3.static.flickr.com/2239/2191251499_bd418c6510.jpg
+   [5]: https://www.flickr.com/photos/qdot76367/2191251499/ (yoyoproject 005 by qdot76367, on Flickr)
+   [6]: https://farm3.static.flickr.com/2415/2192039408_30013b1db0.jpg
+   [7]: https://www.flickr.com/photos/qdot76367/2192039408/ (yoyoproject 006 by qdot76367, on Flickr)
+   [8]: https://farm3.static.flickr.com/2277/2192039620_3792f6a831.jpg
+   [9]: https://www.flickr.com/photos/qdot76367/2192039620/ (yoyoproject 009 by qdot76367, on Flickr)
+   [10]: https://farm3.static.flickr.com/2025/2192039668_8ddc30c628.jpg
+   [11]: https://www.flickr.com/photos/qdot76367/2192039668/ (yoyoproject 010 by qdot76367, on Flickr)
    [12]: http://www.iamas.ac.jp/~aka/max/
-   [13]: http://farm3.static.flickr.com/2028/2187280106_abb8570bf4.jpg
-   [14]: http://www.flickr.com/photos/qdot76367/2187280106/ (gerbil by qdot76367, on Flickr)
+   [13]: https://farm3.static.flickr.com/2028/2187280106_abb8570bf4.jpg
+   [14]: https://www.flickr.com/photos/qdot76367/2187280106/ (gerbil by qdot76367, on Flickr)
    [15]: http://sector_y.yoyoing.com/Tricks/String_Tricks/Skin_the_Gerbil/Skin_the_Gerbil.htm
    [16]: http://www.doctorpopular.com
-   [17]: http://farm3.static.flickr.com/2228/2190430077_16ae778335.jpg
-   [18]: http://www.flickr.com/photos/qdot76367/2190430077/ (patchpic by qdot76367, on Flickr)
+   [17]: https://farm3.static.flickr.com/2228/2190430077_16ae778335.jpg
+   [18]: https://www.flickr.com/photos/qdot76367/2190430077/ (patchpic by qdot76367, on Flickr)
 

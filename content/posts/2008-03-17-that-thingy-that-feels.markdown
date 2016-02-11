@@ -36,12 +36,12 @@ The problem here is, neither of the groups can use word of mouth to convey the e
 Not that I have any insight on this, but the box seems to be taken up by lots of pictures of the controller itself, with no informational diagrams about how it's used. In situations where you can't have one out (which is often, since it's awful big), this might help a lot.
 
    [1]: http://libnifalcon.sourceforge.net
-   [2]: http://farm3.static.flickr.com/2148/2342792096_3bd54159cc_m.jpg
-   [3]: http://www.flickr.com/photos/qdot76367/2342792096/ (Novint Falcon Packaging by qdot76367, on Flickr)
-   [4]: http://farm4.static.flickr.com/3177/2342792496_d9a2929660_m.jpg
-   [5]: http://www.flickr.com/photos/qdot76367/2342792496/ (Novint Falcon Packaging by qdot76367, on Flickr)
-   [6]: http://farm4.static.flickr.com/3045/2342792768_4a8524150e_m.jpg
-   [7]: http://www.flickr.com/photos/qdot76367/2342792768/ (Novint Falcon Packaging by qdot76367, on Flickr)
-   [8]: http://farm3.static.flickr.com/2132/2341964071_4544e2965d_m.jpg
-   [9]: http://www.flickr.com/photos/qdot76367/2341964071/ (Novint Falcon Packaging by qdot76367, on Flickr)
+   [2]: https://farm3.static.flickr.com/2148/2342792096_3bd54159cc_m.jpg
+   [3]: https://www.flickr.com/photos/qdot76367/2342792096/ (Novint Falcon Packaging by qdot76367, on Flickr)
+   [4]: https://farm4.static.flickr.com/3177/2342792496_d9a2929660_m.jpg
+   [5]: https://www.flickr.com/photos/qdot76367/2342792496/ (Novint Falcon Packaging by qdot76367, on Flickr)
+   [6]: https://farm4.static.flickr.com/3045/2342792768_4a8524150e_m.jpg
+   [7]: https://www.flickr.com/photos/qdot76367/2342792768/ (Novint Falcon Packaging by qdot76367, on Flickr)
+   [8]: https://farm3.static.flickr.com/2132/2341964071_4544e2965d_m.jpg
+   [9]: https://www.flickr.com/photos/qdot76367/2341964071/ (Novint Falcon Packaging by qdot76367, on Flickr)
 
