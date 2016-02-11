@@ -100,6 +100,9 @@ DISPLAY_BREADCRUMBS = False
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
 SHOW_ARTICLE_CATEGORY = False
 
+PIWIK_URL = "apps.nonpolynomial.com/piwik"
+PIWIK_SITE_ID = "2"
+
 MD_EXTENSIONS = ['codehilite', 'extra', 'video']
 
 import os
