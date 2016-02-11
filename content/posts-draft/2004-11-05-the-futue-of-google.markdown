@@ -1,5 +1,6 @@
-title: The futue of google...
+title: The future of google...
 date: 2004-11-05 12:22:41
+slug: the-future-of-google
 
 [is indexing your underpants...][1]
 
