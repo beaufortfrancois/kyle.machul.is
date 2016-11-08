@@ -3,12 +3,13 @@ ErrorDocument 404 /404/index.html
 
 RewriteEngine On
 
-RewriteRule ^libraries/?$ https://kyle.machulis.com/portfolio/$1 [NC,L,R=301]
-RewriteRule ^libraries/index.html$ https://kyle.machulis.com/portfolio/$1 [NC,L,R=301]
-RewriteRule ^externals/?$ https://kyle.machulis.com/portfolio/$1 [NC,L,R=301]
-RewriteRule ^externals/index.html$ https://kyle.machulis.com/portfolio/$1 [NC,L,R=301]
-RewriteRule ^projects/(.*)$ https://kyle.machulis.com/portfolio/$1 [NC,L,R=301]
-RewriteRule ^projects/?$ https://kyle.machulis.com/portfolio/$1 [NC,L,R=301]
+RewriteRule ^atom_feed.xml?$ https://kyle.machul.is/atom.xml [NC,L,R=301]
+RewriteRule ^libraries/?$ https://kyle.machul.is/portfolio/$1 [NC,L,R=301]
+RewriteRule ^libraries/index.html$ https://kyle.machul.is/portfolio/$1 [NC,L,R=301]
+RewriteRule ^externals/?$ https://kyle.machul.is/portfolio/$1 [NC,L,R=301]
+RewriteRule ^externals/index.html$ https://kyle.machul.is/portfolio/$1 [NC,L,R=301]
+RewriteRule ^projects/(.*)$ https://kyle.machul.is/portfolio/$1 [NC,L,R=301]
+RewriteRule ^projects/?$ https://kyle.machul.is/portfolio/$1 [NC,L,R=301]
 RewriteRule ^2005/07/10/ever-wonder-where-=-and--came-from/?$ https://kyle.machul.is/2005/07/10/ever-wonder-where-and-came-from/ [NC,L,R=301]
 RewriteRule ^2006/01/16/25---in-over-my-head/?$ https://kyle.machul.is/2006/01/16/25-in-over-my-head/ [NC,L,R=301]
 RewriteRule ^2007/07/19/kyle--siggraph-/?$ https://kyle.machul.is/2007/07/19/kyle-siggraph-/ [NC,L,R=301]

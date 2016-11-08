@@ -15,7 +15,8 @@ DEFAULT_LANG = u'en'
 THEME = "themes/kyle.machul.is"
 
 # Feed generation is usually not desired when developing
-FEED_ATOM = ('atom-fb.xml')
+FEED_ATOM = ('atom.xml')
+FEED_RSS = ('index.xml')
 CATEGORY_FEED_ATOM = None
 FEED_ALL_ATOM = None
 FEED_DOMAIN = SITEURL
