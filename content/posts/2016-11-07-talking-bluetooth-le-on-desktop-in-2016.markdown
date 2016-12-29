@@ -117,7 +117,7 @@ Notice the lack of Windows
 there?
 [Looks like they'll get WinRT in 5.8, "platform" support "later".](https://bugreports.qt.io/browse/QTBUG-31674)
 
-### WebBluetooth
+### Web Bluetooth
 
 There is currently
 a [proposed spec](https://webbluetoothcg.github.io/web-bluetooth/)
@@ -125,12 +125,12 @@ being implemented by Google in Blink (the browser engine that backs both
 Chrome and Opera) that will allow webpages to interact with BTLE
 devices. This is slated
 to
-[ship behind a flag in Chrome 54](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/Ono3RWkejAA).
+[ship in Chrome 56](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/Ono3RWkejAA).
 It will support Linux, OS X, Android, and ChromeOS. Windows is
 apparently coming with WinRT later.
 
 Currently,
-[Edge has no stated plans to implement WebBluetooth but it is "Under Consideration"](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/).
+[Edge has no stated plans to implement Web Bluetooth but it is "Under Consideration"](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/).
 [Mozilla is pushing back on spec implementation in Firefox due to privacy concerns,](https://bugzilla.mozilla.org/show_bug.cgi?id=674737),
 though [work is happening in Servo](https://szeged.github.io/servo/).
 
